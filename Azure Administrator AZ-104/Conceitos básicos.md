@@ -47,4 +47,56 @@ Fatores importantes a se considerar ao definir seu grupo de recursos:
 
 Quando quiser reorganizar seus recursos movendo para outro grupo ou assinatura é importante lembrar que tanto o grupo de origem quanto o de destino ficam bloqueados para alterações durante a operação mas continuam respondendo. Antes de iniciar o processo é importante consultar a documentação pois existem algumas limitações.
 
+## 3. Configurar recursos usando modelos do Azure Resource Manager
+
+Benefícios do modelo:
+
+- **Consistência**: linguagem comum independente de ferramenta ou SDK.
+- **Exibem implantações complexas**: ajudam a visualizar recursos na ordem correta de implantação.
+- **Reduzem tarefas manuais**: diminui a possibilidade de erros.
+- **Modelos são código**: é um tipo de infraestrutura como código.
+- **Promovem reutilização**: contém parametros que podem ser preenchidos quando executados.
+- **Simplificam orquestração**: implantar o modelo para implantar todos recursos.
+
+Os modelos são escritos em JSON como no exemplo abaixo:
+
+````json
+{
+    "$schema": "http://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "",
+    "parameters": {},
+    "variables": {},
+    "functions": [],
+    "resources": [],
+    "outputs": {}
+}
+````
+
+Valores a serem preenchidos na implantação podem ser definidos com um limite para 256 parâmetros:
+
+
+````json
+"parameters": {
+    "<parameter-name>" : {
+        "type" : "<type-of-parameter-value>",
+        "defaultValue": "<default-value-of-parameter>",
+        "allowedValues": [ "<array-of-allowed-values>" ],
+        "minValue": <minimum-value-for-int>,
+        "maxValue": <maximum-value-for-int>,
+        "minLength": <minimum-length-for-string-or-array>,
+        "maxLength": <maximum-length-for-string-or-array-parameters>,
+        "metadata": {
+        "description": "<description-of-the parameter>"
+        }
+    }
+}
+````
+
+### Azure Bicep
+
+É uma linguagem específica de domínio (DSL) que usa sintaxe declarativa para implantar recursos e pode ser usada no lugar do JSON. Ela fornce algumas melhorias em relação ao JSON como sintaxe mais simples, módulos, gerenciamente automático de dependências e IntelliSense.
+
+### Modelos de início rápido
+
+São modelos criados pela comunidade que podem ajudar como ponto de partida para seu modelo. O arquivo azuredeploy.json define os recursos que serão implantados e o azuredeploy.parameters.json fornece os valores de que o modelo precisa.
 
