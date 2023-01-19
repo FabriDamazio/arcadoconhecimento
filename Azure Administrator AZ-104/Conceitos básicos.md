@@ -100,3 +100,54 @@ Valores a serem preenchidos na implantação podem ser definidos com um limite p
 
 São modelos criados pela comunidade que podem ajudar como ponto de partida para seu modelo. O arquivo azuredeploy.json define os recursos que serão implantados e o azuredeploy.parameters.json fornece os valores de que o modelo precisa.
 
+## 4. Automatizar usando script com Poweshell
+
+**PowerShell** é fornecido em duas variantes: Windows PowerShell e PowerShell 7.x, que podem ser instalados no Windows, macOS e Linux. O módulo **Az PowerShell** precisa ser instalado para adicionar os comandos da Azure.
+
+O PowerShell permite gravar comandos e executá-los imediatamente. Isso é conhecido como **modo interativo**.
+
+### cmdlets do PowerShell
+
+Um comando do PowerShell é chamado de um **cmdlet** (pronunciado "comând-lét"). Um cmdlet é um comando que manipula um único recurso. O PowerShell base possui diversos cmdlets porém é possível instalar novos comandos. Os cmdlets seguem uma convenção de nomenclatura de verbo-substantivo. Por exemplo, `Get-Process`, `Format-Table` e `Start-Service`.
+
+Os cmdlets são fornecidos em _módulos_. Um módulo do PowerShell é uma DLL que inclui o código para processar cada cmdlet disponível.
+
+### Az PowerShell
+
+**Az** é o nome formal do módulo do Azure PowerShell que contém cmdlets para trabalhar com os recursos do Azure.
+
+### Scripts do PowerShell
+
+Um script do PowerShell é um arquivo de texto que contém comandos e constructos de controle. Os comandos são invocações de cmdlets. Os constructos de controle estão programando recursos como loops, variáveis, parâmetros, comentários etc., fornecidos pelo PowerShell. Arquivos de script do PowerShell têm uma extensão de arquivo **.ps1**.
+
+Se você está gravando scripts do PowerShell no Windows, você pode usar o ISE (Ambiente de Script Integrado).
+
+Uma vez que você tenha escrito o script, execute-o na linha de comando do PowerShell, passando o nome do arquivo precedido por um ponto e uma barra invertida:
+
+````Powershell
+.\myScript.ps1
+````
+
+Variáveis e loops:
+
+````Powershell
+$loc = "East US"
+$adminCredential = Get-Credential
+
+For ($i = 1; $i -lt 3; $i++)
+{
+    $i
+}
+````
+
+Passando parâmetros:
+
+````Powershell
+.\setupEnvironment.ps1 -size 5 -location "East US"
+````
+
+Capturando parâmetros no script:
+
+````Powershell
+param([string]$location, [int]$size)
+````
