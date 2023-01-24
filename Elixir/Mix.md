@@ -135,6 +135,12 @@ end
 Para maiores informações sobre o Mix acesse a [documentação oficial](https://hexdocs.pm/mix/Mix.html).
 
 
+
+
+---
+Tags: #elixir
+
+
 #### Fontes
 
 ["Mix docs"](https://hexdocs.pm/mix/Mix.html). https://hexdocs.pm/. Recuperado em 24 de janeiro de 2023.

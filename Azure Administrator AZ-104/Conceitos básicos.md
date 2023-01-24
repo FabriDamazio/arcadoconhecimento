@@ -151,3 +151,8 @@ Capturando parâmetros no script:
 ````Powershell
 param([string]$location, [int]$size)
 ````
+
+
+
+---
+Tags: #azure #az-104
