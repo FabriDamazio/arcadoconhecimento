@@ -8,5 +8,7 @@ O Azure RBAC (role-base access control) é um sistema de autorização criado co
 - **Scope (escopo**): nível de acesso permitido (grupo, assinatura, recurso, etc).
 - **Assignment (atribuição):** uma *assignment* é o que anexa uma *role definition* a um *security principal* e a um *scope*.
 
+Podemos entender o da seguinte forma:
 
+Security principal (QUEM) -> Role definition (O QUE VOCÊ PODE FAZER) -> Scope (ONDE)
 
