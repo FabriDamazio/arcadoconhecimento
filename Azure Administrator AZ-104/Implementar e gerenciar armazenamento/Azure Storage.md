@@ -1,5 +1,4 @@
 É um repositório de objetos extremamente escalonável para objetos de dados.
-Ele oferece um sistema de arquivos, um repositório de mensagens e um repositório NoSQL.
 
 Podemos considerar compatível com três categorias de dados: dados estruturados (banco de dados), dados não estruturados (blobs, etc) e dados de máquina virtual (discos).
 
@@ -25,4 +24,16 @@ Os domínios de qualquer serviço pode ser personalizado.
 ## Segurança de endpoints do storage
 
 O acesso ao serviço pode ser restrito a sub-redes específicas em redes virtuais ou IP públicos (sub-redes devem existir na mesma região ou par do serviço).
+
+## Ferramentas
+
+### Azure Storage Explorer
+
+É uma aplicação para facilitar o trabalho com Azure Storage para Windows, macOS e Linux.
+
+### AzCopy
+
+Ferramenta de linha de comando para copiar dados para/de um Azure Blob Storage e Azure Files.
+
+
 
