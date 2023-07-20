@@ -40,8 +40,11 @@ Cada máquina virtual em um conjunto de disponibilidade é colocada em um domín
 
 Azure Virtual Machine Scale Sets é um recurso para implantar e gerenciar VMs idênticas. Por serem idênticas é possível ter o dimensionamento automático (autoscaling). Com um conjunto é possível usar o Azure Load Balancer. É suportado até mil VMs com imagem padrão ou 600 personalizadas.
 
-
 ## Extensões de VMs
 
 São pequenos aplicativos que fornecem configuração e automação pós-implantação para as VMs. Instalação de antivirus ou rodar um script de configuração são alguns dos casos de uso. Os scripts possuem um tempo limite de 90 minutos para execução.
+
+## Azure Automation State Configuration
+
+É um serviço do Azure criado no PowerShell. Esse serviço permite que você implemente, monitore com confiabilidade e atualize automaticamente o estado desejado de todos os seus recursos. A Automação do Azure fornece ferramentas para definir configurações e aplicá-las a máquinas reais e virtuais.
 
