@@ -26,3 +26,36 @@ Para cada sub-rede, cinco endereços de IP são reservados (os quatro primeiros 
 - O segundo é configurado como gateway padrão.
 - O terceiro e quarto, a Azure mapeia esses endereços IP do DNS do Azure para o espaço de rede virtual.
 - O ultimo é o endereço de broadcast da rede virtual.
+
+## Peering (emparelhamento)
+
+Permite conectar redes virtuais para que possam comunicar entre si. Após emparelhadas elas funcionam como uma única rede em termos de conectividade.
+
+Vantagens:
+- **Tráfego privado entre as redes**
+- **Baixa latência (maior desempenho)**
+- **Comunicação simplificada entre as redes**
+- **Sem tempo de inatividade**
+
+### Azure VPN Gateway
+
+Quando as redes virtuais são emparelhadas, você pode configurar o Gateway de VPN do Azure na rede virtual emparelhada como um _ponto de trânsito_. Uma rede virtual pode ter apenas um gateway de VPN.
+
+## System routes (rotas do sistema)
+
+O Azure usa _rotas de sistema_ para direcionar o tráfego de rede entre máquinas virtuais, redes locais e a Internet. As informações sobre as rotas do sistema são registradas em uma _tabela de rotas_.
+
+### Rotas definidas pelo usuário (UDR)
+
+O Azure lida automaticamente com todo o roteamento de tráfego de rede, mas, em alguns casos, uma configuração personalizada é preferível usando rotas definidas pelo usuário (UDRs). - Semelhante às rotas do sistema, as UDRs também acessam tabelas de rotas.
+
+## Service Endpoints (pontos de extremidade de serviço)
+
+Podem estender sua identidade de rede virtual para seus recursos e isso permite adicionar regras da rede virtual (para restringir acesso pela internet por exemplo).
+
+## Azure Private Links
+
+Simplifica a arquitetura de rede e protege a conexão entre endpoints no Azure ao eliminar a exposição de dados para a Internet pública mantendo todo o tráfego na rede global da Microsoft.
+
+
+
