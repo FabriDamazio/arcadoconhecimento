@@ -33,13 +33,18 @@ Permite conectar redes virtuais para que possam comunicar entre si. Após empare
 
 Vantagens:
 - **Tráfego privado entre as redes**
+- **Tráfego é roteado por meio da rede da Azure**
 - **Baixa latência (maior desempenho)**
 - **Comunicação simplificada entre as redes**
 - **Sem tempo de inatividade**
 
+Pontos importantes:
+- Somente as redes virtuais diretamente emparelhadas podem se comunicar entre si. Redes virtuais não podem se comunicar com pares de seus pares.
+- Os espaços de endereço IP das redes conectadas no Azure, entre o Azure e o on premise, não podem se sobrepor. Isso também se aplica às redes virtuais emparelhadas.
+
 ### Azure VPN Gateway
 
-Quando as redes virtuais são emparelhadas, você pode configurar o Gateway de VPN do Azure na rede virtual emparelhada como um _ponto de trânsito_. Uma rede virtual pode ter apenas um gateway de VPN.
+Quando as redes virtuais são emparelhadas, você pode configurar o Gateway de VPN do Azure na rede virtual emparelhada como um _ponto de trânsito_. Pode ser usado para enviar tráfego criptografado entre Azure e on-premise pela internet ou entre redes Azure. Uma rede virtual pode ter apenas um gateway de VPN.
 
 ## System routes (rotas do sistema)
 
@@ -57,5 +62,8 @@ Podem estender sua identidade de rede virtual para seus recursos e isso permite 
 
 Simplifica a arquitetura de rede e protege a conexão entre endpoints no Azure ao eliminar a exposição de dados para a Internet pública mantendo todo o tráfego na rede global da Microsoft.
 
+## Network Virtual Appliance (NVA)
 
+Uma NVA (solução de virtualização de rede) é uma solução de virtualização que consiste em várias camadas, tais como: firewall, otimizador de WAN, roteadores, load balancers, etc.
 
+Você pode implantar NVAs escolhidos de provedores no Azure Marketplace. Tais provedores incluem Cisco, Check Point, Barracuda, Sophos, WatchGuard e SonicWall. Você pode usar uma NVA para filtrar o tráfego de entrada para uma rede virtual e bloquear solicitações mal-intencionadas ou solicitações feitas de recursos inesperados.
