@@ -2,6 +2,12 @@ O Serviço de Aplicativo fornece guias de início rápido para vários produtos 
 
 Ao ser criado é necessário ser associado a um App Service Plan e escolhido o sistema operacional.
 
+Resumo de características:
+- Windows ou Linux.
+- Totalmente gerenciado, sem acesso remoto.
+- .NET, .NET Core, Java, Ruby, Node,js, Python e PHP.
+- Benefícios como CI/CD, slots de deployment, integrações com GitHub, Visual Studio, etc.
+
 ## Integração e implantação contínua (CI/CD)
 
 Possui integração com Azure DevOps, Github, BitBucket, FTP ou repositório Git local. Já para implantação manual pode ser usado Git, CLI, Visual Studio ou FTP/S.

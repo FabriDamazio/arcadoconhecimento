@@ -1,5 +1,15 @@
 É a base do modelo IaaS. Fornece sistema operacional, armazenamento e recursos de rede próprios.
 
+Resumo de características:
+- Windows ou Linux
+- Podem ser acessadas remotamente por RDP ou SSH
+- Podem ser colocadas em VNET.
+- Podem ser organizadas em Conjuntos de disponibilidade (availability sets).
+- Podem ficar atrás de Load Balancers.
+- Pode ser instalado qual software desejar.
+- Um servidor é criado em minutos.
+- Vários serviços usam VMs, como AKS, Service Fabric, Azure Batch, etc.
+
 ## Configurando
 
 Checklist para configurar uma VM:

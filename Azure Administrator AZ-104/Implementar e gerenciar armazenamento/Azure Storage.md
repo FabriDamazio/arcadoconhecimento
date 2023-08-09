@@ -2,6 +2,13 @@
 
 Podemos considerar compatível com três categorias de dados: dados estruturados (banco de dados), dados não estruturados (blobs, etc) e dados de máquina virtual (discos).
 
+Resumo de características:
+- Até 5PB de capacidade.
+- Blobs, queues, tables e files.
+- Vários níveis de replicação, de local a global.
+- Tier (hot, cool, archive)
+- Gerenciado (para VMs) e não gerenciados.
+
 ## Serviços fornecidos
 
 Os quatro serviços de dados oferecidos:

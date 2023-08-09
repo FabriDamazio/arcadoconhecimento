@@ -6,6 +6,7 @@ Importantes características:
 - Podem ter armazenamento persistente usando Azure Files.
 - Windows e Linux são suportados.
 - Podem ser implantados em uma rede virtual.
+- Benefícios como CI/CD, slots de deployment, integrações com GitHub, Visual Studio, etc.
 
 ## Grupos de containers
 
