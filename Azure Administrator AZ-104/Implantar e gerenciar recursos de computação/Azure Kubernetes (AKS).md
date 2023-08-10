@@ -24,7 +24,7 @@ As redes virtuais são suportadas no Kubernetes da seguinte maneira:
 - Os nodes são conectados a uma rede virtual que fornece conectividade de entrada e saída para os pods.
 - O componente kube-proxy executa em cada node para fornecer funcionalidades de rede.
 - Políticas de rede configuram segurança e filtro para os pods.
-- Load balancer pode ser utilizado.
+- [[Azure Load Balancer]] pode ser utilizado.
 - Para roteamento de rede mais complexo pode ser usado Ingress Controllers.
 
 ## Armazenamento

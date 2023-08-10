@@ -5,7 +5,7 @@ Resumo de características:
 - Podem ser acessadas remotamente por RDP ou SSH
 - Podem ser colocadas em VNET.
 - Podem ser organizadas em Conjuntos de disponibilidade (availability sets).
-- Podem ficar atrás de Load Balancers.
+- Podem ficar atrás de [[Azure Load Balancer]].
 - Pode ser instalado qual software desejar.
 - Um servidor é criado em minutos.
 - Vários serviços usam VMs, como AKS, Service Fabric, Azure Batch, etc.

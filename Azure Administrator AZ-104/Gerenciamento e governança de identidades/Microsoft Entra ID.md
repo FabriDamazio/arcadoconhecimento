@@ -1,4 +1,4 @@
-Serviço multi-tenant de gerenciamento de diretório e identidade. Pode ser usado para para dar suporte a acesso a recursos internos (rede corporativa) e externos.
+Serviço multi-tenant de gerenciamento de diretório e identidade para cloud. Pode ser usado para para dar suporte a acesso a recursos internos (rede corporativa) e externos. Era conhecido como Azure Active Directory (Azure AD) até setembro de 2023 quando teve seu nome alterado.
 
 ## Principais conceitos
 

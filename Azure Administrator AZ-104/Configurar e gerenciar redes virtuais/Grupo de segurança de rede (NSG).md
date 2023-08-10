@@ -16,7 +16,7 @@ Uma configuração de regra tem as seguintes informações:
 
 Não é possível remover as regras de segurança padrão mas ela pode ser substituída por uma que tenha a prioridade mais alta.
 
-As regras de ENTRADA padrão **negam todo o tráfego de entrada**, exceto o tráfego da rede virtual e dos Azure Load Balancers.
+As regras de ENTRADA padrão **negam todo o tráfego de entrada**, exceto o tráfego da rede virtual e dos [[Azure Load Balancer]].
 
 As regras de SAÍDA padrão **só permitem o tráfego de saída** para a Internet e para a rede virtual.
 

@@ -1,13 +1,19 @@
 Conceitos básicos para se tornar um administrador Azure:
 
-## 1. Utilizar as ferramentas da Azure
+## Utilizar as ferramentas da Azure
 
 - **Portal Azure**: através do portal é possível criar, gerenciar e monitorar todos recursos disponíveis na Azure.
 - **Azure Cloud Shell**: shell interativo que executa no navegador. Pode ser escolhido bash ou PowerShell. Necessita de um File Share (compartilhamento de arquivo) do Azure Storage.
 - **Azure PowerShell**: é um módulo adicionado ao PowerShell para gerenciar os recursos.
 - **Azure CLI**: programa de linha de comando multiplataforma para gerenciar os recursos.
 
-## 2. Conhecer o Azure Resource Manager
+## Account, Tenant e Subscription
+
+As diferenças entre elas:
+- **Account/User:** é uma pessoa ou um programa. Possui um email e senha. É a base pra autenticação. Toda conta é parte de pelo menos um Tenant.
+- **Tenant:** representa uma organização usualmente representada por um domínio público (por exemplo dominio.com). Nem toda tenant precisa de uma subscription.
+- **Subscription:** esta dentro das tenants e é usado para cobrança e organização dos recursos.
+## Conhecer o Azure Resource Manager
 
 O Azure Resource Manager permite trabalhar com os recursos da sua solução como um grupo. Você pode implantar, atualizar ou excluir todos os recursos da sua solução em uma única operação coordenada. Ele fornece recursos de segurança, auditoria e marcação para gerenciar seus recursos.
 
@@ -47,7 +53,7 @@ Fatores importantes a se considerar ao definir seu grupo de recursos:
 
 Quando quiser reorganizar seus recursos movendo para outro grupo ou assinatura é importante lembrar que tanto o grupo de origem quanto o de destino ficam bloqueados para alterações durante a operação mas continuam respondendo. Antes de iniciar o processo é importante consultar a documentação pois existem algumas limitações.
 
-## 3. Configurar recursos usando modelos do Azure Resource Manager
+## Configurar recursos usando modelos do Azure Resource Manager
 
 Benefícios do modelo:
 
@@ -100,7 +106,7 @@ Valores a serem preenchidos na implantação podem ser definidos com um limite p
 
 São modelos criados pela comunidade que podem ajudar como ponto de partida para seu modelo. O arquivo azuredeploy.json define os recursos que serão implantados e o azuredeploy.parameters.json fornece os valores de que o modelo precisa.
 
-## 4. Automatizar usando script com Poweshell
+## Automatizar usando script com Poweshell
 
 **PowerShell** é fornecido em duas variantes: Windows PowerShell e PowerShell 7.x, que podem ser instalados no Windows, macOS e Linux. O módulo **Az PowerShell** precisa ser instalado para adicionar os comandos da Azure.
 
