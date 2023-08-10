@@ -8,9 +8,9 @@ Opções disponíveis para navegar na viewport:
 - Com direito e esquerdo do mouse pressionados ao mesmo tempo da pra andar lateralmente e para cima e para baixo.
 - Com direito ou esquerdo pressionado, ao apertar a letra C ele da um zoom para onde estiver olhando.
 - Com qualquer botão do mouse  pressionado pode-se navegar utilizando WASDQE.
+- Ao segurar o ALT, a visão é travada naquele ponto e você pode navegar com este ponto travado como centro.
 
 Existe um botão com ícone de camera no canto superior onde é possível alterar a velocidade da navegação.
-
 
 ## Visualização
 
@@ -41,4 +41,6 @@ Ao lado existe um botão para que esses movimentos sejam feitos de acordo com o 
 
 Por último existe um ícone que é possível mudar o gizmo do objeto selecionado para ser mostrado em relação a ele mesmo ou ao mundo como um todo.
 
-Para duplicar um objeto basta clicar em algum eixo do gizmo segurando a tecla ALT e move-lo.
+Algumas dicas:
+- Para duplicar um objeto basta clicar em algum eixo do gizmo segurando a tecla ALT e move-lo.
+- Ao mover um objeto, ao segurar shift ao mesmo tempo, a camera se moverá junto com o objeto.
