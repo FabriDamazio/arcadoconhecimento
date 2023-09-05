@@ -49,7 +49,7 @@ Fatores importantes a se considerar ao definir seu grupo de recursos:
 - Os recursos podem ser adicionados ou removidos de um grupo a qualquer momento.
 - Os recursos podem ser movidos de grupo com algumas limitações.
 - Um recurso pode interagir com recursos em outros grupos. Essa interação é comum quando dois recursos estão relacionados, mas não compartilham o mesmo ciclo de vida.
-- Os recursos podem ter controle de acesso para somente leitura e exclusão .
+- Os recursos podem ter controle de acesso para somente leitura e exclusão (**Resource lock**).
 
 Quando quiser reorganizar seus recursos movendo para outro grupo ou assinatura é importante lembrar que tanto o grupo de origem quanto o de destino ficam bloqueados para alterações durante a operação mas continuam respondendo. Antes de iniciar o processo é importante consultar a documentação pois existem algumas limitações.
 
