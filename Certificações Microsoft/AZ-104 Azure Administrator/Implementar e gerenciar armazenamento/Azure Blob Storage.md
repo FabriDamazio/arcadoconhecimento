@@ -6,6 +6,14 @@ Account -> Container -> Blob
 - Um Container pode ter um número ilimitado de Blobs
 - Uma Account pode ter um número ilimitado de Container
 
+## Tipos de Blob
+
+- **Block blobs:** é tratado como um conjunto de blocos. Cada bloco pode variar em tamanho, até 100 MB. Um blob de blocos pode conter até 50 mil blocos, fornecendo um tamanho máximo de mais de 4,7 TB. O bloco é a menor quantidade de dados que podem ser lidos ou gravados como uma unidade individual. São mais bem usados para armazenar objetos binários, grandes e discretos que são alterados com pouca frequência.
+
+- **Page blobs:**  é organizado como uma coleção de páginas de tamanho fixo de 512 bytes. Otimizado para dar suporte a operações de leitura e gravação aleatórias; você pode buscar e armazenar dados para uma página, se necessário. Pode conter até 8 TB de dados. A Azure usa  para implementar o armazenamento em disco virtual para máquinas virtuais.
+
+- **Append blobs**. é um block blob otimizado para dar suporte a operações de acréscimo. Você só pode adicionar blocos ao final; não há suporte à atualização ou à exclusão de blocos existentes. Cada bloco pode variar em tamanho, até 4 MB. O tamanho máximo de um blob é de mais de 195 GB.
+
 ## Container
 
 O Container possui nível de acesso público configurável:
