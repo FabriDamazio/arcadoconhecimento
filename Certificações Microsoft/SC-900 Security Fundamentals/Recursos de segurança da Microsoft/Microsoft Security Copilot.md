@@ -1,0 +1,3 @@
+É uma ferramenta de análise de segurança da plataforma AI que habilita os analistas a responder rapidamente às ameaças, processar sinais e avaliar a exposição ao risco em minutos.
+
+O centro do Copilot de Segurança da Microsoft é a barra de prompt que permite que os analistas de segurança façam perguntas em linguagem natural. Você deve usar a barra de prompt para informar ao Copilot quais insights você deseja obter dos seus dados de segurança.

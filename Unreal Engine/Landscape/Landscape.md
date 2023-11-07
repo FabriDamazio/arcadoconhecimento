@@ -11,3 +11,4 @@ Possui três modos:
 Landscape Material é um tipo de Material usado para pintar seu landscape. Para cria-lo basta criar um Material e adiciona o node "Landscape Layer Blend" e conectar as texturas e os normal maps (como na imagem abaixo). Após criado, adicione o Material ao seu landscape e isso possibilitará que as diferentes texturas sejam usadas no modo "paint".
 
 ![[landscapeMaterial.png]]
+
