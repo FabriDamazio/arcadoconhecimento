@@ -12,3 +12,14 @@ Landscape Material é um tipo de Material usado para pintar seu landscape. Para 
 
 ![[landscapeMaterial.png]]
 
+## Layer info object
+
+Deve ser criado para cada textura usada no landscape material. Podem ser de dois tipos:
+
+### Weight-Blended Layer (normal)
+
+Quando pintado sobre outro layer irá misturar os layers. Por exemplo misturar dois tipos de terrenos como areia ou terra.
+
+### Non Weight-Blended Layer
+
+Quando pintado sobre outro layer NÃO irá misturar os layers e sim empilhar um sobre o outro. Útil por exemplo quando deseja efeitos de neve que deve ficar por cima da terra.
