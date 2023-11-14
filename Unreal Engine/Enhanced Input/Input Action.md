@@ -29,22 +29,32 @@ Listeners podem ser usados para tomar alguma decisão baseada nos Triggers State
 Em C++ basta fazer o bind da ação a função:
 
 ```cpp
+	// Crie a propriedade da Action no header
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Input")
+	TObjectPtr<UInputAction> JumpAction;
+
+	// Declaração da função no header
+	protected:		
+		virtual void Jump() override;	
+	
+	// Faça o bind nesta função
     void AFooBar::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
     {
         UEnhancedInputComponent* Input = Cast<UEnhancedInputComponent>(PlayerInputComponent);
-        // You can bind to any of the trigger events here by changing the "ETriggerEvent" enum value
-        Input->BindAction(AimingInputAction, ETriggerEvent::Triggered, this, &AFooBar::SomeCallbackFunc);
+        // Escolha o evento de Trigger usando o "ETriggerEvent" enum value
+        Input->BindAction(JumpAction, ETriggerEvent::Triggered, this, &AFooBar::Jump);
     }
-
-    void AFooBar::SomeCallbackFunc(const FInputActionInstance& Instance)
+	
+	// Implemente o comportamento da ação
+    void AFooBar::Jump(const FInputActionInstance& Instance)
     {
-        // Get the value of the Input Action for whatever type you want here...
+        // Leia o valor do input dependendo de seu tipo
         FVector VectorValue = Instance.GetValue().Get<FVector>();
         FVector2D 2DAxisValue = Instance.GetValue().Get<FVector2D>();
         float FloatValue = Instance.GetValue().Get<float>(); 
         bool BoolValue = Instance.GetValue().Get<bool>();
 
-        // Do your cool stuff here!
+        // Faça a lógica desejada aqui
     } 
 ```
 
