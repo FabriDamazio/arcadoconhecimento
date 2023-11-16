@@ -2,7 +2,7 @@ Animation Blueprints são Blueprints especializados que controlam a animação d
 
 ## Atribuindo a um Character
 
-O Animation Blueprint deve ser atribuido ao character para ter efeito. Para fazer isso deve mudar as seguintes propriedades:
+O Animation Blueprint deve ser atribuído ao character para ter efeito. Para fazer isso deve mudar as seguintes propriedades:
 
 - **Animation Mode** para o valor **Use Animation Blueprint**.
 - **Anim Class** para o seu blueprint de animação.
@@ -18,7 +18,7 @@ No editor temos acesso a diversas opções e propriedades. As mais importantes s
 
 ### State machines
 
-Dentro do AnimGraph podemos criar **State Machines** para construir a lógica necessária para a locomoção. Nele criamos States (que estao ligadas a uma pose), conectamos uma State ao outro e definimos condições para que sejam avaliadas.
+Dentro do AnimGraph podemos criar **State Machines** para construir a lógica necessária para a locomoção. Nele criamos States (que estão ligadas a uma pose), conectamos uma State ao outro e definimos condições para que sejam avaliadas.
 
 No exemplo abaixo estamos conectando o State Idle com o Run. A bolinha branca representa uma lógica para ser avaliada:
 ![[StateMachine1.png]]
