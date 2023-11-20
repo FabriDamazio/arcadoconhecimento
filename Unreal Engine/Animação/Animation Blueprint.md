@@ -13,7 +13,7 @@ No editor temos acesso a diversas opções e propriedades. As mais importantes s
 
 ### AnimGraph
 
-É onde construímos as lógicas baseadas nas poses do character que serão avaliadas para chegar na pose final daquele frame. Podemos usar State Machines, [[Control Rig]] e outras lógicas como no exemplo abaixo:
+É onde construímos as lógicas baseadas nas poses do character que serão avaliadas para chegar na pose final daquele frame. Podemos usar State Machines, [[IK Rig]] e outras lógicas como no exemplo abaixo:
 ![[AnimGraph.png]]
 
 ### State machines
