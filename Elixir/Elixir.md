@@ -8,5 +8,10 @@ O Elixir é executado na VM Erlang, conhecida por criar sistemas de baixa latên
 - **[[Mix]]**: ferramenta de build.
 - **[[Hex]]**: gerenciador de pacotes.
 
+## Outros 
+
+- [[Maps]]
+- [[Modules attributes]]
+
 ---
 Tags: #elixir

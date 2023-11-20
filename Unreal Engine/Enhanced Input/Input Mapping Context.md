@@ -11,12 +11,12 @@ Os contextos possuem uma lista de Input Actions que são associadas a um ou mais
 ## Adicionando contexto ao player via C++
 
 ```cpp
-    // Expose a mapping context as a property in your header file...
+    // Criando a propriedade no header
     UPROPERTY(EditAnywhere, Category="Input")
     TSoftObjectPtr<UInputMappingContext> InputMapping;
 
      
-    // In your cpp...
+    // Adicionando o contexto no beginplay
     if (ULocalPlayer* LocalPlayer = Cast<ULocalPlayer>(Player))
     {
         if (UEnhancedInputLocalPlayerSubsystem* InputSystem = LocalPlayer->GetSubsystem<UEnhancedInputLocalPlayerSubsystem>())
