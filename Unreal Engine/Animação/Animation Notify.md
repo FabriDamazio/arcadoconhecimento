@@ -2,7 +2,7 @@ Animation Notification (Notifies) são uma forma de configurar e receber eventos
 
 Os Notifies podem ser de diferentes tipos e cada tipo de Notify tem suas próprias propriedades e funcionalidades. Alguns exemplos de uso dos Notifies são:
 
-- **Sound**: Permite reproduzir um som em um ponto específico da animação, como um grito, um tiro ou uma explosão.
+- **Sound**: Permite reproduzir um som em um ponto específico da animação, como um grito, um tiro ou uma explosão. Indicado para serem usados principalmente com MetaSounds.
 - **Particle**: Permite gerar um sistema de partículas em um ponto específico da animação, como uma faísca, uma fumaça ou uma poeira.
 - **Camera**: Permite alterar as propriedades da câmera em um ponto específico da animação, como o campo de visão, a distância focal ou o desfoque de movimento.
 - **Montage**: Permite executar uma Montagem de Animação em um ponto específico da animação, como uma transição, uma combinação ou uma interrupção.
