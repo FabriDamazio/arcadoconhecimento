@@ -12,7 +12,7 @@ TObjectPtr<UAnimMontage> AttackMontage;
 ```
 
 Depois ele deve ser atribuído no Blueprint:
-![[Pasted image 20231121213323.png]]
+![[attackmontage.png]]
 
 ```cpp
 // 
