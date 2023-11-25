@@ -19,3 +19,4 @@ Engine de jogos criada pela Epic Games.
 ## How To's
 
 - [[Como criar um Character]]
+- [[Como configurar as animações do Character]]
