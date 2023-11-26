@@ -196,7 +196,7 @@ Não descreva as coisas mas mostre elas através do que acontece com o personabe
 
 
 # Embedded files
-84f531ab557647708ced717082f7bb32863e46fa: [[Pasted Image 20231125155853_488.png]]
+84f531ab557647708ced717082f7bb32863e46fa: [[Story Structure Chart.png]]
 
 %%
 # Drawing

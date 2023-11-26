@@ -6,7 +6,7 @@ Cada objeto que pode colidir ganha um tipo chamado de **Object Type**. Com base 
 
 ## Trace Responses
 
-Funcionam basicamente da mesma maneira, exceto que o próprio trace (ray cast) pode ser definido como um dos tipos de resposta de trace, permitindo assim que os atores o bloqueiem ou ignorem com base em suas respostas de trace.
+Funcionam basicamente da mesma maneira, exceto que o próprio trace pode ser definido como um dos tipos de resposta de trace, permitindo assim que os atores o bloqueiem ou ignorem com base em suas respostas de trace. Veja mais em [[Traces]].
 
 ## Presets de colisão
 
