@@ -20,6 +20,8 @@ No editor temos acesso a diversas opções e propriedades. As mais importantes s
 
 Dentro do AnimGraph podemos criar **State Machines** para construir a lógica necessária para a locomoção. Nele criamos States (que estão ligadas a uma pose), conectamos uma State ao outro e definimos condições para que sejam avaliadas.
 
+**Geralmente usamos para animações "constantes" (em loop) como idle, walking, run, etc. Para outras animações como ataque, etc utilizamos [[Animation Montage]].**
+
 No exemplo abaixo estamos conectando o State Idle com o Run. A bolinha branca representa uma lógica para ser avaliada:
 ![[StateMachine1.png]]
 
