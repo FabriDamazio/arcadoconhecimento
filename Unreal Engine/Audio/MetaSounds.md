@@ -1,5 +1,7 @@
 MetaSounds é um sistema de áudio de alto desempenho que fornece aos designers de áudio controle completo sobre um gráfico de Processamento de Sinal Digital (DSP) para a geração de fontes sonoras. Oferece personalização, extensibilidade através de ferramentas de terceiro, reutilização de gráficos e uma editor de design de som.
 
+Podemos associar um [[Sound Attenuation]] ao MetaSound para controlar como ele se comporta de acordo com a distância do ouvinte.
+
 ## Criando um MetaSound
 
 Um MetaSound pode ser criado diretamente no Content Browser escolhendo a opção **Audio>MetaSound Sorce**. 
