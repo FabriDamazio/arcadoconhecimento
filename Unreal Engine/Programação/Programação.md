@@ -6,3 +6,4 @@ Sumário de informações sobre o funcionamento da programação em C++ e Bluepr
 - [[Expondo variáveis para Blueprints]]
 - [[Funções genéricas (template)]]
 - [[Reflection e Garbage Collection]]
+- [[TArray]]
