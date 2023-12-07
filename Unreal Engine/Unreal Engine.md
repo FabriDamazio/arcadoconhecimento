@@ -20,3 +20,6 @@ Engine de jogos criada pela Epic Games.
 
 Tutoriais passo-a-passo disponíveis na página de [[How To's]].
 
+Cronograma de estudos:
+
+- [[Cronograma 2023]]

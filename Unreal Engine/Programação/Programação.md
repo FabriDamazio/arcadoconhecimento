@@ -7,3 +7,5 @@ Sumário de informações sobre o funcionamento da programação em C++ e Bluepr
 - [[Funções genéricas (template)]]
 - [[Reflection e Garbage Collection]]
 - [[TArray]]
+- [[TSubclassOf]]
+- [[Interfaces]]
