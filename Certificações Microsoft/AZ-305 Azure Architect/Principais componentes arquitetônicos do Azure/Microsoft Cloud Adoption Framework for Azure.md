@@ -1,5 +1,13 @@
 O Microsoft Cloud Adoption Framework para Azure é uma estrutura completa de ciclo de vida que permite que arquitetos de nuvem, profissionais de TI e tomadores de decisão de negócios alcancem metas de adoção da nuvem.
 
+Consiste em 5 pilares:
+
+- Cost optimization
+- Operational excellence
+- Performance efficiency
+- Reliability
+- Security
+
 ## Ciclo de vida de adoção da nuvem
 
 Cada item abaixo faz parte de um amplo ciclo de vida de adoção da nuvem:
