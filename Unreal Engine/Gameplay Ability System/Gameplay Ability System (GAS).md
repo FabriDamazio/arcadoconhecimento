@@ -8,7 +8,7 @@ O sistema ajuda a organizar e gerenciar o relacionamento entre as habilidades e 
 
 ### 1. Ability System Component (ASC)
 
-É o coração do GAS que manipula todas as interações com o sistema. Qualquer _Actor_ que deseja utilizar _GameplayAbilities_, _Attributes_, _GameplayEffects_ devem ter um _ASC_ acoplado a eles.
+É o coração do GAS que manipula todas as interações com o sistema. Qualquer _Actor_ que deseja utilizar _GameplayAbilities_, _Attributes_, _GameplayEffects_ devem ter um _ASC_ acoplado a eles. O ASC também define como os dados devem ser replicados em caso de jogos multiplayer, leia [[Replication Modes]] para detalhes.
 
 ### 2. Attribute Set
 
