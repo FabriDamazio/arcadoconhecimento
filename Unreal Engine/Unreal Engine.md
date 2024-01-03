@@ -17,6 +17,7 @@ Engine de jogos criada pela Epic Games.
 - [[Audio]]
 - [[Física (Physics)]]
 - [[Sistemas para Efeitos Visuais]]
+- [[Gameplay Ability System (GAS)]]
 
 Tutoriais passo-a-passo disponíveis na página de [[How To's]].
 
