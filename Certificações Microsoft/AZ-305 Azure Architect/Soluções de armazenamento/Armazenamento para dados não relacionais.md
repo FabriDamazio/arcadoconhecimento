@@ -16,13 +16,13 @@ O Azure Storage oferece diversas opções de armazenamento:
 
 Oferece duas opções para a replicação dos dados na região primária: **locally redundant storage and zone-redundant storage.**
 
-![[Pasted image 20240109080314.png]]
+![[replicacaoprimaria.png]]
 
 ### Redundância em uma região secundária
 
 Oferece duas opções para a replicação dos dados na região secundária: **geo-redundant storage** and **geo-zone-redundant storage**.
 
-![[Pasted image 20240109080413.png]]
+![[replicacaosecundaria.png]]
 
 ## Azure Files
 
