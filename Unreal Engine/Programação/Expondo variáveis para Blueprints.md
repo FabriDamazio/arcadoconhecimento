@@ -2,7 +2,7 @@ Podemos expor as variáveis criadas em uma classe C++ para que possam ser modifi
 
 ## Para expor a variável do painel de detalhes (details)
 
-- **EditAnywhere:** a variável poderá ser editada nos detalhes Blueprint default e na instância.
+- **EditAnywhere:** a variável poderá ser editada nos detalhes, Blueprint default e na instância.
 - **EditInstanceOnly:** editável somente nos detalhes da instância.
 - **EditDefaultsOnly:** editável apenas nos detalhes do Blueprint default.
 - **VisibleDefaultsOnly:** a variável fica visível nos detalhes do Blueprint default porém não é editável.

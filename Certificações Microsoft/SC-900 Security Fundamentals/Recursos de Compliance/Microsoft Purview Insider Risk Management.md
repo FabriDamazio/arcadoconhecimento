@@ -1,0 +1,3 @@
+É uma solução que ajuda você a detectar, capturar e tomar medidas em relação a mensagens inadequadas que possam levar a possíveis incidentes de segurança ou conformidade de dados em sua organização.
+
+Ele  avalia mensagens baseadas em texto e imagens na Microsoft e em aplicativos de terceiros (Teams, Viva Engage, Outlook, WhatsApp, etc.) quanto a possíveis violações de política de negócios, incluindo compartilhamento inadequado de informações confidenciais, ameaças ou linguagem ofensiva, bem como possíveis violações regulatórias.

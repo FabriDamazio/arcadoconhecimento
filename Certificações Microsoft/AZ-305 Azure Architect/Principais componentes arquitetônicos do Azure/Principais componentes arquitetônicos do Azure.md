@@ -1,0 +1,12 @@
+
+- [[Assinaturas]]
+- [[Grupos de gerenciamento]]
+- [[Recursos e grupos de recursos]]
+- [[Regiões Azure]]
+- [[Zonas de disponibilidade]]
+- [[Pares de regiões]]
+- [[Azure Migrate]]
+- [[Azure Storage accounts]]
+- [[Azure Virtual Desktop]]
+- [[Microsoft Cloud Adoption Framework for Azure]]
+- [[Serviços de computação e rede da Azure]]

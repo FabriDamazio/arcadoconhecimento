@@ -12,7 +12,11 @@ O Elixir é executado na VM Erlang, conhecida por criar sistemas de baixa latên
 
 - [[Phoenix Framework]]: para desenvolvimento web
 - Nerves: para desenvolvimento em software embarcado
-- 
+
+## Outros 
+
+- [[Maps]]
+- [[Modules attributes]]
 
 ---
 Tags: #elixir

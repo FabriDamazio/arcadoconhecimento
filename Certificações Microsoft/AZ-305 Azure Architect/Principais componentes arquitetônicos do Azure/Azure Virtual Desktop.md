@@ -1,0 +1,1 @@
+É outro tipo de máquina virtual. É um serviço de virtualização de área de trabalho e aplicativos que é executado na nuvem. Ele permite que você use uma versão do Windows hospedada na nuvem em qualquer localização.
