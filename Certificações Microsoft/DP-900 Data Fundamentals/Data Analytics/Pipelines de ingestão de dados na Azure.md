@@ -1,3 +1,0 @@
-Na Azure, a ingestão de dados em larga escala é melhor implementada criando _pipelines_ que orquestram processos de ETL. Você poderá criar e executar pipelines usando o Azure Data Factory ou poderá usar o mesmo mecanismo de pipeline no Azure Synapse Analytics se desejar gerenciar todos os componentes da sua solução de data warehousing em um workspace unificado.
-
-Os pipelines consistem em uma ou mais _atividades_ _(activities)_ que operam nos dados. Os pipelines usam _serviços vinculados_ (_linked services_) para carregar e processar dados, permitindo que você use a tecnologia certa para cada etapa do fluxo de trabalho.  Por fim, você pode salvar o conjunto de dados de saída em um serviço vinculado, como o Azure Synapse Analytics.

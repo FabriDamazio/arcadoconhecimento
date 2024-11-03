@@ -1,7 +1,0 @@
-É uma solução de armazenamento NoSQL que utiliza tabelas contendo itens de dados de _chave/valor_. Permite que você armazene dados semiestruturados. Todas as linhas de uma tabela devem ter uma chave exclusiva (composta por uma chave de partição e uma chave de linha) e, quando você modifica dados em uma tabela, uma coluna de _carimbo de data/hora_ registra a data e hora em que a modificação foi feita.
-
-Para ajudar a garantir o acesso rápido, o Armazenamento de Tabelas do Azure divide uma tabela em partições. O particionamento é um mecanismo para agrupar linhas relacionadas, com base em uma propriedade comum ou chave de partição. As linhas que compartilham a mesma chave de partição serão armazenadas em conjunto. O particionamento não apenas ajuda a organizar os dados, mas também pode melhorar a escalabilidade e o desempenho das seguintes maneiras:
-
-- As partições são independentes umas das outras e podem aumentar ou diminuir à medida que as linhas são adicionadas a uma partição ou removidas delas. Uma tabela pode conter qualquer número de partições.
-    
-- Ao pesquisar dados, você pode incluir a chave de partição nos critérios de pesquisa. Isso ajuda a diminuir o volume de dados a serem examinados e melhora o desempenho reduzindo a quantidade de E/S (operações de entrada e saída ou _leituras_ e _gravações_) necessária para localizar os dados.

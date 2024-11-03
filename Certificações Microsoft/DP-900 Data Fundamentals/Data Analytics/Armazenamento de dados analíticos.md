@@ -1,9 +1,0 @@
-Há dois tipos comuns de armazenamento de dados analíticos:
-
-- **Data warehouses:** Um _data warehouse_ é um banco de dados relacional no qual os dados são armazenados em um esquema otimizado para análise de dados em vez de cargas de trabalho transacionais. Normalmente, os dados de um armazenamento transacional são transformados em um esquema no qual os valores numéricos são armazenados em tabelas de _fatos_ centrais, que estão relacionadas a uma ou mais tabelas de _dimensões_ que representam entidades pelas quais os dados podem ser agregados.
-
-- **Data Lakes:** Um _data lake_ é um armazenamento de arquivos, geralmente em um sistema de arquivos distribuído para acesso a dados de alto desempenho. Tecnologias como Spark ou Hadoop geralmente são usadas para processar consultas nos arquivos armazenados e retornar dados para relatórios e análises.
-
-## Abordagens híbridas
-
-Uma abordagem híbrida que combina recursos de data lakes e data warehouses em um _banco de dados de lake_ ou _data lakehouse_ pode ser usada. Os dados brutos são armazenados como arquivos em um data lake e uma camada de armazenamento relacional abstrai os arquivos subjacentes e os expõe como tabelas, que podem ser consultadas usando SQL. Os pools de SQL no Azure Synapse Analytics incluem o _PolyBase_, que permite a definição de tabelas externas com base em arquivos em um datalake (e outras fontes) que podem ser consultadas usando SQL. Os data lakehouses são uma abordagem relativamente nova em sistemas baseados em Spark e são habilitados por meio de tecnologias como o _Delta Lake_; que adiciona recursos de armazenamento relacional ao Spark, para que você possa definir tabelas que impõem esquemas e consistência transacional, dão suporte a fontes de dados carregadas em lote e streaming e fornecem uma API de SQL para consulta.

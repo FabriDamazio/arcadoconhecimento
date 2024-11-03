@@ -1,5 +1,0 @@
-O Azure Data Lake Store (Gen1) é um serviço separado de armazenamento de dados hierárquicos para _data lakes_ analíticos, geralmente usado pelas chamadas soluções analíticas de big data que funcionam com dados estruturados, semiestruturados e não estruturados.
-
-Sistemas como o Hadoop no Azure HDInsight, Azure Databricks e Azure Synapse Analytics podem montar uma rede de arquivos distribuídos hospedada no Azure Data Lake Store Gen2 e usá-lo para processar grandes volumes de dados.
-
-Para criar um sistema de arquivos do Azure Data Lake Store Gen2, você deve habilitar a opção **Namespace Hierárquico** de uma conta de armazenamento do Azure. Você pode fazer isso ao criar inicialmente a conta de armazenamento, ou pode atualizar uma conta de armazenamento do Azure existente para dar suporte ao Data Lake Gen2 (mas depois de ativado essa opção não pode ser desligada).

@@ -1,5 +1,0 @@
-No contexto de uma rede de computadores, um diretório é uma estrutura hierárquica que armazena informações sobre os objetos na rede. Um serviço de diretório armazena dados de diretório e os disponibiliza para os usuários de rede, administradores, serviços e aplicativos.
-
-AD (Active Directory) é um conjunto de serviços de diretório desenvolvido pela Microsoft como parte do Windows 2000 para redes locais baseadas em domínio. O serviço mais conhecido desse tipo é o AD DS (Active Directory Domain Services). Ele armazena informações sobre os membros do domínio, incluindo dispositivos e usuários, verifica as credenciais e define os direitos de acesso. Um servidor que executa o AD DS é chamado de DC (controlador de domínio).
-
-O AD DS permite às organizações gerenciar vários sistemas e componentes de infraestrutura local usando uma única identidade por usuário. No entanto, o AD DS não oferece suporte nativo a dispositivos móveis, aplicativos de SaaS ou aplicativos de linha de negócios que exigem métodos de _autenticação moderna_.

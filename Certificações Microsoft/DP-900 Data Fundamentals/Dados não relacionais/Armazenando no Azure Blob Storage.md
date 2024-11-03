@@ -1,3 +1,0 @@
-O Armazenamento de Blobs do Azure é um serviço que permite armazenar grandes quantidades de dados não estruturados como objetos grandes binários, ou _blobs_, na nuvem. Os blobs são uma maneira eficiente de armazenar arquivos de dados em um formato otimizado para armazenamento baseado em nuvem.
-
-Informações mais detalhadas podem ser encontradas no material da certificação AZ-104 sobre [[Azure Blob Storage]].
