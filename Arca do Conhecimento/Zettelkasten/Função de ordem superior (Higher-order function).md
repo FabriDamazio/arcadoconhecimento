@@ -1,0 +1,18 @@
+06/11/2024 - 21:01
+Status: #idea
+Tags: [[Função anônima]] [[Programação de computadores]] [[Matemática]] [[Paradigma funcional de programação]]
+
+# Função de ordem superior (Higher-order function)
+
+É uma função que faz pelo meno umas das duas coisas abaixo:
+
+- Recebe uma ou mais funções como argumento.
+- Retorna uma função como seu resultado.
+
+Todas outras funções são funções de primeira ordem (first-ordem functions).
+
+---
+
+# References
+
+HIGHER-order function. _Wikipedia: The Free Encyclopedia_. Disponível em: [https://en.wikipedia.org/wiki/Higher-order_function](https://en.wikipedia.org/wiki/Higher-order_function). Acesso em: 06 nov. 2024.

@@ -2,7 +2,7 @@
 Status: #idea
 Tags: [[Linguagem de programação]] [[Paradigma funcional de programação]]
 
-# Elixir
+# Elixir language
 
 É uma linguagem de programação dinâmica e funcional que é executada na VM do Erlang.
 

@@ -1,6 +1,6 @@
 04/11/2024 - 15:44
 Status: #idea
-Tags: [[Elixir]]
+Tags: [[Elixir language]]
 
 # Phoenix Framework
 

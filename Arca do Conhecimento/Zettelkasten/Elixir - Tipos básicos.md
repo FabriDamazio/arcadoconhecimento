@@ -1,6 +1,6 @@
 02/11/2024 - 21:05
 Status: #idea
-Tags: [[Elixir]]
+Tags: [[Elixir language]]
 
 # Elixir - Tipos básicos
 
