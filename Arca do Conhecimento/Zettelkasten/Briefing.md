@@ -1,6 +1,6 @@
 12/11/2024 - 21:30
 Status: #idea
-Tags: [[Metodologia do Design]]
+Tags: [[As etapas do projeto de design]]
 
 # Briefing
 

@@ -1,6 +1,6 @@
 15/11/2024 - 11:14
 Status: #idea
-Tags: [[Metodologia do Design]]
+Tags: [[As etapas do projeto de design]]
 
 # Técnicas e ferramentas no processo criativo
 
