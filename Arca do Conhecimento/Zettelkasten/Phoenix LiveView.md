@@ -22,3 +22,7 @@ Ao receber um evento, ele atualiza seu estado e responde o que deve ser atualiza
 ---
 
 # References
+
+PRAGMATIC STUDIO. First Controller. In: **Phoenix LiveView Programming**. Pragmatic Studio, 2024. Disponível em: [https://pragmaticstudio.com/courses/phoenix](https://pragmaticstudio.com/courses/phoenix). Acesso em: 04 nov. 2024.
+
+PHOENIX. LiveView. _Phoenix LiveView Documentation_. Disponível em: [https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html). Acesso em: 19 nov. 2024.
