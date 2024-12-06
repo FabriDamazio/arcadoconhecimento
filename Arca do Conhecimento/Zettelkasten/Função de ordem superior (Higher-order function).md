@@ -4,7 +4,7 @@ Tags: [[Função anônima]] [[Programação de computadores]] [[Matemática]] [[
 
 # Função de ordem superior (Higher-order function)
 
-É uma função que faz pelo meno umas das duas coisas abaixo:
+É uma função que faz pelo menos umas das duas coisas abaixo:
 
 - Recebe uma ou mais funções como argumento.
 - Retorna uma função como seu resultado.
