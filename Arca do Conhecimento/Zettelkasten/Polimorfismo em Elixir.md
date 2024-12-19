@@ -24,8 +24,10 @@ Sendo assim podemos ter polimorfismo em cada uma dessas dimensões separadamente
 
 - Na dimensão mutabilidade, criando um processo:
 
-![[Pasted image 20241219143043.png]]
+![[polyproccess.png]]
 
 ---
 
 # References
+
+**VALIM, José.** _Keynote: Gang of None? Design Patterns in Elixir._ ElixirConf EU 2024, YouTube, 2024. Disponível em: [https://youtu.be/agkXUp0hCW8](https://youtu.be/agkXUp0hCW8). Acesso em: 19 dez. 2024.
