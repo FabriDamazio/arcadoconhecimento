@@ -23,7 +23,7 @@ Uma LiveView é um processo que recebe eventos, atualiza seu estado e retorna as
 (10, 11 e 12) Ao receber um evento, a função handle_event correspondente é executada e ela atualiza o estado estado do processo e excuta a função render que responde o que deve ser atualizado no HTML da página. 
 (13) A página é atualizada através do Javascript do LiveView que já esta incluso.
 
-![[Pasted image 20241126142854.png]]
+![[LiveView4.png]]
 ---
 
 # References

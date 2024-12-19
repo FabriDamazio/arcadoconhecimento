@@ -1,0 +1,31 @@
+2024-12-19 - 14:05
+Status: #idea
+Tags: [[Elixir language]] [[Behaviour]]  [[Protocol]]  [[Processos]]
+
+# Polimorfismo em Elixir
+
+Em uma linguagem de programação que utiliza o paradigma orientado a objetos, podemos pensar em um objeto como sendo um acoplamento entre estado, comportamento e mutabilidade (ou tempo, em relação ao dado sendo alterado ao longo do tempo). Sempre que criamos um objeto, essas três dimensões estão presentes.
+
+![[objectoop.png]]
+
+Do ponto de vista do Elixir, estas três dimensões estão desacoplados. Comportamentos são definidos por módulos, estado pelos dados e a mutabilidade pelos processos.
+
+![[objectsbyelixir.png]]
+
+Sendo assim podemos ter polimorfismo em cada uma dessas dimensões separadamente:
+
+- Na dimensão comportamento , implementando um `Behaviour` no módulo:
+
+![[modulebehaviour.png]]
+
+- Na dimensão estado, implementando um  `Protocol`:
+
+![[dataprotocol.png]]
+
+- Na dimensão mutabilidade, criando um processo:
+
+![[Pasted image 20241219143043.png]]
+
+---
+
+# References
