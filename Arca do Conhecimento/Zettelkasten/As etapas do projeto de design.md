@@ -1,6 +1,6 @@
 04/11/2024 - 21:03
 Status: #idea
-Tags: [[Metodologia do Design]]
+Tags: [[Metodologia do Design]] [[Briefing]]
 
 # As etapas do projeto de design
 
@@ -8,11 +8,11 @@ Para Löbach (2001), o projeto de design pode ser dividido em, basicamente, quat
 
 ## Preparação
 
-É o ponto de partida, que tem como motivador a identificação de um problema ou oportunidade. Esta descoberta pode ter como origem pesquisas de mercado, desenvolvidas por uma empresa ou pelo próprio designer, ou demanda de um cliente específico.
+É o ponto de partida, que tem como motivador a identificação de um problema ou oportunidade. Esta descoberta pode ter como origem pesquisas de mercado, desenvolvidas por uma empresa ou pelo próprio designer, ou demanda de um cliente específico. Geralmente é nesta etapa em que ocorre a montagem do briefing do projeto.
 
 ## Geração
 
-Nesta etapa, as informações coletadas anteriormente deverão servir como base para o desenvolvimento das diferentes soluções potencialmente adequadas para o projeto. Durante este processo, podem ser utilizadas diferentes ferramentas – como o brainstorming, a caixa morfológica, entre outras.
+Nesta etapa, as informações coletadas anteriormente deverão servir como base para o desenvolvimento das diferentes soluções potencialmente adequadas para o projeto. Durante este processo, podem ser utilizadas diferentes ferramentas e técnicas no processo criativo – como o brainstorming, a caixa morfológica, entre outras.
 
 ## Avaliação 
 

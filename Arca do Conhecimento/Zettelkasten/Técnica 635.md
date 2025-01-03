@@ -12,7 +12,7 @@ A técnica do 635 busca o desenvolvimento rápido de um grande número de altern
 | 2            |               |               |               |
 | 3            |               |               |               |
 
-No início, cada participante recebe uma matriz, como a do Quadro 2, em cinco minutos elabora três alternativas, na primeira linha, e, ao final do tempo – considerando um círculo, no sentido horário – deve passar para o participante à esquerda a sua matriz e receber do participante à direita a matriz do outro. Nessa troca, mais uma vez, cada participante deve elaborar mais três alternativas – em cinco minutos –, mas, dessa vez, na segunda linha e buscando trazer uma continuidade das ideias que foram elaboradas na linha 1. O processo segue até que todos os módulos da matriz sejam preenchidos, respeitando que as linhas abaixo devem trazer variações do que está nas linhas acima
+No início, cada participante recebe uma matriz e em cinco minutos elabora três alternativas, na primeira linha e ao final do tempo – considerando um círculo, no sentido horário – deve passar para o participante à esquerda a sua matriz e receber do participante à direita a matriz do outro. Nessa troca, mais uma vez, cada participante deve elaborar mais três alternativas – em cinco minutos –, mas, dessa vez, na segunda linha e buscando trazer uma continuidade das ideias que foram elaboradas na linha 1. O processo segue até que todos os módulos da matriz sejam preenchidos, respeitando que as linhas abaixo devem trazer variações do que está nas linhas acima
 
 Exemplo:
 
