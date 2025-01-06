@@ -13,7 +13,7 @@ Diz respeito ao nome da cor: preto, branco, amarelo, vermelho etc. (Vaz; Silva, 
 Saturação, também chamada de intensidade ou croma, grosso modo, se refere à “quantidade de cor na cor”. Ou seja, a intensidade do pigmento ou de luz colorida referente àquele matiz.
 ## Brilho
 
-Também chamado de valor tonal, o brilho da cor está relacionado à sua luminosidade, ou seja, à quantidade de luz presente.
+Também chamado de valor tonal, o brilho da cor está relacionado à sua luminosidade, ou seja, à quantidade de luz presente. No caso das tintas, é medido pela quantidade de pigmento preto ou branco misturada à cor principal (Vaz; Silva, 2016).
 
 ---
 
