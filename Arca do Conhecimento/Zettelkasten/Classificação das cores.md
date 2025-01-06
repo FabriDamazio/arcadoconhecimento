@@ -34,6 +34,4 @@ As cores análogas são aquelas que estão imediatamente próximas no círculo c
 
 # References
 
-# References
-
 UNINTER.  _Aula 2: Fenômeno Cromático. In: **Teoria da cor, Curso de Game Design**. Curitiba, 2024. Material didático online.
