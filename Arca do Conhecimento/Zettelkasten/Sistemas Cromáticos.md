@@ -1,6 +1,6 @@
 04/11/2024 - 20:52
 Status: #idea
-Tags: [[Cor]]
+Tags: [[Cor]]  [[Sistema RGB]] [[Sistema CMYK]]  [[Sistema Pantone]]
 
 # Sistemas Cromáticos
 
