@@ -2,9 +2,9 @@
 Status: #idea
 Tags: [[Padrões para resolver problemas de algoritmos e estrutura de dados]]
 
-# Two points
+# Two pointers
 
-O padrão **Two Pointers** (ou "Dois Ponteiros") é uma técnica eficiente para resolver problemas que envolvem arrays ou listas, especialmente quando você precisa encontrar pares de elementos que satisfaçam uma determinada condição ou quando precisa manipular a estrutura de forma otimizada.
+O padrão **Two Pointers** (ou "Dois Ponteiros") é uma técnica eficiente para resolver problemas que envolvem arrays ou listas, especialmente quando você precisa encontrar pares de elementos que satisfaçam uma determinada condição ou quando precisa manipular a estrutura de forma otimizada. **Neste padrão, a coleção precisa estar ordenada.**
 
 ### Como funciona o padrão Two Pointers?
 

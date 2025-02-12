@@ -8,7 +8,7 @@ Os problemas relacionados a algoritmos e estrutura de dados possuem padrões que
 
 Alguns dos padrões mais conhecidos:
 
-- [[Two points]]
+- [[Two pointers]]
 - Sliding Window
 - Fast and Slow pointers
 - Merge Intervals
