@@ -1,6 +1,12 @@
-04/11/2024 - 21:03
-Tags: [[Metodologia do Design]] [[Briefing]]
-
+---
+Criado: 2024-11-04T21:03
+Atualizado: 2025-05-23T13:06
+Estudado: 2024-11-04T21:03
+Links:
+  - "[[Metodologia do Design]]"
+  - "[[Briefing]]"
+---
+---
 # As etapas do projeto de design
 
 Para Löbach (2001), o projeto de design pode ser dividido em, basicamente, quatro etapas: Preparação – consiste na compreensão do problema, a partir da coleta e análise de informações; Geração – são produzidas ideias durante a geração de alternativas; Avaliação – tem-se o processo de avaliação e seleção de alternativas; Realização – a solução do problema é,então, realizada e também pode ser reavaliada, a partir de outros pontos de vista.
@@ -23,6 +29,6 @@ Como o próprio nome diz, esta é a etapa na qual o projeto deve ser realizado, 
 
 ---
 
-# References
+## References
 
 UNINTER.  _Aula 1: Introdução a Metodologia do Design. In: **Metodologia do Design, Curso de Game Design**. Curitiba, 2024. Material didático online.

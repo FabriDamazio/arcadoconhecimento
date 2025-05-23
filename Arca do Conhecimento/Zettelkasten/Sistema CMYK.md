@@ -1,6 +1,11 @@
-13/11/2024 - 19:24
-Tags: [[Sistemas Cromáticos]]
-
+---
+Criado: 2024-11-13T19:24
+Atualizado: 2025-05-23T17:19
+Estudado: 2024-11-13T19:24
+Links:
+  - "[[Sistemas Cromáticos]]"
+---
+---
 # Sistema CMYK
 
 O sistema CMYK e o conceito de cor-pigmento advém das ideias que Goethe escreveu em seu livro Doutrina das Cores (1810).  O nome cor-pigmento se deve ao fato de serem constituídas por substâncias físicas, sendo elementos naturais ou químicos industriais.
@@ -12,7 +17,6 @@ Na prática, se misturarmos as tintas de cores vermelha, azul e a amarelo, terem
 ![[Sistema CMYK.png]]
 
 ---
-
-# References
+## References
 
 UNINTER.  _Aula 3: Natureza, Estrutura e Propriedades das Cores. In: **Teoria da cor, Curso de Game Design**. Curitiba, 2024. Material didático online.

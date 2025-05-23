@@ -1,6 +1,11 @@
-12/11/2024 - 21:35
-Tags: [[Briefing]]
-
+---
+Criado: 2024-11-12T21:35
+Atualizado: 2025-05-23T13:03
+Estudado: 2024-11-12T21:35
+Links:
+  - "[[Briefing]]"
+---
+---
 # Análise do problema no Briefing
 
 Conforme apontado por Löbach (2001), nesta fase inicial, é importante recolher todas as informações possíveis, “sem censura”, pois todos os dados podem ser importantes durante as demais etapas.
@@ -17,6 +22,6 @@ Métodos e técnicas para exploração do problema:
 
 ---
 
-# References
+## References
 
 UNINTER.  _Aula 2: Preparação. In: **Metodologia do Design, Curso de Game Design**. Curitiba, 2024. Material didático online.

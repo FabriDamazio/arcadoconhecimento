@@ -1,6 +1,11 @@
-02/11/2024 - 20:09
-Tags: [[Programação de computadores]]
-
+---
+Criado: 2024-11-02T20:09
+Atualizado: 2025-05-23T16:43
+Estudado: 2024-11-02T20:09
+Links:
+  - "[[Programação de computadores]]"
+---
+---
 # Linguagem de programação
 
 Uma linguagem de programação é um artefato e, sendo assim, foi projetada de forma consciente. Para ser considerada uma linguagem de programação, deve atender as seguintes condições fundamentais: 
@@ -11,7 +16,6 @@ Uma linguagem de programação é um artefato e, sendo assim, foi projetada de f
 - Deve ser **eficientemente implementável**. A eficiência é um ponto de debate pois depende da arquitetura do computador e da implementação da linguagem.
 
 ---
-
-# References
+## References
 
 WATT, David A. Chapter 1 – Programming languages. In: **_Programming Language Design Concepts_**. New York: John Wiley & Sons, 2004. p. 3-5.

@@ -1,6 +1,11 @@
-28/11/2024 - 20:23
-Tags: [[Phoenix LiveView]]
-
+---
+Criado: 2024-11-28T20:23
+Atualizado: 2025-05-23T17:29
+Estudado: 2024-11-28T20:23
+Links:
+  - "[[Phoenix LiveView]]"
+---
+---
 # Tratamento de eventos na LiveView
 
 LiveView é um processo que recebe eventos, atualiza seu estado conforme necessário, renderiza um template e envia de volta os diffs.
@@ -30,8 +35,7 @@ Já para `call` e `cast` enviados por um GenServer, são usados os callbacks `ha
 
 
 ---
-
-# References
+## References
 
 PRAGMATIC STUDIO. Handling Process Messages. In: **Phoenix LiveView Programming**. Pragmatic Studio, 2024. Disponível em: [https://pragmaticstudio.com/courses/phoenix](https://pragmaticstudio.com/courses/phoenix). Acesso em: 28 nov. 2024.
 

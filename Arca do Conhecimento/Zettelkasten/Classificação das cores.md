@@ -1,6 +1,11 @@
-04/11/2024 - 20:40
-Tags: [[Cor]]
-
+---
+Criado: 2024-11-04T20:40
+Atualizado: 2025-05-23T13:52
+Estudado: 2024-11-04T20:40
+Links:
+  - "[[Cor]]"
+---
+---
 # Classificação das cores
 
 ## Cores primárias
@@ -27,10 +32,7 @@ As cores análogas são aquelas que estão imediatamente próximas no círculo c
 
 ![[Classificação das cores3.png]]
 
-
-
 ---
-
-# References
+## References
 
 UNINTER.  _Aula 2: Fenômeno Cromático. In: **Teoria da cor, Curso de Game Design**. Curitiba, 2024. Material didático online.

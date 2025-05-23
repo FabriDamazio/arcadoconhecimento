@@ -1,6 +1,11 @@
-04/11/2024 - 20:50
-Tags: [[Cor]]
-
+---
+Criado: 2024-11-04T20:50
+Atualizado: 2025-05-23T13:51
+Estudado: 2024-11-04T20:50
+Links:
+  - "[[Cor]]"
+---
+---
 # Características da cor - Matiz, Saturação e Brilho
 
 São três as características distintivas da cor: matiz, saturação e brilho.
@@ -16,6 +21,6 @@ Também chamado de valor tonal, o brilho da cor está relacionado à sua luminos
 
 ---
 
-# References
+## References
 
 UNINTER.  _Aula 2: Fenômeno Cromático. In: **Teoria da cor, Curso de Game Design**. Curitiba, 2024. Material didático online.

@@ -1,6 +1,11 @@
-15/11/2024 - 11:10
-Tags: [[Técnicas e ferramentas no processo criativo]]
-
+---
+Criado: 2024-11-15T11:10
+Atualizado: 2025-05-23T16:46
+Estudado: 2024-11-15T11:10
+Links:
+  - "[[Técnicas e ferramentas no processo criativo]]"
+---
+---
 # MESCRAI (SCAMPER)
 
 De acordo com Baxter (2000) e Pazmino (2015), MESCRAI é uma sigla para Modifique, Elimine, Substitua, Combine, Rearranje, Adapte, Inverta; esta sigla, que tem origem no inglês, SCAMPER – Substitute, Combine, Adapt, Modify, Magnify, Minify put to other uses, Eliminate, Reverse (em tradução livre, substitua, combine, adapte, modifique, aumente, diminua, ponha em outro contexto, elimine, reverta). O objetivo do uso da técnica é promover a criação e modificação de alternativas a partir das palavras-chave, que servirão como guia do processo criativo, por exemplo:
@@ -21,7 +26,6 @@ Exemplo:
 
 
 ---
-
-# References
+## References
 
 UNINTER.  _Aula 3: Geração de idéias. In: **Metodologia do Design, Curso de Game Design**. Curitiba, 2024. Material didático online.

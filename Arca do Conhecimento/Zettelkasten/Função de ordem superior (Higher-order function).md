@@ -1,6 +1,14 @@
-06/11/2024 - 21:01
-Tags: [[Função anônima]] [[Programação de computadores]] [[Matemática]] [[Paradigma funcional de programação]]
-
+---
+Criado: 2024-11-06T21:01
+Atualizado: 2025-05-23T16:34
+Estudado: 2024-11-06T21:01
+Links:
+  - "[[Função anônima]]"
+  - "[[Programação de computadores]]"
+  - "[[Matemática]]"
+  - "[[Paradigma funcional de programação]]"
+---
+---
 # Função de ordem superior (Higher-order function)
 
 É uma função que faz pelo menos umas das duas coisas abaixo:
@@ -11,7 +19,6 @@ Tags: [[Função anônima]] [[Programação de computadores]] [[Matemática]] [[
 Todas outras funções são funções de primeira ordem (first-ordem functions).
 
 ---
-
-# References
+## References
 
 HIGHER-order function. _Wikipedia: The Free Encyclopedia_. Disponível em: [https://en.wikipedia.org/wiki/Higher-order_function](https://en.wikipedia.org/wiki/Higher-order_function). Acesso em: 06 nov. 2024.

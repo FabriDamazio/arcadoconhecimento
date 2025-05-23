@@ -1,6 +1,11 @@
-19/11/2024 - 13:01
-Tags: [[Técnicas para Avaliação do projeto de Design]]
-
+---
+Criado: 2024-11-19T13:01
+Atualizado: 2025-05-23T16:45
+Estudado: 2024-11-19T13:01
+Links:
+  - "[[Técnicas para Avaliação do projeto de Design]]"
+---
+---
 # Matriz de Diferencial Semântico
 
 Este tipo de avaliação pode, também, ser utilizado com a participação de potenciais usuários, para obter uma visão externa à equipe de criação sobre quais alternativas se deve dar prosseguimento no projeto.
@@ -14,11 +19,7 @@ Exemplo:
 
 ![[Matriz Diferecial Semantico.png]]
 
-
-
-
 ---
-
-# References
+## References
 
 UNINTER.  _Aula 4: Avaliação das alternativas e ações pré-projeto. In: **Metodologia do Design, Curso de Game Design**. Curitiba, 2024. Material didático online.

@@ -1,6 +1,13 @@
-06/11/2024 - 21:58
-Tags: [[Elixir language]] [[Função anônima]] [[closure]]
-
+---
+Criado: 2024-11-06T21:58
+Atualizado: 2025-05-23T14:09
+Estudado: 2024-11-06T21:58
+Links:
+  - "[[Elixir language]]"
+  - "[[Função anônima]]"
+  - "[[Closure]]"
+---
+---
 # Elixir - Função anônima
 
 Em Elixir, elas não tem nome mas podem ser atribuídas a variáveis. São chamadas com o operador `.( )` após avariável que a contém. Elas também podem capturar variáveis do contexto onde foram criadas (closure).
@@ -25,4 +32,6 @@ IO.puts(double.(4)) # Saída: 8
 
 ---
 
-# References
+## References
+
+ELIXIR: Anonymous functions. Disponível em: https://hexdocs.pm/elixir/anonymous-functions.html. Acesso em: 06 de novembro  de 2024.

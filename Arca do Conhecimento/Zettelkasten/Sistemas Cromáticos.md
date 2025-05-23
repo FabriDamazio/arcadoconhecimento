@@ -1,6 +1,14 @@
-04/11/2024 - 20:52
-Tags: [[Cor]]  [[Sistema RGB]] [[Sistema CMYK]]  [[Sistema Pantone]]
-
+---
+Criado: 2024-11-04T20:52
+Atualizado: 2025-05-23T17:21
+Estudado: 2024-11-04T20:52
+Links:
+  - "[[Cor]]"
+  - "[[Sistema CMYK]]"
+  - "[[Sistema RGB]]"
+  - "[[Sistema Pantone]]"
+---
+---
 # Sistemas Cromáticos
 
 Existem basicamente dois sistemas cromáticos baseados na síntese da cor: a síntese aditiva e a síntese subtrativa.
@@ -15,7 +23,6 @@ Goethe contribuiu para a maneira como organizamos as cores, mas a partir de uma 
 Em linhas gerais, as cores RGB são usadas em projetos que deverão ser publicados na internet ou vistos em outro ambiente digital. Elas são mais brilhantes. Já projetos que serão impressos em papel ou outro substrato físico devem ser salvos em CMYK, e suas cores tendem a ser mais opacas (Collaro, 2007)
 
 ---
-
-# References
+## References
 
 UNINTER.  _Aula 2: Fenômeno Cromático. In: **Teoria da cor, Curso de Game Design**. Curitiba, 2024. Material didático online.

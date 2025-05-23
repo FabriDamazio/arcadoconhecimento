@@ -1,6 +1,11 @@
-04/11/2024 - 15:47
-Tags: [[Phoenix Framework]]
-
+---
+Criado: 2024-11-04T15:47
+Atualizado: 2025-05-23T16:55
+Estudado: 2024-11-04T15:47
+Links:
+  - "[[Phoenix Framework]]"
+---
+---
 # Phoenix - Routes, Plugs e Pipelines
 
 ### Plug
@@ -20,7 +25,6 @@ Mapeiam URLs especificadas para funções de controle. Elas ficam dentro de um s
 
 
 ---
-
-# References
+## References
 
 PRAGMATIC STUDIO. Routes, Plugs, and Pipelines. In: **Phoenix LiveView Programming**. Pragmatic Studio, 2024. Disponível em: [https://pragmaticstudio.com/courses/phoenix](https://pragmaticstudio.com/courses/phoenix). Acesso em: 04 nov. 2024.

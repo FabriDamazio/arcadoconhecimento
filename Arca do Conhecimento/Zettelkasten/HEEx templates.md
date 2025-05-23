@@ -1,6 +1,12 @@
-14/11/2024 - 15:37
-Tags: [[Phoenix Framework]] [[EEx]]
-
+---
+Criado: 2024-11-14T15:37
+Atualizado: 2025-05-23T16:42
+Estudado: 2024-11-14T15:37
+Links:
+  - "[[Phoenix Framework]]"
+  - "[[EEx]]"
+---
+---
 # HEEx templates
 
 A linguagem de template do Phoenix é chamada HEEx (HTML + EEx). Os templates podem ser criados como arquivos com a extensão `.heex` ou diretamente através do sigil `~H`.
@@ -26,8 +32,7 @@ assign(socket, :users, Repo.all(User))
 ```
 
 ---
-
-# References
+## References
 
 PHOENIX COMPONENTS. Disponível em: [https://hexdocs.pm/phoenix/components.html](https://hexdocs.pm/phoenix/components.html). Acesso em: 14 nov. 2024.
 

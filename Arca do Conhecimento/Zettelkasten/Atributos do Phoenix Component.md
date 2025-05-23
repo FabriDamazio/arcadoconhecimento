@@ -1,6 +1,11 @@
-2024-12-04 - 19:38
-Tags: [[Phoenix Component]]
-
+---
+Criado: 2024-12-04T19:38
+Atualizado: 2025-05-23T13:10
+Estudado: 2024-12-04T19:38
+Links:
+  - "[[Phoenix Component]]"
+---
+---
 # Atributos do Phoenix Component
 
 Cada componente pode ter diferentes atributos que são dados que podem ser passados em seu `Map` de assigns. O módulo `Phoenix.Component`possui a macro `attr/3` para que seja possível declara-los logo antes da função do componente.
@@ -23,8 +28,8 @@ Um maior detalhamento se encontra na documentação oficial nos links de referê
 
 ---
 
-# References
+## References
 
 PHOENIX Framework. _Phoenix.Component_. Disponível em: [https://hexdocs.pm/phoenix_live_view/Phoenix.Component.html](https://hexdocs.pm/phoenix_live_view/Phoenix.Component.html). Acesso em: 4 dez. 2024.
 
-PHOENIX Framework. _Phoenix.Component — Macro attr/3_. Disponível em: [https://hexdocs.pm/phoenix_live_view/Phoenix.Component.html#attr/3](https://hexdocs.pm/phoenix_live_view/Phoenix.Component.html#attr/3). Acesso em: 4 dez. 2024.
+PHOENIX Framework. _Phoenix.Component — Macro attr/3_. Disponível em: [https://hexdocs.pm/phoenix_live_view/Phoenix.Component.html#attr/3](https://hexdocs.pm/phoenix_live_view/Phoenix.Component.html#attr/3). Acesso em: 4 dez. 2024.---

@@ -1,6 +1,11 @@
-2025-01-02 - 11:14
-Tags:  [[Design]]
-
+---
+Criado: 2025-01-02T11:14
+Atualizado: 2025-05-23T16:36
+Estudado: 2025-01-02T11:14
+Links:
+  - "[[Design]]"
+---
+---
 # Função dos produtos
 
 A função dos produtos estão relacionadas as percepções e necessidades, objetivas e subjetivas, dos usuários. 
@@ -32,9 +37,7 @@ Compreende-se, desta forma, que a função simbólica está ligada tanto à
 função prática quanto à função estética, mas sua influência é mais subjetiva e
 pessoal.
 
-
 ---
-
-# References
+## References
 
 UNINTER.  _Aula 1: Introdução a Metodologia do Design. In: **Metodologia do Design, Curso de Game Design**. Curitiba, 2024. Material didático online.

@@ -1,6 +1,10 @@
-2024-12-19 - 15:05
-Tags: [[Elixir language]]
-
+---
+Criado: 2024-12-19T15:05:00
+Atualizado: 2025-05-23T13:00:00
+Estudado: 2025-12-19T15:05:00
+Links: "[[Elixir language]]"
+---
+---
 # A regra da menor expressividade
 
 ![[regraexpressividade.png]]
@@ -11,10 +15,8 @@ No Elixir, José Valim classifica a abstração quanto a sua simplicidade e expr
 
 ![[Pasted image 20241219151426.png]]
 
-
-
 ---
 
-# References
+## References
 
 **VALIM, José.** _Keynote: Gang of None? Design Patterns in Elixir._ ElixirConf EU 2024, YouTube, 2024. Disponível em: [https://youtu.be/agkXUp0hCW8](https://youtu.be/agkXUp0hCW8). Acesso em: 19 dez. 2024.

@@ -1,6 +1,11 @@
-19/11/2024 - 09:30
-Tags: [[Phoenix Framework]]
-
+---
+Criado: 2024-11-19T09:30
+Atualizado: 2025-05-23T16:59
+Estudado: 2024-11-19T09:30
+Links:
+  - "[[Phoenix Framework]]"
+---
+---
 # Phoenix LiveView
 
 Uma LiveView é um processo que recebe eventos, atualiza seu estado e retorna as diferenças do HTML para atualizar uma página.
@@ -24,8 +29,7 @@ Uma LiveView é um processo que recebe eventos, atualiza seu estado e retorna as
 
 ![[LiveView4.png]]
 ---
-
-# References
+## References
 
 PRAGMATIC STUDIO. First Controller. In: **Phoenix LiveView Programming**. Pragmatic Studio, 2024. Disponível em: [https://pragmaticstudio.com/courses/phoenix](https://pragmaticstudio.com/courses/phoenix). Acesso em: 04 nov. 2024.
 

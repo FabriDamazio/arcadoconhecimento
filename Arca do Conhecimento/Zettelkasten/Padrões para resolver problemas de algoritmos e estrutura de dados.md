@@ -1,6 +1,11 @@
-2025-01-26 - 14:10
-Tags: [[Algoritmo]]
-
+---
+Criado: 2025-01-26T14:10
+Atualizado: 2025-05-23T16:50
+Estudado: 2025-01-26T14:10
+Links:
+  - "[[Algoritmo]]"
+---
+---
 # Padrões para resolver problemas de algoritmos e estrutura de dados
 
 Os problemas relacionados a algoritmos e estrutura de dados possuem padrões que podem ser identificados e explorados para a criação de uma solução que seja eficiente no uso do tempo e memória.
@@ -27,7 +32,6 @@ Alguns dos padrões mais conhecidos:
 
 
 ---
-
-# References
+## References
 
 **EDUCATIVE.IO.** Grokking the Coding Interview: Patterns for Coding Questions. **Educative.io,** [s.d.]. Disponível em: [https://www.educative.io/courses/grokking-coding-interview](https://www.educative.io/courses/grokking-coding-interview). Acesso em: 26  jan. 2025.

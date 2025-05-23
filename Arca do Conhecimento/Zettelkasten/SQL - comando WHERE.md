@@ -1,6 +1,11 @@
-2025-01-02 - 14:06
-Tags: [[SQL]]
-
+---
+Criado: 2025-01-02T14:06
+Atualizado: 2025-05-23T17:24
+Estudado: 2025-01-02T14:06
+Links:
+  - "[[SQL]]"
+---
+---
 # SQL - comando WHERE
 
 O comando WHERE permite filtrar os registros por um critério. Se ao nomear quais colunas quer no comando SELECT limita o número de colunas, o comando WHERE limita o número de linhas.
@@ -43,7 +48,6 @@ SELECT nome FROM clientes WHERE nome like 'Lu_____'
 
 
 ---
-
-# References
+## References
 
 **SQL CRASH COURSE.** _SQL WHERE Equals._ Disponível em: [https://sqlcrashcourse.com/sql-where-equals/](https://sqlcrashcourse.com/sql-where-equals/). Acesso em: 06 jan. 2025.

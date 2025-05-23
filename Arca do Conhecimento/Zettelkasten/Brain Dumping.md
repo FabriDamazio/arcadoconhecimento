@@ -1,6 +1,10 @@
-15/11/2024 - 10:58
-Tags: [[Técnicas e ferramentas no processo criativo]]
-
+---
+Criado: 2024-11-15T10:58
+Atualizado: 2025-05-23T13:15
+Estudado: 2024-11-15T10:58
+Links:
+  - "[[Técnicas e ferramentas no processo criativo]]"
+---
 # Brain Dumping
 
 O Brain Dumping é uma alternativa ao Brainstorming quando a prática é individual. De acordo com Lupton (2015), o processo segue três regras básicas:
@@ -11,6 +15,6 @@ O Brain Dumping é uma alternativa ao Brainstorming quando a prática é individ
 
 ---
 
-# References
+## References
 
 UNINTER.  _Aula 3: Geração de idéias. In: **Metodologia do Design, Curso de Game Design**. Curitiba, 2024. Material didático online.

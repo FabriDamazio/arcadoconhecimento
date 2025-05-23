@@ -1,6 +1,11 @@
-19/11/2024 - 13:58
-Tags: [[Técnicas para Avaliação do projeto de Design]]
-
+---
+Criado: 2024-11-19T13:58
+Atualizado: 2025-05-23T17:18
+Estudado: 2024-11-19T13:58
+Links:
+  - "[[Técnicas para Avaliação do projeto de Design]]"
+---
+---
 # Representação tridimensional no Design
 
 A modelagem tridimensional também exerce papel fundamental durante os projetos de design e pode ser realizada nos meios físicos ou digitais.
@@ -11,7 +16,6 @@ De acordo com Baxter (2000), Penna (2002, citado por Vieira, 2019) e Volpato et 
 
 
 ---
-
-# References
+## References
 
 UNINTER.  _Aula 4: Avaliação das alternativas e ações pré-projeto. In: **Metodologia do Design, Curso de Game Design**. Curitiba, 2024. Material didático online.

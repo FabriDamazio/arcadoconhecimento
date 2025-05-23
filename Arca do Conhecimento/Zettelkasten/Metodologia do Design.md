@@ -1,12 +1,17 @@
-04/11/2024 - 20:57
-Tags: [[Game Design]]  [[Design]]
-
+---
+Criado: 2024-11-04T20:57
+Atualizado: 2025-05-23T16:48
+Estudado: 2024-11-04T20:57
+Links:
+  - "[[Game Design]]"
+  - "[[Design]]"
+---
+---
 # Metodologia do Design
 
 É o conjunto estruturado de práticas, processos e etapas para planejar, desenvolver e executar soluções de design de maneira eficaz.
 
 ---
-
-# References
+## References
 
 UNINTER.  _Aula 1: Introdução a Metodologia do Design. In: **Metodologia do Design, Curso de Game Design**. Curitiba, 2024. Material didático online.

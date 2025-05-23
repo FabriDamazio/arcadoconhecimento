@@ -1,6 +1,11 @@
-08/11/2024 - 10:43
-Tags: [[Elixir language]]
-
+---
+Criado: 2024-11-08T10:43
+Atualizado: 2025-05-23T14:13
+Estudado: 2024-11-08T10:43
+Links:
+  - "[[Elixir language]]"
+---
+---
 # Elixir - Guards
 
 Guards é uma maneira de complementar o pattern matching com verificações mais complexas. Pode ser utilizado nas cláusulas (clauses) de funções, funções anônimas, for, with e case. No `try` é possível utilizar guards no `catch` e no `else`. O `receive` também suporta o uso de guards para receber mensagens.
@@ -57,6 +62,6 @@ end
 
 ---
 
-# References
+## References
 
 ELIXIR. _Guards_. Disponível em: [https://hexdocs.pm/elixir/patterns-and-guards.html#guards](https://hexdocs.pm/elixir/patterns-and-guards.html#guards). Acesso em: 8 nov. 2024.

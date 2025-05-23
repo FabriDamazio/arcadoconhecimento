@@ -1,6 +1,12 @@
-25/11/2024 - 15:50
-Tags: [[As etapas do projeto de design]] [[GDD - Game Design Document]]
-
+---
+Criado: 2024-11-25T15:50
+Atualizado: 2025-05-23T14:05
+Estudado: 2024-11-25T15:50
+Links:
+  - "[[As etapas do projeto de design]]"
+  - "[[GDD - Game Design Document]]"
+---
+---
 # Detalhamento do projeto de Design
 
 Acontece na etapa da realização do projeto. De forma geral, conforme apontam Rozenfeld et al. (2006) e Baxter (2000), os processos envolvidos no detalhamento do projeto buscam desenvolver e finalizar todas as especificações do produto para que possa ser encaminhado para produção e demais etapas. Nesse processo, é preciso compreender cada especificidade do seu produto e poder comunicar aos demais envolvidos na produção como cada parte deve ser produzida.
@@ -9,7 +15,6 @@ Conforme mencionado anteriormente, a depender da área do design e do produto fi
 
 
 ---
-
-# References
+## References
 
 UNINTER.  _Aula 5: Realização dos Projetos. In: **Metodologia do Design, Curso de Game Design**. Curitiba, 2024. Material didático online.

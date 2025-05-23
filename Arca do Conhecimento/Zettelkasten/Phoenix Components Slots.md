@@ -1,6 +1,11 @@
-2024-12-06 - 09:21
-Tags: [[Phoenix Component]]
-
+---
+Criado: 2024-12-06T09:21
+Atualizado: 2025-05-23T16:57
+Estudado: 2024-12-06T09:21
+Links:
+  - "[[Phoenix Component]]"
+---
+---
 # Phoenix Components Slots
 
 Além de atributos, os componentes podem receber blocos com conteúdo no formato HEEx. Estes blocos são chamados de slots e podem ser passados utilizando a macro `slot/3`.
@@ -87,7 +92,6 @@ end
 
 
 ---
-
-# References
+## References
 
 PHOENIX Framework. _Phoenix.Component_. Disponível em: https://hexdocs.pm/phoenix_live_view/Phoenix.Component.html#module-slots. Acesso em: 6 dez. 2024.

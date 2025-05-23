@@ -1,6 +1,11 @@
-2025-01-26 - 14:13
-Tags: [[Padrões para resolver problemas de algoritmos e estrutura de dados]]
-
+---
+Criado: 2025-01-26T14:13
+Atualizado: 2025-05-23T17:29
+Estudado: 2025-01-26T14:13
+Links:
+  - "[[Padrões para resolver problemas de algoritmos e estrutura de dados]]"
+---
+---
 # Two pointers
 
 O padrão **Two Pointers** (ou "Dois Ponteiros") é uma técnica eficiente para resolver problemas que envolvem arrays ou listas, especialmente quando você precisa encontrar pares de elementos que satisfaçam uma determinada condição ou quando precisa manipular a estrutura de forma otimizada. **Neste padrão, a coleção precisa estar ordenada.**
@@ -82,8 +87,7 @@ Um palíndromo é uma string que é igual quando lida de trás para frente.
 3. Repita até que os ponteiros se cruzem.
 
 ---
-
-# References
+## References
 
 **EDUCATIVE.IO.** Grokking the Coding Interview: Patterns for Coding Questions. **Educative.io,** [s.d.]. Disponível em: [https://www.educative.io/courses/grokking-coding-interview](https://www.educative.io/courses/grokking-coding-interview). Acesso em: 26  jan. 2025.
 

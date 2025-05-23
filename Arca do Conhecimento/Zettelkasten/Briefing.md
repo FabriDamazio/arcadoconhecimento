@@ -1,6 +1,16 @@
-12/11/2024 - 21:30
-Tags: [[As etapas do projeto de design]]  [[Análise do problema no Briefing]]  [[Persona]]  [[Público-alvo]]  [[Conceito do Projeto no Briefing]]  [[Painéis visuais ou semânticos]]
-
+---
+Criado: 2024-11-12T21:30
+Atualizado: 2025-05-23T13:19
+Estudado: 2024-11-12T21:30
+Links:
+  - "[[As etapas do projeto de design]]"
+  - "[[Análise do problema no Briefing]]"
+  - "[[Persona]]"
+  - "[[Público-alvo]]"
+  - "[[Conceito do Projeto no Briefing]]"
+  - "[[Painéis visuais ou semânticos]]"
+---
+---
 # Briefing
 
 Do inglês brief, significa resumo, sumário. No projeto é um compilado de todas as informações importantes e necessárias do projeto. As informações buscam responder as seguintes perguntas:
@@ -14,6 +24,6 @@ Um Briefing pode incluir a conceituação do projeto, análise do problema a ser
 
 ---
 
-# References
+##  References
 
 UNINTER.  _Aula 2: Preparação. In: **Metodologia do Design, Curso de Game Design**. Curitiba, 2024. Material didático online.

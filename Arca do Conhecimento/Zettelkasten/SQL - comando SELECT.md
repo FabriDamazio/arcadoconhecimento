@@ -1,6 +1,11 @@
-2025-01-02 - 13:56
-Tags: [[SQL]]
-
+---
+Criado: 2025-01-02T13:56
+Atualizado: 2025-05-23T17:23
+Estudado: 2025-01-02T13:56
+Links:
+  - "[[SQL]]"
+---
+---
 # SQL - comando SELECT
 
 Recupera os dados de um banco de dados.
@@ -18,7 +23,6 @@ SELECT nome FROM clientes;
 ```
 
 ---
-
-# References
+## References
 
 **SQL CRASH COURSE.** _What is SQL?_ Disponível em: [https://sqlcrashcourse.com/what-is-sql/](https://sqlcrashcourse.com/what-is-sql/). Acesso em: 22 dez. 2024.

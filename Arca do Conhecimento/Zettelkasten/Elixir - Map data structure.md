@@ -1,6 +1,11 @@
-2025-01-03 - 09:20
-Tags: [[Elixir Data Structures]]]
-
+---
+Criado: 2025-01-03T09:20
+Atualizado: 2025-05-23T16:29
+Estudado: 2025-01-03T09:20
+Links:
+  - "[[Elixir Data Structures]]"
+---
+---
 # Elixir - Map
 
 Map é uma estrutura de dados associativa que armazena informações em pares de chave-valor. As chaves e valores podem ser de qualquer tipo. Caso a chave seja um atom, é possível acessar seu valor utilizando dot syntax.
@@ -53,10 +58,8 @@ iex> %{map | two: 3}
 ```
 
 
-
 ---
-
-# References
+## References
 
 **ELIXIR.** _Keywords and maps._ HexDocs. Disponível em: [https://hexdocs.pm/elixir/keywords-and-maps.html](https://hexdocs.pm/elixir/keywords-and-maps.html). Acesso em: 03 jan 2025.
 

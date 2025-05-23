@@ -1,6 +1,11 @@
-2025-01-06 - 09:57
-Tags: [[Cor]]
-
+---
+Criado: 2025-01-06T09:57
+Atualizado: 2025-05-23T13:57
+Estudado: 2025-01-06T09:57
+Links:
+  - "[[Cor]]"
+---
+---
 # Contraste das cores
 
 Segundo Chevreul, a observação sistemática da dinâmica das cores
@@ -22,9 +27,7 @@ nas cores complementares àquelas nas quais você havia fixado o olhar (Figura
 18). Esse fenômeno é chamado de imagem residual ou pós-imagem (Vaz;
 Silva, 2016).
 
-
 ---
-
-# References
+## References
 
 UNINTER.  _Aula 2: Fenômeno Cromático. In: **Teoria da cor, Curso de Game Design**. Curitiba, 2024. Material didático online.

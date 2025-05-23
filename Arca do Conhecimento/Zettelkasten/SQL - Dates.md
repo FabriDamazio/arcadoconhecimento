@@ -1,6 +1,11 @@
-2025-01-06 - 10:54
-Tags: [[SQL]]
-
+---
+Criado: 2025-01-06T10:54
+Atualizado: 2025-05-23T17:24
+Estudado: 2025-01-06T10:54
+Links:
+  - "[[SQL]]"
+---
+---
 # SQL - Dates
 
 Os banco de dados podem ter tipos de dados diferentes para representar datas. Em geral, os 3 tipos de dados mais usados para guardar data/tempo são:
@@ -79,8 +84,7 @@ Os símbolos aceitos no parâmetro format devem ser consultados na documentaçã
 
 
 ---
-
-# References
+## References
 
 **SQL CRASH COURSE.** _SQL Date._ Disponível em: [https://sqlcrashcourse.com/sql-date/](https://sqlcrashcourse.com/sql-date/). Acesso em: 6 jan. 2025.
 

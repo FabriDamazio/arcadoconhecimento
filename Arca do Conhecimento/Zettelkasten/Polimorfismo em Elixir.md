@@ -1,6 +1,14 @@
-2024-12-19 - 14:05
-Tags: [[Elixir language]] [[Behaviour]]  [[Protocol]]  [[Processos]]
-
+---
+Criado: 2024-12-19T14:05
+Atualizado: 2025-05-23T17:00
+Estudado: 2024-12-19T14:05
+Links:
+  - "[[Elixir language]]"
+  - "[[Behaviour]]"
+  - "[[Protocol]]"
+  - "[[Processos]]"
+---
+---
 # Polimorfismo em Elixir
 
 Em uma linguagem de programação que utiliza o paradigma orientado a objetos, podemos pensar em um objeto como sendo um acoplamento entre estado, comportamento e mutabilidade (ou tempo, em relação ao dado sendo alterado ao longo do tempo). Sempre que criamos um objeto, essas três dimensões estão presentes.
@@ -26,7 +34,6 @@ Sendo assim podemos ter polimorfismo em cada uma dessas dimensões separadamente
 ![[polyproccess.png]]
 
 ---
-
-# References
+## References
 
 **VALIM, José.** _Keynote: Gang of None? Design Patterns in Elixir._ ElixirConf EU 2024, YouTube, 2024. Disponível em: [https://youtu.be/agkXUp0hCW8](https://youtu.be/agkXUp0hCW8). Acesso em: 19 dez. 2024.

@@ -1,6 +1,11 @@
-14/11/2024 - 14:52
-Tags: [[Elixir language]]
-
+---
+Criado: 2024-11-14T14:52
+Atualizado: 2025-05-23T14:06
+Estudado: 2024-11-14T14:52
+Links:
+  - "[[Elixir language]]"
+---
+---
 # EEx
 
 O módulo EEx (Embedded Elixir) permite que um código escrito em Elixir seja incorporado dentro de uma string.  As principais APIs do módulo são:
@@ -66,7 +71,6 @@ As tags suportadas pelo EEx são
 Mais informações sobre as `options` aceitas pelas funções e sobre a engine do EEX podem ser consultadas no [link da documentação oficial](https://hexdocs.pm/eex/EEx.html).
 
 ---
-
-# References
+## References
 
 EEX - Embedded Elixir. Disponível em: [https://hexdocs.pm/eex/EEx.html](https://hexdocs.pm/eex/EEx.html). Acesso em: 14 nov. 2024.

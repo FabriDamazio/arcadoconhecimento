@@ -1,6 +1,11 @@
-2025-01-08 - 10:50
-Tags: [[Elixir language]]
-
+---
+Criado: 2025-01-08T10:50
+Atualizado: 2025-05-23T16:30
+Estudado: 2025-01-08T10:50
+Links:
+  - "[[Elixir language]]"
+---
+---
 # Elixir - Módulos
 
 Os módulos permitem a organização e agrupamento de funções em um namespace.
@@ -43,6 +48,6 @@ As structs devem ser declaradas dentro de um módulo.
 
 ---
 
-# References
+## References
 
 **ELIXIR SCHOOL.** _Módulos._ Disponível em: [https://elixirschool.com/pt/lessons/basics/modules](https://elixirschool.com/pt/lessons/basics/modules). Acesso em: 8 jan. 2025.

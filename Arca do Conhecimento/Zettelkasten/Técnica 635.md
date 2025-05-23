@@ -1,6 +1,11 @@
-15/11/2024 - 11:05
-Tags: [[Técnicas e ferramentas no processo criativo]]
-
+---
+Criado: 2024-11-15T11:05
+Atualizado: 2025-05-23T17:25
+Estudado: 2024-11-15T11:05
+Links:
+  - "[[Técnicas e ferramentas no processo criativo]]"
+---
+---
 # Técnica 635
 
 A técnica do 635 busca o desenvolvimento rápido de um grande número de alternativas por meio da união de um grupo, em um curto espaço de tempo. De acordo com Pazmino (2015), o processo da técnica se dá utilizando uma estrutura de matriz, na qual cada um dos seis participantes deve elaborar três 18 alternativas em cinco minutos; deste modo, podem ser geradas 18 alternativas em 30 minutos
@@ -18,7 +23,6 @@ Exemplo:
 ![[tecnica 635.png]]
 
 ---
-
-# References
+## References
 
 UNINTER.  _Aula 3: Geração de idéias. In: **Metodologia do Design, Curso de Game Design**. Curitiba, 2024. Material didático online.

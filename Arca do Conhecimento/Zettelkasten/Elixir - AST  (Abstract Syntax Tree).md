@@ -1,6 +1,12 @@
-
-2025-01-02 - 09:06
-Tags: [[Metaprogramming em Elixir]]
+---
+Criado: 2025-01-02T09:06
+Atualizado: 2025-05-23T14:09
+Estudado: 2025-01-02T09:06
+Links:
+  - "[[Metaprogramming em Elixir]]"
+---
+---
+# Elixir - AST  (Abstract Syntax Tree)
 
 No Elixir, a Abstract Syntax Tree (que também pode ser conhecida como uma quoted expression) é a maneira da linguagem de representar um código como dados no formato de uma árvore.
 
@@ -20,8 +26,7 @@ Cada nó da AST é formada por uma tupla de 3 elementos onde:
 Para transformar um código Elixir em AST deve-se usar a função `quote/2` e de AST para código a função `unquote/1` do módulo `Kernel`.
 
 ---
-
-# References
+## References
 
 **DORGAN, Paul.** _The Elixir AST._ 20 abr. 2021. Disponível em: [https://dorgan.ar/posts/2021/04/the_elixir_ast/](https://dorgan.ar/posts/2021/04/the_elixir_ast/). Acesso em: 22 dez. 2024.
 

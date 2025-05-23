@@ -1,6 +1,11 @@
-2024-12-19 - 10:10
-Tags: [[Elixir language]]
-
+---
+Criado: 2024-12-19T10:10
+Atualizado: 2025-05-23T14:03
+Estudado: 2024-12-19T10:10
+Links:
+  - "[[Elixir language]]"
+---
+---
 # CRC Pattern (por Bruce Tate)
 
 O padrão CRC (Construir - Reduzir - Converter) é um conceito apresentado pelo autor Bruce Tate em seus livros e cursos. Ele demonstra que este padrão de implementação aparece em diversos lugares como plug, genserver, ecto, entre outros. 
@@ -55,7 +60,6 @@ Um `Genserver` constrói os dados na função `init/1`, reduz os dados nas funç
 Uma LiveView constrói os dados na função `mount/3`, os reduz na função `handle_event/3` e converte na função `render/1`.
 
 ---
-
-# References
+## References
 
 **RED RAPIDS.** _Learning Elixir: It’s all reduce._ Medium, 12 abr. 2016. Disponível em: [https://redrapids.medium.com/learning-elixir-its-all-reduce-204d05f52ee7](https://redrapids.medium.com/learning-elixir-its-all-reduce-204d05f52ee7). Acesso em: 19 dez. 2024.

@@ -1,6 +1,11 @@
-19/11/2024 - 13:55
-Tags: [[Técnicas para Avaliação do projeto de Design]]
-
+---
+Criado: 2024-11-19T13:55
+Atualizado: 2025-05-23T17:18
+Estudado: 2024-11-19T13:55
+Links:
+  - "[[Técnicas para Avaliação do projeto de Design]]"
+---
+---
 # Representação bidimensional no Design
 
 O designer é um profissional que atua, normalmente, no campo visual, e as imagens compõem não só o resultado, mas também a matéria-prima do trabalho. Como podemos ver na Figura 1, o desenho dá início ao projeto, e o ambiente finalizado comunica, visualmente, as características do ambiente e do morador – conforme falamos sobre as funções estéticas e simbólicas. 
@@ -17,7 +22,6 @@ Ainda de acordo com Silva et al. (2010), existem diferentes tipos de técnicas d
 
 
 ---
-
-# References
+## References
 
 UNINTER.  _Aula 4: Avaliação das alternativas e ações pré-projeto. In: **Metodologia do Design, Curso de Game Design**. Curitiba, 2024. Material didático online.

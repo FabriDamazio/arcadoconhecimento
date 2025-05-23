@@ -1,6 +1,13 @@
-2024-12-27 - 20:14
-Tags:  [[Elixir language]]   [[Elixir - AST  (Abstract Syntax Tree)]]  [[Macro]]
-
+---
+Criado: 2024-12-27T20:14
+Atualizado: 2025-05-23T16:47
+Estudado: 2024-12-27T20:14
+Links:
+  - "[[Elixir language]]"
+  - "[[Elixir - AST  (Abstract Syntax Tree)]]"
+  - "[[Macro]]"
+---
+---
 # Metaprogramming em Elixir
 
 Metaprogramação é o processo de escrever código que gera ou modifica outros códigos. Em Elixir isto acontece através da manipulação da **AST  (Abstract Syntax Tree)**, permitindo a alteração do comportamento do programa em tempo de compilação.
@@ -23,7 +30,6 @@ Metaprogramação é o processo de escrever código que gera ou modifica outros 
     - Manipular comportamento padrão de módulos ou funções.
 
 ---
-
-# References
+## References
 
 **ELIXIR SCHOOL.** _Metaprogramming._ Disponível em: [https://elixirschool.com/en/lessons/advanced/metaprogramming](https://elixirschool.com/en/lessons/advanced/metaprogramming). Acesso em: 22 dez. 2024.

@@ -1,6 +1,11 @@
-04/11/2024 - 20:39
-Tags: [[Cor]]
-
+---
+Criado: 2024-11-04T20:39
+Atualizado: 2025-05-23T17:16
+Estudado: 2024-11-04T20:39
+Links:
+  - "[[Cor]]"
+---
+---
 # Propriedades físicas da cor - Materialidade, cor e densidade
 
 ## Materialidade da cor
@@ -13,7 +18,6 @@ Outro fator a ser considerado é a densidade dos materiais dos quais são feitos
 
 
 ---
-
-# References
+## References
 
 UNINTER.  _Aula 1: Introdução à Teoria da Cor_. In: **Teoria da cor, Curso de Game Design**. Curitiba, 2024. Material didático online.

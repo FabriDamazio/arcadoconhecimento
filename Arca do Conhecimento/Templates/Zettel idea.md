@@ -1,6 +1,10 @@
-{{date}} - {{time}}
-Tags:
-
+---
+Criado: "{{date}}T{{time}}"
+Atualizado: 
+Estudado: 
+Links:
+---
+---
 # {{title}}
 
 
@@ -9,5 +13,4 @@ Tags:
 
 
 ---
-
-# References
+## References

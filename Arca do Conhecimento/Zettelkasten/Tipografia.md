@@ -1,6 +1,11 @@
-2025-02-12 - 09:04
-Tags: [[Design]]
-
+---
+Criado: 2025-02-12T09:04
+Atualizado: 2025-05-23T17:28
+Estudado: 2025-02-12T09:04
+Links:
+  - "[[Design]]"
+---
+---
 # Tipografia
 
 Segundo Mazzarotto (2018), tipografia se relaciona tanto ao ato de desenhar uma fonte como a fonte em si, e também aos estudos sobre como utilizar essa fonte de forma correta. O autor ainda complementa afirmando que a tipografia é “a evolução do processo milenar da escrita, proveniente da invenção da prensa de tipos móveis – que possibilitou a produção em larga escala” (Mazzarotto, 2018, p. 11).
@@ -29,7 +34,6 @@ Os movimentos cubistas e futuristas trouxeram uma simplificação das formas, ro
 - Moderna, que uniu o avanço tecnológico com mudanças sociais.
 
 ---
-
-# References
+## References
 
 UNINTER.  _Aula 3: Conceitos importantes no Design. In: **Fundamentos do Design, Curso de Game Design**. Curitiba, 2025. Material didático online.

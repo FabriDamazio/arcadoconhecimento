@@ -1,6 +1,11 @@
-04/11/2024 - 16:09
-Tags: [[Phoenix Framework]]
-
+---
+Criado: 2024-11-04T16:09
+Atualizado: 2025-05-23T16:53
+Estudado: 2024-11-04T16:09
+Links:
+  - "[[Phoenix Framework]]"
+---
+---
 # Phoenix - Controller
 
 Um controller gerencia a lógica do processamento de uma request e envia a resposta apropriada. Ele recebe as informações da request através de uma rota e responde por exemplo com uma View ou um JSON.
@@ -10,8 +15,7 @@ Um fluxo comum de uma requisição: inicia no navegador -> passa pelos Plugs -> 
 ![[Phoenix - Controllers.png]]
 
 ---
-
-# References
+## References
 
 PHOENIX Framework. Controllers. HexDocs, 2024. Disponível em: [https://hexdocs.pm/phoenix/controllers.html](https://hexdocs.pm/phoenix/controllers.html). Acesso em: 04 nov. 2024.
 

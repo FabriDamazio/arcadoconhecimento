@@ -1,6 +1,13 @@
-2024-12-04 - 10:38
-Tags: [[Phoenix Framework]] [[Atributos do Phoenix Component ]] [[Phoenix Components Slots]]
-
+---
+Criado: 2024-12-04T10:38
+Atualizado: 2025-05-23T16:56
+Estudado: 2024-12-04T10:38
+Links:
+  - "[[Phoenix Framework]]"
+  - "[[Atributos do Phoenix Component]]"
+  - "[[Phoenix Components Slots]]"
+---
+---
 # Phoenix Component
 
 São components reutilizáveis para criar interfaces modulares. O componente é uma função que recebe um `Map` de assigns como argumento e retorna uma struct `Phoenix.LiveView.Rendered` construída com o sigil `~H`.
@@ -33,7 +40,6 @@ end
 É possível definir atributos ao componente, especificando seu nome, tipo, valor padrão e outras opções
 
 ---
-
-# References
+## References
 
 PHOENIX Framework. _Phoenix.Component_. Disponível em: [https://hexdocs.pm/phoenix_live_view/Phoenix.Component.html](https://hexdocs.pm/phoenix_live_view/Phoenix.Component.html). Acesso em: 4 dez. 2024.
