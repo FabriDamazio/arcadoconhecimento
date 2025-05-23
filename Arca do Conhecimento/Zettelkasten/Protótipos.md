@@ -1,5 +1,4 @@
 25/11/2024 - 15:56
-Status: #idea
 Tags: [[Detalhamento do projeto de Design]]
 
 # Protótipos

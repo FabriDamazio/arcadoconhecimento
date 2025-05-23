@@ -1,5 +1,4 @@
 2025-01-26 - 14:10
-Status: #idea
 Tags: [[Algoritmo]]
 
 # Padrões para resolver problemas de algoritmos e estrutura de dados

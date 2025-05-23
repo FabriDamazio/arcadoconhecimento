@@ -1,5 +1,4 @@
 15/11/2024 - 10:52
-Status: #idea
 Tags: [[Técnicas e ferramentas no processo criativo]]
 
 # Brainstorming

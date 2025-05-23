@@ -1,5 +1,4 @@
 02/11/2024 - 18:50
-Status: #idea
 Tags: [[Paradigmas de programação]]
 
 # Paradigma funcional de programação

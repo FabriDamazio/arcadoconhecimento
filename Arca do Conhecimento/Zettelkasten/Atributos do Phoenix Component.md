@@ -1,5 +1,4 @@
 2024-12-04 - 19:38
-Status: #idea
 Tags: [[Phoenix Component]]
 
 # Atributos do Phoenix Component

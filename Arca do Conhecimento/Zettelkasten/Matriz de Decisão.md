@@ -1,5 +1,4 @@
 19/11/2024 - 12:58
-Status: #idea
 Tags: [[Técnicas para Avaliação do projeto de Design]]
 
 # Matriz de Decisão

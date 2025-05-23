@@ -1,5 +1,4 @@
 2025-01-02 - 13:56
-Status: #idea
 Tags: [[SQL]]
 
 # SQL - comando SELECT

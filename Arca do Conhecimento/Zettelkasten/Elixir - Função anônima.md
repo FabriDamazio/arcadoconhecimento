@@ -1,5 +1,4 @@
 06/11/2024 - 21:58
-Status: #idea
 Tags: [[Elixir language]] [[Função anônima]] [[closure]]
 
 # Elixir - Função anônima

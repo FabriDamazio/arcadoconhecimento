@@ -1,5 +1,4 @@
 02/11/2024 - 20:09
-Status: #idea
 Tags: [[Programação de computadores]]
 
 # Linguagem de programação

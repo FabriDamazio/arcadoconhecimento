@@ -1,5 +1,4 @@
 04/11/2024 - 20:57
-Status: #idea
 Tags: [[Game Design]]  [[Design]]
 
 # Metodologia do Design

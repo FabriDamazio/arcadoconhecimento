@@ -1,5 +1,4 @@
 14/11/2024 - 14:52
-Status: #idea
 Tags: [[Elixir language]]
 
 # EEx

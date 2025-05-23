@@ -1,5 +1,4 @@
 2025-01-02 - 11:00
-Status: #idea
 Tags: [[Metodologia do Design]]
 
 # Design

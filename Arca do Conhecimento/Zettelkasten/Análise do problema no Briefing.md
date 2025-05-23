@@ -1,5 +1,4 @@
 12/11/2024 - 21:35
-Status: #idea
 Tags: [[Briefing]]
 
 # Análise do problema no Briefing

@@ -1,5 +1,4 @@
 19/11/2024 - 09:30
-Status: #idea
 Tags: [[Phoenix Framework]]
 
 # Phoenix LiveView

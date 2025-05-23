@@ -1,5 +1,4 @@
 2024-12-27 - 20:14
-Status: #idea
 Tags:  [[Elixir language]]   [[Elixir - AST  (Abstract Syntax Tree)]]  [[Macro]]
 
 # Metaprogramming em Elixir

@@ -1,5 +1,4 @@
 04/11/2024 - 20:48
-Status: #idea
 Tags: [[Cor]]
 
 # Harmonia das cores

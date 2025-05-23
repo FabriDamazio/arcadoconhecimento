@@ -1,5 +1,4 @@
 04/11/2024 - 21:06
-Status: #idea
 Tags: [[Metodologia do Design]]
 
 # Metodologia no projeto de design

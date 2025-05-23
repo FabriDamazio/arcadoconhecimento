@@ -1,5 +1,4 @@
 28/11/2024 - 20:23
-Status: #idea
 Tags: [[Phoenix LiveView]]
 
 # Tratamento de eventos na LiveView

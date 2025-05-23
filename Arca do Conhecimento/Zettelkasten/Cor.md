@@ -1,5 +1,4 @@
 04/11/2024 - 20:33
-Status: #idea
 Tags:  [[Design]]
 
 # Cor

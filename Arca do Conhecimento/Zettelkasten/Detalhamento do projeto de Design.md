@@ -1,5 +1,4 @@
 25/11/2024 - 15:50
-Status: #idea
 Tags: [[As etapas do projeto de design]] [[GDD - Game Design Document]]
 
 # Detalhamento do projeto de Design

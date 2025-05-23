@@ -1,5 +1,4 @@
 04/11/2024 - 20:39
-Status: #idea
 Tags: [[Cor]]
 
 # Propriedades físicas da cor - Materialidade, cor e densidade

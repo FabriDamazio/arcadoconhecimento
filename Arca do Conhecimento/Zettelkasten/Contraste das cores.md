@@ -1,5 +1,4 @@
 2025-01-06 - 09:57
-Status: #idea
 Tags: [[Cor]]
 
 # Contraste das cores

@@ -1,5 +1,4 @@
 04/11/2024 - 20:40
-Status: #idea
 Tags: [[Cor]]
 
 # Classificação das cores

@@ -1,5 +1,4 @@
 04/11/2024 - 15:47
-Status: #idea
 Tags: [[Phoenix Framework]]
 
 # Phoenix - Routes, Plugs e Pipelines

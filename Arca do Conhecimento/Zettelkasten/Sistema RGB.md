@@ -1,5 +1,4 @@
 13/11/2024 - 19:19
-Status: #idea
 Tags: [[Sistemas Cromáticos]]
 
 # Sistema RGB

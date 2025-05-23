@@ -1,5 +1,4 @@
 08/11/2024 - 10:43
-Status: #idea
 Tags: [[Elixir language]]
 
 # Elixir - Guards

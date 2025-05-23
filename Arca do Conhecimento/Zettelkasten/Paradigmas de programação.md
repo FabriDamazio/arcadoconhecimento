@@ -1,5 +1,4 @@
 02/11/2024 - 19:50
-Status: #idea
 Tags:
 
 # Paradigmas de programação

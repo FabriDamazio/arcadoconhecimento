@@ -1,5 +1,4 @@
 2024-12-19 - 15:05
-Status: #idea
 Tags: [[Elixir language]]
 
 # A regra da menor expressividade

@@ -1,5 +1,4 @@
 14/11/2024 - 15:37
-Status: #idea
 Tags: [[Phoenix Framework]] [[EEx]]
 
 # HEEx templates

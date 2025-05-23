@@ -1,5 +1,4 @@
 07/11/2024 - 09:50
-Status: #idea
 Tags: [[Programação de computadores]] [[Funções de primeira classe (first-class functions)]]
 
 # Closure

@@ -1,5 +1,4 @@
 2025-01-06 - 10:54
-Status: #idea
 Tags: [[SQL]]
 
 # SQL - Dates

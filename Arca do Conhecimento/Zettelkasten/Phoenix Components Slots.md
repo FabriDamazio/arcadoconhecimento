@@ -1,5 +1,4 @@
 2024-12-06 - 09:21
-Status: #idea
 Tags: [[Phoenix Component]]
 
 # Phoenix Components Slots

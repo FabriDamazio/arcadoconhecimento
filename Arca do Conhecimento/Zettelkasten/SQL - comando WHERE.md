@@ -1,5 +1,4 @@
 2025-01-02 - 14:06
-Status: #idea
 Tags: [[SQL]]
 
 # SQL - comando WHERE

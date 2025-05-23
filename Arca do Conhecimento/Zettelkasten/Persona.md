@@ -1,5 +1,4 @@
 12/11/2024 - 21:41
-Status: #idea
 Tags: [[Briefing]]
 
 # Persona

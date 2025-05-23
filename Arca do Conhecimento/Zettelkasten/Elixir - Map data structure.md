@@ -1,5 +1,4 @@
 2025-01-03 - 09:20
-Status: #idea
 Tags: [[Elixir Data Structures]]]
 
 # Elixir - Map

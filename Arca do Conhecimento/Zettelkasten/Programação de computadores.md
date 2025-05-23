@@ -1,5 +1,4 @@
 06/11/2024 - 20:50
-Status: #idea
 Tags:
 
 # Programação de computadores

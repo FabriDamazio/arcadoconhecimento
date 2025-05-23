@@ -1,5 +1,4 @@
 19/11/2024 - 12:53
-Status: #idea
 Tags: [[As etapas do projeto de design]]
 
 # Técnicas para Avaliação do projeto de Design

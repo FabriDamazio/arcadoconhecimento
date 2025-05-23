@@ -1,5 +1,4 @@
 15/11/2024 - 11:14
-Status: #idea
 Tags: [[As etapas do projeto de design]]   [[Técnica 635]]  [[Brainstorming]]  [[Brain Dumping]]  [[Mapa Mental]]  [[MESCRAI (SCAMPER)]]  [[Matriz morfológica]]
 
 # Técnicas e ferramentas no processo criativo

@@ -1,5 +1,4 @@
 19/11/2024 - 13:01
-Status: #idea
 Tags: [[Técnicas para Avaliação do projeto de Design]]
 
 # Matriz de Diferencial Semântico

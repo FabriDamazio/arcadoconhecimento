@@ -1,5 +1,4 @@
 12/11/2024 - 21:30
-Status: #idea
 Tags: [[As etapas do projeto de design]]  [[Análise do problema no Briefing]]  [[Persona]]  [[Público-alvo]]  [[Conceito do Projeto no Briefing]]  [[Painéis visuais ou semânticos]]
 
 # Briefing

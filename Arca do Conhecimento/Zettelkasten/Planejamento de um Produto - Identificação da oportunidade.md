@@ -1,5 +1,4 @@
 04/11/2024 - 21:09
-Status: #idea
 Tags: [[As etapas do projeto de design]]
 
 # Planejamento de um Produto - Identificação da oportunidade

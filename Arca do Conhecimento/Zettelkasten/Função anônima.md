@@ -1,5 +1,4 @@
 06/11/2024 - 20:46
-Status: #idea
 Tags: [[Programação de computadores]] [[Paradigma funcional de programação]]
 
 # Função anônima

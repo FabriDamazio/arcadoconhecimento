@@ -1,5 +1,4 @@
 02/11/2024 - 18:40
-Status: #idea
 Tags: [[Linguagem de programação]] [[Paradigma funcional de programação]]
 
 # Elixir language

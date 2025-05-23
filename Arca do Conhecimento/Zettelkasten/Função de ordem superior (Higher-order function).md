@@ -1,5 +1,4 @@
 06/11/2024 - 21:01
-Status: #idea
 Tags: [[Função anônima]] [[Programação de computadores]] [[Matemática]] [[Paradigma funcional de programação]]
 
 # Função de ordem superior (Higher-order function)

@@ -1,5 +1,4 @@
 2025-01-26 - 14:13
-Status: #idea
 Tags: [[Padrões para resolver problemas de algoritmos e estrutura de dados]]
 
 # Two pointers

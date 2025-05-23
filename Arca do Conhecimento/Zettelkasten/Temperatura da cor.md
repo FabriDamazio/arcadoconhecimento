@@ -1,5 +1,4 @@
 13/11/2024 - 19:37
-Status: #idea
 Tags: [[Cor]]
 
 # Temperatura da cor

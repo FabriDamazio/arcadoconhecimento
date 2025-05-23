@@ -1,5 +1,4 @@
 06/11/2024 - 21:37
-Status: #idea
 Tags: [[Função de ordem superior (Higher-order function)]] [[Paradigma funcional de programação]] [[Matemática]] [[Programação de computadores]]
 
 # Função de primeira ordem (First-order function)

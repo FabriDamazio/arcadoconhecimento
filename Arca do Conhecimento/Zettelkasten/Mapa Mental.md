@@ -1,5 +1,4 @@
 15/11/2024 - 11:00
-Status: #idea
 Tags: [[Técnicas e ferramentas no processo criativo]]
 
 # Mapa Mental

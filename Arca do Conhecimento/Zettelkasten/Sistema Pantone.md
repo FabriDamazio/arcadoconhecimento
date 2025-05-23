@@ -1,5 +1,4 @@
 15/11/2024 - 10:00
-Status: #idea
 Tags: [[Sistemas Cromáticos]]
 
 # Sistema Pantone

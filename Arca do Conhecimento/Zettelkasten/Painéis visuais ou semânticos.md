@@ -1,5 +1,4 @@
 12/11/2024 - 21:47
-Status: #idea
 Tags: [[Briefing]]
 
 # Painéis visuais ou semânticos

@@ -1,5 +1,4 @@
 2025-01-14 - 09:19
-Status: #idea
 Tags: [[SQL]]
 
 # SQL - comando ORDER BY

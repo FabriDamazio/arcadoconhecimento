@@ -1,5 +1,4 @@
 2025-01-19 - 11:39
-Status: #idea
 Tags:  [[Programação de computadores]]
 
 # Algoritmo

@@ -1,5 +1,4 @@
 12/11/2024 - 21:44
-Status: #idea
 Tags: [[Briefing]]
 
 # Conceito do Projeto no Briefing

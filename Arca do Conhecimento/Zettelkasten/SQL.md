@@ -1,5 +1,4 @@
 2025-01-02 - 13:44
-Status: #idea
 Tags: [[Linguagem de programação]]
 
 # SQL

@@ -1,5 +1,4 @@
 07/11/2024 - 09:32
-Status: #idea
 Tags: [[Paradigma funcional de programação]] [[Programação de computadores]]
 
 # Funções de primeira classe (first-class functions)

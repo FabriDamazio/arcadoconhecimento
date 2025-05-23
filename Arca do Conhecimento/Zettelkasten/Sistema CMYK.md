@@ -1,5 +1,4 @@
 13/11/2024 - 19:24
-Status: #idea
 Tags: [[Sistemas Cromáticos]]
 
 # Sistema CMYK

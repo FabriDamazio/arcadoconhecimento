@@ -1,6 +1,5 @@
 
 2025-01-02 - 09:06
-Status: #idea
 Tags: [[Metaprogramming em Elixir]]
 
 No Elixir, a Abstract Syntax Tree (que também pode ser conhecida como uma quoted expression) é a maneira da linguagem de representar um código como dados no formato de uma árvore.

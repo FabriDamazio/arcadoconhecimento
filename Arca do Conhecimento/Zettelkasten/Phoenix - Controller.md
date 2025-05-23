@@ -1,5 +1,4 @@
 04/11/2024 - 16:09
-Status: #idea
 Tags: [[Phoenix Framework]]
 
 # Phoenix - Controller

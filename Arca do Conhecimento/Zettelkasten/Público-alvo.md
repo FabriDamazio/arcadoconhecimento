@@ -1,5 +1,4 @@
 12/11/2024 - 21:39
-Status: #idea
 Tags: [[Briefing]]
 
 # Público-alvo e persona

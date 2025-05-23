@@ -1,5 +1,4 @@
 04/11/2024 - 21:03
-Status: #idea
 Tags: [[Metodologia do Design]] [[Briefing]]
 
 # As etapas do projeto de design

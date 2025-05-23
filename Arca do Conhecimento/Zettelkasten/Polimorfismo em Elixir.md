@@ -1,5 +1,4 @@
 2024-12-19 - 14:05
-Status: #idea
 Tags: [[Elixir language]] [[Behaviour]]  [[Protocol]]  [[Processos]]
 
 # Polimorfismo em Elixir

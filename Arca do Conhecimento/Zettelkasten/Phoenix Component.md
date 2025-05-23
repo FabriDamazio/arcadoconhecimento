@@ -1,5 +1,4 @@
 2024-12-04 - 10:38
-Status: #idea
 Tags: [[Phoenix Framework]] [[Atributos do Phoenix Component ]] [[Phoenix Components Slots]]
 
 # Phoenix Component

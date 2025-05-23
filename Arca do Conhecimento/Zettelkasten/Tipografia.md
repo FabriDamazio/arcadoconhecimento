@@ -1,5 +1,4 @@
 2025-02-12 - 09:04
-Status: #idea
 Tags: [[Design]]
 
 # Tipografia

@@ -1,5 +1,4 @@
 04/11/2024 - 20:50
-Status: #idea
 Tags: [[Cor]]
 
 # Características da cor - Matiz, Saturação e Brilho

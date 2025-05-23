@@ -1,5 +1,4 @@
 2025-01-08 - 10:50
-Status: #idea
 Tags: [[Elixir language]]
 
 # Elixir - Módulos

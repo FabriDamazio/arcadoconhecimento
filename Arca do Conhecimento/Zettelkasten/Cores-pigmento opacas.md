@@ -1,5 +1,4 @@
 13/11/2024 - 19:29
-Status: #idea
 Tags: [[Sistema CMYK]]
 
 # Cores-pigmento opacas

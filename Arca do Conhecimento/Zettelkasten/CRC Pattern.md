@@ -1,5 +1,4 @@
 2024-12-19 - 10:10
-Status: #idea
 Tags: [[Elixir language]]
 
 # CRC Pattern (por Bruce Tate)

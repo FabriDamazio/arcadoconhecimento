@@ -1,5 +1,4 @@
 2025-01-14 - 09:05
-Status: #idea
 Tags: [[SQL]]
 
 # SQL - comando DISTINCT
