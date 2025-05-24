@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "cde5cf333dcc69d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a464e1f53f78ed6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ea1ac54dacd5225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pessoal/Planejamento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planejamento"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ce6d2536d6f0196",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dde14732c7146d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a48002472aa57e34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8ebd435d42ae5926",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c07a053b6a80a136",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adc18d5285d44599",
+    "type": "split",
+    "children": [
+      {
+        "id": "f86b0b8d97779a72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91fe2b6646430b52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pessoal/Planejamento.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Planejamento"
+            }
+          },
+          {
+            "id": "0555296ba4dcc1b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pessoal/Planejamento.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Planejamento"
+            }
+          },
+          {
+            "id": "4d9b8d8b8f4edd36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "34630c2434c2727c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pessoal/Planejamento.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Planejamento"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "a48002472aa57e34",
+  "lastOpenFiles": [
+    "Arca do Conhecimento/Dataviews/Notas a serem estudadas.md",
+    "Pessoal/Planejamento.md",
+    "Pessoal",
+    "Arca do Conhecimento/Dataviews/Notas por data de criação.md",
+    "Arca do Conhecimento/Zettelkasten/Mapa Mental.md",
+    "README.md",
+    "2025-05-24.md",
+    "Arca do Conhecimento/Zettelkasten/Elixir language.md",
+    "Excalidraw/Drawing 2025-05-23 19.22.35.excalidraw.md",
+    "Excalidraw",
+    "Arca do Conhecimento/Untitled Kanban.md",
+    "Arca do Conhecimento/tasks.md",
+    "2025-05-23.md",
+    "Untitled Kanban.md",
+    "Arca do Conhecimento/Zettelkasten/A regra da menor expressividade.md",
+    "Metodologia do Design]] [[Briefing.md",
+    "Arca do Conhecimento/Zettelkasten/CRC Pattern.md",
+    "Arca do Conhecimento/Zettelkasten/Cor.md",
+    "Arca do Conhecimento/Zettelkasten/Two pointers.md",
+    "Arca do Conhecimento/Zettelkasten/Tratamento de eventos na LiveView.md",
+    "Arca do Conhecimento/Zettelkasten/Tipografia.md",
+    "Arca do Conhecimento/Zettelkasten/Temperatura da cor.md",
+    "Arca do Conhecimento/Zettelkasten/Técnicas para Avaliação do projeto de Design.md",
+    "Arca do Conhecimento/Zettelkasten/Técnicas e ferramentas no processo criativo.md",
+    "Arca do Conhecimento/Zettelkasten/Técnica 635.md",
+    "Arca do Conhecimento/Zettelkasten/SQL - Dates.md",
+    "Arca do Conhecimento/Zettelkasten/SQL - comando WHERE.md",
+    "Arca do Conhecimento/Files/Classificação das cores1.png",
+    "Arca do Conhecimento/Dataviews"
+  ]
+}
