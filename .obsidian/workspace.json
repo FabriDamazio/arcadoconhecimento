@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Planejamento.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planejamento"
+              "title": "README"
             }
           }
         ]
@@ -170,10 +170,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a48002472aa57e34",
+  "active": "4ea1ac54dacd5225",
   "lastOpenFiles": [
-    "Arca do Conhecimento/Dataviews/Notas a serem estudadas.md",
+    "Pessoal/Notas semanais/1 semana.md",
     "Pessoal/Planejamento.md",
+    "Pessoal/Notas semanais",
+    "Pessoal/Notas diarias/26-05-2025.md",
+    "Arca do Conhecimento/Templates/Template Nota diária.md",
+    "Arca do Conhecimento/Templates/Zettel idea.md",
+    "Pessoal/Notas diarias/25-05-2025.md",
+    "Pessoal/Notas diarias",
+    "Arca do Conhecimento/Dataviews/Notas a serem estudadas.md",
     "Pessoal",
     "Arca do Conhecimento/Dataviews/Notas por data de criação.md",
     "Arca do Conhecimento/Zettelkasten/Mapa Mental.md",
@@ -195,10 +202,6 @@
     "Arca do Conhecimento/Zettelkasten/Tipografia.md",
     "Arca do Conhecimento/Zettelkasten/Temperatura da cor.md",
     "Arca do Conhecimento/Zettelkasten/Técnicas para Avaliação do projeto de Design.md",
-    "Arca do Conhecimento/Zettelkasten/Técnicas e ferramentas no processo criativo.md",
-    "Arca do Conhecimento/Zettelkasten/Técnica 635.md",
-    "Arca do Conhecimento/Zettelkasten/SQL - Dates.md",
-    "Arca do Conhecimento/Zettelkasten/SQL - comando WHERE.md",
     "Arca do Conhecimento/Files/Classificação das cores1.png",
     "Arca do Conhecimento/Dataviews"
   ]

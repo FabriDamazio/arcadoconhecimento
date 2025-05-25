@@ -1,2 +1,3 @@
-# arcadaprogramacao
-Onde todo conhecimento sobre programação deve estar
+# Arca do Conhecimento
+
+Repositório das minhas anotações criadas durante meus estudos sobre diversos assuntos e organizadas utilizando o método Zettelkasten.
