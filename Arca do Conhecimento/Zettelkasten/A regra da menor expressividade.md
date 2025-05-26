@@ -13,7 +13,7 @@ Quando estamos construindo grandes sistemas e compondo os componentes, vamos enc
 
 No Elixir, José Valim classifica a abstração quanto a sua simplicidade e expressividade da seguinte maneira:
 
-![[Pasted image 20241219151426.png]]
+![[elixirexpressiveness.png]]
 
 ---
 

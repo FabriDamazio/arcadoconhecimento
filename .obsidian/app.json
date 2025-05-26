@@ -1,1 +1,6 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Arca do Conhecimento/Zettelkasten",
+  "attachmentFolderPath": "Arca do Conhecimento/Files"
+}

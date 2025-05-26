@@ -1,7 +1,7 @@
 ---
 Criado: "{{date}}T{{time}}"
-Atualizado: 
-Estudado: 
+Atualizado: "{{date}}T{{time}}"
+Estudado: "{{date}}T{{time}}"
 Links:
 ---
 ---
