@@ -11,7 +11,7 @@ Links:
 
 Uma estrutura de dados é uma coleção de valores, seus relacionamentos e as funções ou operações que podem ser aplicados sobre eles.
 
-Estruturas de dados associativas permitem associar uma chave a um certo valor.  Diferentes linguagens tem diferentes nomes para elas como dicionários, hashes, associative arrays, etc. Em Elixir, as duas principais estruturas de dados associativas são `Keyword list` e `Map`.
+Estruturas de dados associativas permitem associar uma chave a um certo valor.  Diferentes linguagens tem diferentes nomes para elas como dicionários, hashes, associative arrays, etc. Em Elixir, as duas principais estruturas de dados associativas são `Keyword list` e `Map`. A `struct` é uma estrutura construída em cima do `Map` que permite definir uma conjunto de chaves específicos e valores padrões opcionais.
 
 ---
 ## References
