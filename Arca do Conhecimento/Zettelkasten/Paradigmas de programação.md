@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-02T19:50
 Atualizado: 2025-05-23T16:52
-Estudado: 2024-11-02T19:50
+Estudado: 2025-05-28T09:13
 Links:
 ---
 ---
@@ -14,7 +14,7 @@ Os conceitos que servem de base para design de uma linguagem de programação s�
 - **Funcional**: uso de funções.
 - **Lógico**: uso de relações.
 - **Concorrente**: uso de processos simultâneos e abstrações de controle.
-- **Script**: uso da lata abstração e simplicidade.
+- **Script**: uso de abstração e simplicidade.
 
 ---
 ## References

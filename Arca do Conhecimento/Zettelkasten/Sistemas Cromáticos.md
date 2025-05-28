@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-04T20:52
 Atualizado: 2025-05-23T17:21
-Estudado: 2024-11-04T20:52
+Estudado: 2025-05-28T09:22
 Links:
   - "[[Cor]]"
   - "[[Sistema CMYK]]"

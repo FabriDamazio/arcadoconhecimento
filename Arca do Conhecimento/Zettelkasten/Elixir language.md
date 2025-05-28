@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-02T18:40
 Atualizado: 2025-05-23T16:33
-Estudado: 2024-11-02T18:40
+Estudado: 2025-05-28T09:11
 Links:
   - "[[Linguagem de programação]]"
   - "[[Paradigma funcional de programação]]"

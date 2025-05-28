@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-02T18:50
 Atualizado: 2025-05-23T16:51
-Estudado: 2024-11-02T18:50
+Estudado: 2025-05-28T09:12
 Links:
   - "[[Paradigmas de programação]]"
 ---

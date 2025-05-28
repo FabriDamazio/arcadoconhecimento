@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-04T20:48
 Atualizado: 2025-05-23T16:41
-Estudado: 2024-11-04T20:48
+Estudado: 2025-05-28T09:20
 Links:
   - "[[Cor]]"
 ---

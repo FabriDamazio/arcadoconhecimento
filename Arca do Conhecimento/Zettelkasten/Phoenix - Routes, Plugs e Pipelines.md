@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-04T15:47
 Atualizado: 2025-05-23T16:55
-Estudado: 2024-11-04T15:47
+Estudado: 2025-05-28T09:16
 Links:
   - "[[Phoenix Framework]]"
 ---

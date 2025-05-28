@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-04T15:44
 Atualizado: 2025-05-23T16:58
-Estudado: 2024-11-04T15:44
+Estudado: 2025-05-28T09:16
 Links:
   - "[[Elixir language]]"
 ---
