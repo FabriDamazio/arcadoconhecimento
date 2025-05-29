@@ -22,7 +22,7 @@ Essa ideia pode parecer estranha, mas ajuda bastante nos algoritmos para grades 
 
 Cada **direção** na grade cúbica corresponde a uma **linha** na grade hexagonal. Ela é uma combinação de **duas direções** da grade cúbica. Por exemplo, o **norte** na grade hexagonal está entre `+s` e `-r`, então cada passo para o norte envolve somar 1 a `s` e subtrair 1 de `r`. Essa lógica é usada para calcular os hexágonos vizinhos.
 
-![[Pasted image 20250528104427.png]]
+![[Pasted image 20250529150059.png]]
 
 ## Relação com o Sistema Axial:
 
@@ -37,7 +37,7 @@ Devido à sua estrutura e suporte a operações vetoriais, muitos algoritmos sã
 
 Mover-se um espaço nas coordenadas hexagonais envolve alterar uma das 3 coordenadas cúbicas em **+1** e outra em **-1** (a soma deve permanecer 0). Há 3 coordenadas possíveis para incrementar em +1, e 2 restantes que podem ser decrementadas em -1. Isso resulta em **6 mudanças possíveis**, cada uma correspondendo a uma das direções hexagonais.
 
-![[Pasted image 20250528112124.png]]
+![[Pasted image 20250529150455.png]]
 
 A abordagem mais simples e rápida é **pré-calcular essas permutações** e armazená-las em uma tabela de `Hex(dq, dr, ds)`:
 
@@ -70,19 +70,20 @@ Com o sistema de coordenadas em cubo, podemos armazenar diferenças entre duas c
 
 Na grade cúbica 3D, a distância de Manhattan é `abs(dx) + abs(dy) + abs(dz)`. A distância em uma grade hexagonal é **a metade disso**:
 
-![[Pasted image 20250528114351.png]]
+![[Pasted image 20250529150545.png]]
 
+Um exemplo de como poderia ser implementado:
 ```csharp
-public Hex HexSubtract(a, b)
+Hex HexSubtract(Hex  a, Hex b)
 {
-    return Hex(a.q - b.q, a.r - b.r, a.s - b.s);
+    return Hex(a.Q - b.Q, a.R - b.R, a.S - b.S);
 }
 
 
-public int HexDistance(a, b)
+int HexDistance(Hex a, Hex b)
 {
 	var vec = HexSubtract(a, b);
-    return (abs(vec.q) + abs(vec.r) + abs(vec.s)) / 2;
+    return (Math.Abs(vec.Q) + Math.Abs(vec.R) + Math.Abs(vec.S)) / 2;
     // ou: (abs(a.q - b.q) + abs(a.r - b.r) + abs(a.s - b.s)) / 2
 }
 
@@ -92,15 +93,91 @@ public int HexDistance(a, b)
 // a forma com “dividir por dois” acima ou a forma com 
 // “máximo” abaixo — ambas produzem o mesmo resultado:
 
-public int HexDistance(a, b)
+int HexDistance(Hex a, Hex b)
 {
 	var vec = HexSubtract(a, b);
-	return max(abs(vec.q), abs(vec.r), abs(vec.s))
-    // ou: max(abs(a.q - b.q), abs(a.r - b.r), abs(a.s - b.s))
+	return Math.Max(Math.Abs(vec.Q), Math.Abs(vec.R), Math.Abs(vec.S));
+    // ou: (int)((Math.Abs(a.Q - b.Q) + Math.Abs(a.R - b.R) + Math.Abs(a.S - b.S)) / 2)
 }
  ```
  
+### Cálculo de linha reta
+
+Uma linha reta entre dois hexágonos pode não ser tão trivial:
+
+![[Pasted image 20250529151533.png]]
+
+Os passos para calcular esta linha reta seriam:
+
+1. Calcular a distância entre os dois hexágonos usando o [[#Cálculo de Distância]] (neste caso N=10).
+2. Traçamos pontos de forma uniforme pontos entre o início e o fim usando interpolação. Cada ponto podem ser calculados pela fórmula `A + (B - A) * 1.0/N * i` para valores de `i` começando em 0 até `N` (inclusive). Na imagem acima são os pontos azul escuro. 
+3. Converter cada um desses pontos de volta usando [[#Arredondamento para o hexágono mais próximo]].
+
+```csharp
+// Lerp para floats
+float Lerp(float a, float b, float t)
+{
+    return a + (b - a) * t;
+}
+// Lerp para Hex
+Hex HexLerp(Hex a, Hex b, float t)
+{
+    return new Hex(
+        Lerp(a.Q, b.Q, t),
+        Lerp(a.R, b.R, t),
+        Lerp(a.S, b.S, t)
+    );
+}
+// Retorna os Hex correspondentes
+List<Hex> HexLineDraw(Hex a, Hex b)
+{
+    int N = HexDistance(a, b);
+    var results = new List<Hex>();
+    for (int i = 0; i <= N; i++)
+    {
+        float t = (1.0f / N) * i;
+        results.Add(HexRound(HexLerp(a, b, t)));
+    }
+    return results;
+}
+```
+
+
 ### Cálculo de Alcance (Range)
+
+Dado um hexágono chamado `center` e um range `N`, como saber quais hexágonos estão a N passos de alcance?
+
+![[Pasted image 20250529160515.png]]
+
+Podemos resolver isso a partir da fórmula de distância entre hexágonos:  
+**distância = max(|q|, |r|, |s|)**.  
+
+Para encontrar todos os hexágonos dentro de `N` passos, queremos que:  
+**max(|q|, |r|, |s|) ≤ N**.
+
+Isso significa que precisamos que as três condições sejam verdadeiras:  
+**|q| ≤ N**, **|r| ≤ N**, **|s| ≤ N**.
+
+Removendo o valor absoluto, temos:  **-N ≤ q ≤ N**, **-N ≤ r ≤ N**, **-N ≤ s ≤ N**.
+
+Um exemplo de implementação:
+
+```csharp
+var results = new List<Hex>();
+for (int q = -N; q <= N; q++)
+{
+    int r1 = Math.Max(-N, -q - N);
+    int r2 = Math.Min(N, -q + N);
+    for (int r = r1; r <= r2; r++)
+    {
+        int s = -q - r;
+        results.Add(HexAdd(center, new Hex(q, r, s)));
+    }
+}
+```
+
+### Cálculo de Intersecção de Ranges
+
 
 
 ### Rotação e Reflexão
@@ -109,7 +186,7 @@ public int HexDistance(a, b)
 ### Desenho de Anéis e Espirais
 
 
-### Arredondamento
+### Arredondamento para o hexágono mais próximo
 
 
 ### Mapas Circulares (Wraparound)

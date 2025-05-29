@@ -1,6 +1,6 @@
 ---
 Criado: 2025-05-27T15:43
-Atualizado: 2025-05-27T15:43
+Atualizado: 2025-05-29T14:58
 Estudado: 2025-05-27T15:43
 Links:
   - "[[Game Design]]"
@@ -26,11 +26,7 @@ Sistemas de coordenadas são fundamentais para representar posições, movimento
 ## Sistema Hexagonal
 
 - Usado em jogos de estratégia (ex: *Civilization*).
-- Pode ser representado por:
-  - **Coordenadas Offset** (com alternância de colunas ou linhas)
-  - **Coordenadas Doubled** (alternativa ao offset)
-  - **Coordenadas Axial** `(q, r)`
-  - **Coordenadas Cube** `(x, y, z)` com `x + y + z = 0`
+- Pode ser representado por: Coordenadas Offset, Doubled, Axial ou Cube.
 
 ---
 ## References
