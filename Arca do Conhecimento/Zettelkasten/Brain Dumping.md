@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-15T10:58
 Atualizado: 2025-05-23T13:15
-Estudado: 2024-11-15T10:58
+Estudado: 2025-05-31T13:55
 Links:
   - "[[Técnicas e ferramentas no processo criativo]]"
 ---
