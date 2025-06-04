@@ -188,6 +188,33 @@ for (int q = -N; q <= N; q++)
 
 ### Arredondamento para o hexágono mais próximo
 
+Ao traçar uma linha entre dois hexágonos ou converter um pixel na tela para um hexágono (clique do mouse por exemplo), podemos ter uma ou mais coordenadas de um hexágono representadas por ponto flutuante. Converter essa coordenada para um inteiro é chamado de arredondamento.
+
+```csharp
+Hex Round(FloatHex h)
+{
+	// Arredondamento
+	var q = Math.Round(h.Q);
+	var r = Math.Round(h.R);
+	var s = Math.Round(h.S);
+
+	// Pode ser que depois de arredontar a restrição q+r+s=0 
+	// seja desrespeitada. Caso aconteça, o valor de q ou r ou s
+	// (nesta ordem) é alterado para a soma voltar a ser zero.
+	var qDiff = Math.Abs(q - h.Q);
+	var rDiff = Math.Abs(r - h.R);
+	var sDiff = Math.Abs(s - h.S);
+
+	if (qDiff > rDiff && qDiff > sDiff)
+		q = -r-s;
+	else if (rDiff > sDiff)
+		r = -q-s;
+	else
+		s = -q-r;
+
+	return new Hex(q, r, s);
+}
+```
 
 ### Mapas Circulares (Wraparound)
 
