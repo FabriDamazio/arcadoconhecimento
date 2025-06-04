@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-15T11:14
 Atualizado: 2025-05-23T17:26
-Estudado: 2024-11-15T11:14
+Estudado: 2025-06-04T09:26
 Links:
   - "[[As etapas do projeto de design]]"
   - "[[Técnica 635]]"

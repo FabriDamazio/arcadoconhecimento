@@ -1,7 +1,7 @@
 ---
 Criado: 2024-12-19T10:10
-Atualizado: 2025-05-23T14:03
-Estudado: 2024-12-19T10:10
+Atualizado: 2025-06-04T10:47
+Estudado: 2025-06-04T10:47
 Links:
   - "[[Elixir language]]"
 ---
@@ -19,7 +19,7 @@ De forma geral, criamos estruturas de dados iniciais, processamos essas estrutur
 Cria os dados iniciais para poderem ser processados.
 
 ```elixir
-iex> starting_values = [1, 2, 3]
+iex> valores_iniciais = [1, 2, 3]
 #[1, 2, 3]
 ```
 
@@ -47,7 +47,7 @@ iex>def converter(resultado) do:
 A versão final do CRC ficaria:
 
 ```elixir
-iex> starting_values |> reduzir |> converter
+iex> valores_iniciais |> reduzir |> converter
 # "O resultado é 6."
 ```
 

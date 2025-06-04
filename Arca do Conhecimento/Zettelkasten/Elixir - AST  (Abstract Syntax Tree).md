@@ -1,7 +1,7 @@
 ---
 Criado: 2025-01-02T09:06
 Atualizado: 2025-05-23T14:09
-Estudado: 2025-01-02T09:06
+Estudado: 2025-06-04T10:51
 Links:
   - "[[Metaprogramming em Elixir]]"
 ---

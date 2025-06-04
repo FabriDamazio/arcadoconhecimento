@@ -1,7 +1,7 @@
 ---
 Criado: 2024-12-06T09:21
 Atualizado: 2025-05-23T16:57
-Estudado: 2024-12-06T09:21
+Estudado: 2025-06-04T10:45
 Links:
   - "[[Phoenix Component]]"
 ---
@@ -63,6 +63,9 @@ Um slot pode receber atributos. No exemplo abaixo, uma nova chave chamada `:emoj
 
 ```elixir
 # Declarando o componente e passando :emoji para o slot
+slot :inner_block, required: true
+slot :details
+
 def banner(assigns) do
   assigns = assign(assigns, :emoji, ~w(😎 🤩 🥳) |> Enum.random())
 

@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-25T15:50
 Atualizado: 2025-05-23T14:05
-Estudado: 2024-11-25T15:50
+Estudado: 2025-06-04T09:31
 Links:
   - "[[As etapas do projeto de design]]"
   - "[[GDD - Game Design Document]]"

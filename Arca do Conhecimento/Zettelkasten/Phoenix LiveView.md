@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-19T09:30
 Atualizado: 2025-05-23T16:59
-Estudado: 2024-11-19T09:30
+Estudado: 2025-06-04T09:27
 Links:
   - "[[Phoenix Framework]]"
 ---
@@ -13,7 +13,7 @@ Uma LiveView é um processo que recebe eventos, atualiza seu estado e retorna as
 ## Ciclo de vida
 
 (1) - Uma LiveView inicia com uma chamada HTTP comum. 
-(2 e 3) - A função mount é executada e logo em seguida a função rendar que retorna o HTML da página. Esta execução é conhecida como uma execução "desconectada" pelo fato que o processo o LiveView ainda não ter sido criado e a conexão websocket estabelecida.
+(2 e 3) - A função mount é executada e logo em seguida a função render que retorna o HTML da página. Esta execução é conhecida como uma execução "desconectada" pelo fato que o processo o LiveView ainda não ter sido criado e a conexão websocket estabelecida.
 (4) - O HTML completo é da página e o app.js são retornados.
 
 ![[LiveView1.png]]

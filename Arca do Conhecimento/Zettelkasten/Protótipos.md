@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-25T15:56
 Atualizado: 2025-05-23T17:16
-Estudado: 2024-11-25T15:56
+Estudado: 2025-06-04T09:32
 Links:
   - "[[Detalhamento do projeto de Design]]"
 ---
