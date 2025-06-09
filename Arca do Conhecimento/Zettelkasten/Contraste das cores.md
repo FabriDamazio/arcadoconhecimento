@@ -1,7 +1,7 @@
 ---
 Criado: 2025-01-06T09:57
-Atualizado: 2025-05-23T13:57
-Estudado: 2025-01-06T09:57
+Atualizado: 2025-06-06T21:12
+Estudado: 2025-06-06T21:12
 Links:
   - "[[Cor]]"
 ---
@@ -23,9 +23,7 @@ O contraste sucessivo ou consecutivo se dá pela influência de uma cor
 sobre o espaço imediatamente ao lado dela. Quando você olha por muito tempo
 para uma imagem colorida, principalmente com tons brilhantes, e em seguida
 para um papel em branco, vê nele a ilusão de ótica de uma imagem espectral,
-nas cores complementares àquelas nas quais você havia fixado o olhar (Figura
-18). Esse fenômeno é chamado de imagem residual ou pós-imagem (Vaz;
-Silva, 2016).
+nas cores complementares àquelas nas quais você havia fixado o olhar. Esse fenômeno é chamado de imagem residual ou pós-imagem (Vaz;Silva, 2016).
 
 ---
 ## References

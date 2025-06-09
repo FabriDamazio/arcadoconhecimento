@@ -1,7 +1,7 @@
 ---
 Criado: 2025-01-02T14:06
 Atualizado: 2025-05-23T17:24
-Estudado: 2025-01-02T14:06
+Estudado: 2025-06-06T21:14
 Links:
   - "[[SQL]]"
 ---

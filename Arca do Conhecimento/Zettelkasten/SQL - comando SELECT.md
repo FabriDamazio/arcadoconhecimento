@@ -1,7 +1,7 @@
 ---
 Criado: 2025-01-02T13:56
 Atualizado: 2025-05-23T17:23
-Estudado: 2025-01-02T13:56
+Estudado: 2025-06-06T21:14
 Links:
   - "[[SQL]]"
 ---
@@ -11,9 +11,7 @@ Links:
 Recupera os dados de um banco de dados.
 
 ```SQL
-
 -- os exemplos abaixo levam em conta uma tabela chamada clientes com as colunas nome, sobrenome e email.
-
 
 -- seleciona todos registros da tabela clientes.
 SELECT * FROM clientes;
