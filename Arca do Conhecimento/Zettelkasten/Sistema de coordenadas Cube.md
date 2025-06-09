@@ -114,32 +114,35 @@ Os passos para calcular esta linha reta seriam:
 3. Converter cada um desses pontos de volta usando [[#Arredondamento para o hexágono mais próximo]].
 
 ```csharp
-// Lerp para floats
-float Lerp(float a, float b, float t)
-{
-    return a + (b - a) * t;
-}
-// Lerp para Hex
-Hex HexLerp(Hex a, Hex b, float t)
-{
-    return new Hex(
-        Lerp(a.Q, b.Q, t),
-        Lerp(a.R, b.R, t),
-        Lerp(a.S, b.S, t)
-    );
-}
-// Retorna os Hex correspondentes
-List<Hex> HexLineDraw(Hex a, Hex b)
-{
-    int N = HexDistance(a, b);
-    var results = new List<Hex>();
-    for (int i = 0; i <= N; i++)
+    public static List<Hex> GetHexesInLine(Hex origin, Hex destination)
     {
-        float t = (1.0f / N) * i;
-        results.Add(HexRound(HexLerp(a, b, t)));
+	    // Criada no parte de cálculo de distancia
+        var n = CalcDistance(origin, destination);
+        var hexes = new List<Hex>();
+
+        for (int i = 0; i <= n; i++)
+        {
+            var hex = Round(Lerp(origin, destination, 1.0f / n * i));
+            hexes.Add(hex);
+        }
+
+        return hexes;
     }
-    return results;
-}
+
+    private static FloatHex Lerp(Hex a, Hex b, float t)
+    {
+        return new FloatHex(
+              FloatLerp(a.Q, b.Q, t),
+              FloatLerp(a.R, b.R, t),
+              FloatLerp(a.S, b.S, t)
+            );
+    }
+
+    private static float FloatLerp(float a, float b, float t)
+    {
+        return a + (b - a) * t;
+    }
+
 ```
 
 
