@@ -179,16 +179,6 @@ for (int q = -N; q <= N; q++)
 }
 ```
 
-### Cálculo de Intersecção de Ranges
-
-
-
-### Rotação e Reflexão
-
-
-### Desenho de Anéis e Espirais
-
-
 ### Arredondamento para o hexágono mais próximo
 
 Ao traçar uma linha entre dois hexágonos ou converter um pixel na tela para um hexágono (clique do mouse por exemplo), podemos ter uma ou mais coordenadas de um hexágono representadas por ponto flutuante. Converter essa coordenada para um inteiro é chamado de arredondamento.
@@ -219,14 +209,20 @@ Hex Round(FloatHex h)
 }
 ```
 
-### Mapas Circulares (Wraparound)
+### Campo de visão (field of view)
 
+### Cálculo de Intersecção de Ranges
+
+### Rotação e Reflexão
+
+### Desenho de Anéis e Espirais
+
+### Mapas Circulares (Wraparound)
 
 ### Pathfinding
 
 
-
-### Histórico
+## Histórico
 
 O sistema de coordenadas Cube foi visto pela primeira vez pelo autor do texto em uma postagem de Charles Fu em 1994. É por vezes referido como "R3 coordinates" .
 

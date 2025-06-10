@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "798985858433bd37",
+            "id": "3669f6495f9bc712",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "3669f6495f9bc712",
+            "id": "ecf5c9a0c0763c00",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,9 +185,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3669f6495f9bc712",
+  "active": "ecf5c9a0c0763c00",
   "lastOpenFiles": [
     "Pessoal/Notas semanais/3 semana.md",
+    "Pessoal/Notas semanais/2 semana.md",
+    "Arca do Conhecimento/Zettelkasten/Sistema de coordenadas Cube.md",
     "Arca do Conhecimento/Zettelkasten/Polimorfismo em Elixir.md",
     "Arca do Conhecimento/Files/polyproccess.png",
     "Arca do Conhecimento/Files/dataprotocol.png",
@@ -196,7 +198,6 @@
     "Arca do Conhecimento/Files/Pasted image 20250528102639.png",
     "Arca do Conhecimento/Files/modulebehaviour.png",
     "Arca do Conhecimento/Dataviews/Notas por data de criação.md",
-    "Pessoal/Notas semanais/2 semana.md",
     "Pessoal/Notas semanais/1 semana.md",
     "Arca do Conhecimento/Dataviews/Notas a serem estudadas.md",
     "Arca do Conhecimento/Zettelkasten/Game Design.md",
@@ -214,7 +215,6 @@
     "Arca do Conhecimento/Zettelkasten/Rust - Tupla.md",
     "Arca do Conhecimento/Zettelkasten/Rust - Unit type.md",
     "Arca do Conhecimento/Zettelkasten/Rust - Tipos de dados.md",
-    "Arca do Conhecimento/Zettelkasten/Sistema de coordenadas Cube.md",
     "Arca do Conhecimento/Zettelkasten/Design.md",
     "Arca do Conhecimento/Zettelkasten/Elixir - AST  (Abstract Syntax Tree).md",
     "Arca do Conhecimento/Zettelkasten/Metaprogramming em Elixir.md",
