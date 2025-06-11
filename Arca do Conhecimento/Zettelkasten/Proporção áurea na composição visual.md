@@ -1,7 +1,7 @@
 ---
 Criado: 2025-05-26T09:30
 Atualizado: 2025-05-26T09:30
-Estudado: 2025-05-26T09:30
+Estudado: 2025-06-11T11:24
 Links:
   - "[[Composição visual]]"
 ---

@@ -1,8 +1,9 @@
 ---
 Criado: 2025-01-19T11:39:00
 Atualizado: 2025-05-23T13:00:00
-Estudado: 2025-01-19T11:39:00
-Links: "[[Programação de computadores]]"
+Estudado: 2025-06-11T10:54
+Links:
+  - "[[Programação de computadores]]"
 ---
 ---
 # Algoritmo
