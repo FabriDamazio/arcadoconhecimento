@@ -4,24 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "d85a56829ccc13a3",
+        "id": "80a000eab869afaa",
         "type": "tabs",
         "children": [
           {
-            "id": "1476a15b4544616d",
+            "id": "5d4ecedf2837ff51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arca do Conhecimento/Dataviews/Notas a serem estudadas.md",
+                "file": "Pessoal/Notas semanais/4 semana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas a serem estudadas"
+              "title": "4 semana"
+            }
+          },
+          {
+            "id": "107d0c8f0de2732b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "ca9f50d6018e4a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arca do Conhecimento/Zettelkasten/Alocação de memória.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alocação de memória"
+            }
+          },
+          {
+            "id": "da1bd3d0a61d9265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arca do Conhecimento/Zettelkasten/Heap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Heap"
+            }
+          },
+          {
+            "id": "d8c02dff39faeb4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arca do Conhecimento/Zettelkasten/Stack (pilha).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stack (pilha)"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,10 +223,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1476a15b4544616d",
+  "active": "da1bd3d0a61d9265",
   "lastOpenFiles": [
-    "Arca do Conhecimento/Zettelkasten/Funções de primeira classe (first-class functions).md",
+    "Arca do Conhecimento/Zettelkasten/Stack (pilha).md",
+    "Arca do Conhecimento/Zettelkasten/Heap.md",
+    "Arca do Conhecimento/Zettelkasten/Alocação de memória.md",
+    "Arca do Conhecimento/Zettelkasten/stack.md",
+    "Pessoal/Notas semanais/4 semana.md",
+    "Pessoal/Notas semanais/1 semana.md",
     "Arca do Conhecimento/Dataviews/Notas a serem estudadas.md",
+    "Arca do Conhecimento/Zettelkasten/Funções de primeira classe (first-class functions).md",
     "Arca do Conhecimento/Zettelkasten/Elixir - Função anônima.md",
     "Arca do Conhecimento/Zettelkasten/Função de primeira ordem (First-order function).md",
     "Arca do Conhecimento/Zettelkasten/Função de ordem superior (Higher-order function).md",
@@ -192,12 +251,6 @@
     "Arca do Conhecimento/Zettelkasten/Cor.md",
     "Arca do Conhecimento/Zettelkasten/Phoenix Framework.md",
     "Arca do Conhecimento/Zettelkasten/Phoenix - Routes, Plugs e Pipelines.md",
-    "Arca do Conhecimento/Zettelkasten/Elixir - Tipos básicos.md",
-    "Arca do Conhecimento/Zettelkasten/Linguagem de programação.md",
-    "Pessoal/Notas semanais/4 semana.md",
-    "Arca do Conhecimento/Zettelkasten/Rust - Ponteiros.md",
-    "Arca do Conhecimento/Zettelkasten/A regra da menor expressividade.md",
-    "Arca do Conhecimento/Dataviews/Notas por data de criação.md",
     "Arca do Conhecimento/Files/polyproccess.png",
     "Arca do Conhecimento/Files/dataprotocol.png",
     "Arca do Conhecimento/Files/Pasted image 20250528101719.png",
