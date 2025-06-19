@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-04T15:47
-Atualizado: 2025-05-23T16:55
-Estudado: 2025-05-28T09:16
+Atualizado: 2025-06-19T11:16
+Estudado: 2025-06-19T11:16
 Links:
   - "[[Phoenix Framework]]"
 ---
@@ -10,7 +10,7 @@ Links:
 
 ### Plug
 
-Um Plug é uma função ou módulo que recebe umas struct %Conn{}, realiza uma operação (transformação ou verificação) e retorna uma nova struct %Conn{} resultado desta operação. Ele é usado como uma "interceptador" da request para incluir ou verificar seus dados.
+Um Plug é uma função ou módulo que recebe umas struct `%Conn{}`, realiza uma operação (transformação ou verificação) e retorna uma nova struct `%Conn{}` resultado desta operação. Ele é usado como uma "interceptador" da request para incluir ou verificar seus dados.
 
 ### Pipelines
 

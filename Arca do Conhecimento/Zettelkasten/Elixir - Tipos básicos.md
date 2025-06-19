@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-02T21:05
-Atualizado: 2025-05-23T16:31
-Estudado: 2025-05-28T09:15
+Atualizado: 2025-06-19T11:15
+Estudado: 2025-06-19T11:15
 Links:
   - "[[Elixir language]]"
 ---
@@ -25,6 +25,6 @@ true       # boolean
 
 ---
 
-$# References
+## References
 
 HEXDOCS PM. _Elixir Basic Types_. Disponível em: [https://hexdocs.pm/elixir/basic-types.html](https://hexdocs.pm/elixir/basic-types.html). Acesso em: 2 nov. 2024.

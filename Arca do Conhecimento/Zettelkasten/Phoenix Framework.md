@@ -1,14 +1,14 @@
 ---
 Criado: 2024-11-04T15:44
-Atualizado: 2025-05-23T16:58
-Estudado: 2025-05-28T09:16
+Atualizado: 2025-06-19T11:17
+Estudado: 2025-06-19T11:17
 Links:
   - "[[Elixir language]]"
 ---
 ---
 # Phoenix Framework
 
-Framework web escrito em Elixir.
+Framework para criação de aplicações web escrito em Elixir.
 
 ---
 ## References
