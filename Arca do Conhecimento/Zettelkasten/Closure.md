@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-07T09:50
 Atualizado: 2025-05-23T13:54
-Estudado: 2025-05-31T13:42
+Estudado: 2025-06-20T16:16
 Links:
   - "[[Programação de computadores]]"
   - "[[Funções de primeira classe (first-class functions)]]"
