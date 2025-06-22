@@ -14,15 +14,15 @@ Outra maneira de enxergar grades hexagonais é perceber que existem **três eixo
 
 Vamos imaginar uma grade cúbica e recortar um plano diagonal onde **x + y + z = 0**:
 
-![[Pasted image 20250528103551.png]]
-![[Pasted image 20250528103635.png]]
-![[Pasted image 20250528103659.png]]
+![[hex5.png]]
+![[hex6.png]]
+![[hex7.png]]
 
 Essa ideia pode parecer estranha, mas ajuda bastante nos algoritmos para grades hexagonais porque **As Coordenadas cartesianas 3D** seguem as operações vetoriais padrão: podemos somar/subtrair coordenadas, multiplicar/dividir por um escalar, etc. Podemos reutilizar essas operações nas grades hexagonais. **Coordenadas deslocadas (offset)** não suportam essas operações. Elas também contam com algoritmos já estabelecidos para cálculo de distâncias, rotação, reflexão, traçado de linhas, conversão para/de coordenadas de tela, entre outros. Podemos adaptar esses algoritmos para funcionar com grades hexagonais.
 
 Cada **direção** na grade cúbica corresponde a uma **linha** na grade hexagonal. Ela é uma combinação de **duas direções** da grade cúbica. Por exemplo, o **norte** na grade hexagonal está entre `+s` e `-r`, então cada passo para o norte envolve somar 1 a `s` e subtrair 1 de `r`. Essa lógica é usada para calcular os hexágonos vizinhos.
 
-![[Pasted image 20250529150059.png]]
+![[hex12.png]]
 
 ## Relação com o Sistema Axial:
 
@@ -37,7 +37,7 @@ Devido à sua estrutura e suporte a operações vetoriais, muitos algoritmos sã
 
 Mover-se um espaço nas coordenadas hexagonais envolve alterar uma das 3 coordenadas cúbicas em **+1** e outra em **-1** (a soma deve permanecer 0). Há 3 coordenadas possíveis para incrementar em +1, e 2 restantes que podem ser decrementadas em -1. Isso resulta em **6 mudanças possíveis**, cada uma correspondendo a uma das direções hexagonais.
 
-![[Pasted image 20250529150455.png]]
+![[hex13.png]]
 
 A abordagem mais simples e rápida é **pré-calcular essas permutações** e armazená-las em uma tabela de `Hex(dq, dr, ds)`:
 
@@ -70,7 +70,7 @@ Com o sistema de coordenadas em cubo, podemos armazenar diferenças entre duas c
 
 Na grade cúbica 3D, a distância de Manhattan é `abs(dx) + abs(dy) + abs(dz)`. A distância em uma grade hexagonal é **a metade disso**:
 
-![[Pasted image 20250529150545.png]]
+![[hex14.png]]
 
 Um exemplo de como poderia ser implementado:
 ```csharp
@@ -105,7 +105,7 @@ int HexDistance(Hex a, Hex b)
 
 Uma linha reta entre dois hexágonos pode não ser tão trivial:
 
-![[Pasted image 20250529151533.png]]
+![[hex15.png]]
 
 Os passos para calcular esta linha reta seriam:
 
@@ -150,7 +150,7 @@ Os passos para calcular esta linha reta seriam:
 
 Dado um hexágono chamado `center` e um range `N`, como saber quais hexágonos estão a N passos de alcance?
 
-![[Pasted image 20250529160515.png]]
+![[hex16.png]]
 
 Podemos resolver isso a partir da fórmula de distância entre hexágonos:  
 **distância = max(|q|, |r|, |s|)**.  

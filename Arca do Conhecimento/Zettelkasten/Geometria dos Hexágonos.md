@@ -20,7 +20,7 @@ A largura (`width`) e altura (`height`) dependem do dobro desses raios:
 
 Existem duas **orientações possíveis**: com vértices para cima (_pointy top_) ou com lados para cima (_flat top_). 
 
-![[Pasted image 20250528101719.png]]
+![[hex1.png]]
 
 Quando colocamos vários hexágonos juntos, o cálculo do espaçamento entre eles depende do raio do círculo externo e do raio do círculo interno.
 
@@ -28,19 +28,19 @@ Quando colocamos vários hexágonos juntos, o cálculo do espaçamento entre ele
 - `espaçamento horizontal = 3/2 * size` 
 - `espaçamento vertical = sqrt(3) * size`
 
-![[Pasted image 20250528102135.png]]
+![[hex2.png]]
 
 **Orientação com lados para cima (flat top)**:
 - `espaçamento horizontal = sqrt(3) * size`
 - `espaçamento vertical = 3/2 * size`
 
-![[Pasted image 20250528102239.png]]
+![[hex3.png]]
 
 ## Ângulos
 
 Em um hexágono regular, os ângulos internos são de 120°. Existem seis "fatias", cada uma sendo um triângulo equilátero com ângulos internos de 60°. Cada vértice está a uma distância de **size** unidades do centro.
 
-![[Pasted image 20250528102639.png]]
+![[hex4.png]]
 
 
 ---
