@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "Visão geral sobre as notas"
             }
-          },
-          {
-            "id": "5d0e4ff7715749d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arca do Conhecimento/Zettelkasten/Elixir - Recursão.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elixir - Recursão"
-            }
           }
         ]
       }
@@ -92,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 340.5
   },
   "right": {
     "id": "adc18d5285d44599",
@@ -186,8 +172,15 @@
   },
   "active": "5d4ecedf2837ff51",
   "lastOpenFiles": [
-    "Arca do Conhecimento/Dataviews/Notas por data de criação.md",
+    "Arca do Conhecimento/Zettelkasten/Iluminação em jogos digitais.md",
+    "Arca do Conhecimento/Zettelkasten/Técnica de Iluminação de Três Pontos (3 point lighting).md",
+    "Arca do Conhecimento/Files/four_point_light.png",
+    "Arca do Conhecimento/Files/three_point_light2.png",
+    "Arca do Conhecimento/Files/three_point_light.png",
+    "Arca do Conhecimento/Files/Pasted image 20250529160515.png",
+    "Arca do Conhecimento/Zettelkasten/Godot - Iluminação (lighting).md",
     "Arca do Conhecimento/Dataviews/Visão geral sobre as notas.md",
+    "Arca do Conhecimento/Dataviews/Notas por data de criação.md",
     "Arca do Conhecimento/Zettelkasten/Elixir - Recursão.md",
     "Arca do Conhecimento/Zettelkasten/A regra da menor expressividade.md",
     "Arca do Conhecimento/Zettelkasten/Game Engine.md",
@@ -208,20 +201,12 @@
     "Arca do Conhecimento/Zettelkasten/stack.md",
     "Pessoal/Notas semanais/1 semana.md",
     "Arca do Conhecimento/Zettelkasten/Funções de primeira classe (first-class functions).md",
-    "Arca do Conhecimento/Zettelkasten/Elixir - Função anônima.md",
-    "Arca do Conhecimento/Zettelkasten/Função de primeira ordem (First-order function).md",
-    "Arca do Conhecimento/Zettelkasten/Função de ordem superior (Higher-order function).md",
-    "Arca do Conhecimento/Zettelkasten/Programação de computadores.md",
     "Arca do Conhecimento/Files/polyproccess.png",
     "Arca do Conhecimento/Files/dataprotocol.png",
     "Arca do Conhecimento/Files/Pasted image 20250528101719.png",
     "Arca do Conhecimento/Files/Pasted image 20250528102135.png",
     "Arca do Conhecimento/Files/Pasted image 20250528102639.png",
     "Arca do Conhecimento/Files/modulebehaviour.png",
-    "Arca do Conhecimento/Files/Pasted image 20250529160515.png",
-    "Arca do Conhecimento/Files/Pasted image 20250529151533.png",
-    "Arca do Conhecimento/Files/Pasted image 20250529150545.png",
-    "Arca do Conhecimento/Files/Pasted image 20250529150455.png",
     "Pessoal/Notas semanais",
     "Pessoal/Notas diarias",
     "Pessoal",
