@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-02T10:38
 Atualizado: 2025-06-02T10:38
-Estudado: 2025-06-02T10:38
+Estudado: 2025-06-24T13:58
 Links:
   - "[[Rust - Tipos de dados]]"
 ---

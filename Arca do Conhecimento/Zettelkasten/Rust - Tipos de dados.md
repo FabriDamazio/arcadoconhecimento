@@ -1,14 +1,14 @@
 ---
 Criado: 2025-06-02T10:30
 Atualizado: 2025-06-02T10:30
-Estudado: 2025-06-02T10:30
+Estudado: 2025-06-24T13:57
 Links:
   - "[[Rust language]]"
 ---
 ---
 # Rust - Tipos de dados
 
-Todo valor em Rust tem que ter um tipo. Os tipos em Rust estão divididos em dois subgrupos: scalar (escalares) e compound (composto).
+Todo valor em Rust deve ter um tipo. Os tipos em Rust estão divididos em dois subgrupos: scalar (escalares) e compound (composto).
 
 ## Scalar types (tipos escalares)
 

@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-02T14:32
 Atualizado: 2025-06-02T14:32
-Estudado: 2025-06-02T14:32
+Estudado: 2025-06-24T13:59
 Links:
   - "[[Rust - Tipos de dados]]"
   - "[[Rust - Integers type (inteiros)]]"
