@@ -1,7 +1,7 @@
 ---
 Criado: 2024-12-27T20:14
 Atualizado: 2025-06-04T10:48
-Estudado: 2025-06-04T10:48
+Estudado: 2025-06-26T10:29
 Links:
   - "[[Elixir language]]"
   - "[[Elixir - AST  (Abstract Syntax Tree)]]"
