@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-15T10:00
 Atualizado: 2025-05-23T17:20
-Estudado: 2025-05-31T13:53
+Estudado: 2025-06-26T09:21
 Links:
   - "[[Sistemas Cromáticos]]"
 ---

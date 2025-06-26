@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-02T14:50
 Atualizado: 2025-06-02T14:50
-Estudado: 2025-06-02T14:50
+Estudado: 2025-06-26T09:53
 Links:
   - "[[Elixir language]]"
 ---
@@ -54,17 +54,14 @@ defp soma([h | t], acc), do: soma(t, acc + h)
 ### Benefícios
 
 - **Otimização de desempenho:** o compilador pode transformar em loop interno (sem crescer a pilha).
-    
 - **Evita estouro de stack:** útil para listas grandes ou chamadas profundas.
-    
 - **Código mais funcional:** mantém o estilo funcional e eficiente.
-    
 
 ### Dicas de implementação
 
 - Sempre que possível, **use acumuladores** para escrever funções tail-recursive.
-    
 - Pode-se usar funções auxiliares (privadas) para esconder os detalhes do acumulador.
+
 ---
 ## References
 
