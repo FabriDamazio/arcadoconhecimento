@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-05T21:05
 Atualizado: 2025-06-05T21:05
-Estudado: 2025-06-05T21:05
+Estudado: 2025-06-27T15:53
 Links:
   - "[[Rust - Tipos de dados]]"
   - "[[Rust - Tupla]]"

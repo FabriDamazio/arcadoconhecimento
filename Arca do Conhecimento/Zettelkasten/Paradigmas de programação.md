@@ -1,8 +1,9 @@
 ---
 Criado: 2024-11-02T19:50
 Atualizado: 2025-06-11T11:34
-Estudado: 2025-06-11T11:34
+Estudado: 2025-07-02T10:56
 Links:
+  - "[[Programação de computadores]]"
 ---
 ---
 # Paradigmas de programação

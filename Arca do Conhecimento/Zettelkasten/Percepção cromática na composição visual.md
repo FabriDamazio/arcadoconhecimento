@@ -1,7 +1,7 @@
 ---
 Criado: 2025-05-26T09:25
 Atualizado: 2025-06-11T11:23
-Estudado: 2025-06-11T11:23
+Estudado: 2025-07-02T10:23
 Links:
   - "[[Equilíbrio na composição visual]]"
   - "[[Contraste das cores]]"
