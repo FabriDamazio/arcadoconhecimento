@@ -4,6 +4,7 @@ Atualizado: 2025-06-12T13:05
 Estudado: 2025-06-12T13:05
 Links:
   - "[[Rust language]]"
+  - "[[Rust - Borrow Checker]]"
 ---
 ---
 # Rust - Ownership
