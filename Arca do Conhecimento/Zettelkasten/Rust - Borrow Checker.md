@@ -47,7 +47,7 @@ println!("{}", num);
 // push vai fazer a mutação de v e é válido pq v tem permissão W
 v.push(4);                          
 
-
+// ------------------------------
 // Exemplo de permissão violada
 
 // v tem permissões +R +W +O
@@ -59,6 +59,22 @@ let num = &v[2];
 // os dados estão emprestados para num
 v.push(4);                     
 println!("{}", *num);
+
+// ------------------------------
+// Exemplo sem violação com referência mutável
+
+// v tem permissões +R +W +O
+let mut v = vec![1, 2, 3];
+// num pega emprestado os dados e ganha +R e +O
+// v empresta os dados e perde R, W e O
+// *num ganha permissões +R e +W
+// isso acontece porque num é uma referência mutável
+let num: &mut i32 = &mut v[2];
+// o valor de num pode ser mutado usando *num que possui W
+*num += 1;*
+// Após o uso o ownership dos dados é devolvido a v
+// As permissões +R +W e +O retornam a v
+println!("Thied element is {}", *num);
 ```
 
 
