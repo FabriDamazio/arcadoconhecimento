@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-14T12:38
 Atualizado: 2025-06-14T12:38
-Estudado: 2025-06-14T12:38
+Estudado: 2025-07-09T10:33
 Links:
   - "[[Godot Engine]]"
   - "[[Texturas em jogos 3D]]"

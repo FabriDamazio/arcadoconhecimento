@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-16T15:47
 Atualizado: 2025-06-16T15:47
-Estudado: 2025-06-16T15:47
+Estudado: 2025-07-08T08:51
 Links:
   - "[[Rust language]]"
 ---
@@ -32,7 +32,6 @@ let r = &x;      // r é uma referência imutável
 let m = &mut x;  // r é uma referência mutável (exclusiva)
 ```
 
-Já `Box`, `Rc` e `Arc` são ponteiros inteligentes.
 ### Box (alocação na heap)
 
 `Box<T>` é um ponteiro inteligente que aloca o valor na heap. É útil para tipos grandes ou para casos de recursão (como listas ligadas).

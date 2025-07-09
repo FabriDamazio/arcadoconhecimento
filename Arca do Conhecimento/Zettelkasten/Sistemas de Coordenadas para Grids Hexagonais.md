@@ -1,7 +1,7 @@
 ---
 Criado: 2025-05-27T16:06
 Atualizado: 2025-05-27T16:06
-Estudado: 2025-06-11T11:29
+Estudado: 2025-07-09T09:56
 Links:
   - "[[Sistemas de Coordenadas em Jogos]]"
 ---

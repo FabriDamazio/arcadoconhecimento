@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-14T15:00
 Atualizado: 2025-06-14T15:00
-Estudado: 2025-06-14T15:00
+Estudado: 2025-07-09T10:34
 Links:
   - "[[Godot - Material]]"
 ---

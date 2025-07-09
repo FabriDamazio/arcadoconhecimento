@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-04T21:09
 Atualizado: 2025-05-23T16:59
-Estudado: 2025-06-19T11:24
+Estudado: 2025-07-09T10:12
 Links:
   - "[[As etapas do projeto de design]]"
 ---
