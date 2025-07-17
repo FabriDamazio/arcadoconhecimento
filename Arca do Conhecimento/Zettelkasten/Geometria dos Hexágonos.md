@@ -1,7 +1,7 @@
 ---
 Criado: 2025-05-28T10:09
 Atualizado: 2025-05-28T10:09
-Estudado: 2025-06-20T16:16
+Estudado: 2025-07-16T13:38
 Links:
   - "[[Sistemas de Coordenadas para Grids Hexagonais]]"
 ---

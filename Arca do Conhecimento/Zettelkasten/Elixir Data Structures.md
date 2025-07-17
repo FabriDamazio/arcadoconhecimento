@@ -4,7 +4,6 @@ Atualizado: 2025-05-23T16:32
 Estudado: 2025-07-02T10:49
 Links:
   - "[[Elixir language]]"
-  - "[[Elixir Data Structures]]"
 ---
 ---
 # Elixir Data Structures

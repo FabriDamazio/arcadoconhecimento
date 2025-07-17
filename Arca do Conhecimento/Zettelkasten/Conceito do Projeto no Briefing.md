@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-12T21:44
 Atualizado: 2025-05-23T13:56
-Estudado: 2025-06-20T16:40
+Estudado: 2025-07-16T09:20
 Links:
   - "[[Briefing]]"
 ---

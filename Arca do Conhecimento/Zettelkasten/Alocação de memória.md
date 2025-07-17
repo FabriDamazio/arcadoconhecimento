@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-19T13:47
 Atualizado: 2025-06-19T13:47
-Estudado: 2025-06-19T13:47
+Estudado: 2025-07-16T10:24
 Links:
   - "[[Programação de computadores]]"
 ---

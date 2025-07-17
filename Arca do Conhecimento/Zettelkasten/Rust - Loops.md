@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-23T18:02
 Atualizado: 2025-06-23T18:02
-Estudado: 2025-06-23T18:02
+Estudado: 2025-07-16T11:03
 Links:
   - "[[Rust language]]"
 ---
@@ -14,7 +14,7 @@ Usados para executar repetidamente um bloco de código, a linguagem possui três
 
 O `loop` repete a execução do bloco de código até que seja explicitamente parado. Ele pode ser parado utilizando `break` ou `return`. A diferença é que utilizando `break`, o loop termina, mas o código depois dele continua normalmente. Já utilizando  `return`, toda a função termina na hora, e o que vem depois do loop nem chega a ser executado.
 
-Ao utilizar `continue`,  o loop porém pular o restante do código daquela repetição. É possível retornar um valor do `loop` adicionando o valor que quer retornar logo após o `break`.
+Ao utilizar `continue`,  o loop continua, porém não executa o restante do código daquela repetição. É possível retornar um valor do `loop` adicionando o valor que quer retornar logo após o `break`.
 
 ```rust
 fn main() {

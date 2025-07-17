@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-06T20:46
-Atualizado: 2025-05-23T16:33
-Estudado: 2025-06-19T11:25
+Atualizado: 2025-07-16T10:22
+Estudado: 2025-07-16T10:22
 Links:
   - "[[Programação de computadores]]"
   - "[[Paradigma funcional de programação]]"
@@ -9,7 +9,7 @@ Links:
 ---
 # Função anônima
 
-Uma função anônima é uma função cuja a definição não esta vinculada com um identificador. Ela é geralmente passada como argumento para funções de primeira classe (high order functions) ou usadas para construir o resultado de uma que precisa retornar uma função.
+Uma função anônima é uma função cuja a definição não esta vinculada com um identificador. Ela é geralmente passada como argumento para funções de ordem superior (high order functions) ou usadas para construir o resultado de uma função que precisa retornar uma outra função.
 
 ---
 ## References

@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-19T15:13
 Atualizado: 2025-06-19T15:13
-Estudado: 2025-06-19T15:13
+Estudado: 2025-07-16T10:26
 Links:
   - "[[Alocação de memória]]"
 ---

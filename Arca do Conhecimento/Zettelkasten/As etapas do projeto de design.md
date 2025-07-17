@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-04T21:03
 Atualizado: 2025-05-23T13:06
-Estudado: 2025-06-19T11:23
+Estudado: 2025-07-16T09:18
 Links:
   - "[[Metodologia do Design]]"
   - "[[Briefing]]"
