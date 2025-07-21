@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-08T10:43
 Atualizado: 2025-05-23T14:13
-Estudado: 2025-06-20T16:37
+Estudado: 2025-07-18T10:48
 Links:
   - "[[Elixir language]]"
 ---
@@ -11,7 +11,7 @@ Links:
 Guards é uma maneira de complementar o pattern matching com verificações mais complexas. Pode ser utilizado nas cláusulas (clauses) de funções, funções anônimas, for, with e case. No `try` é possível utilizar guards no `catch` e no `else`. O `receive` também suporta o uso de guards para receber mensagens.
 
 
-- Guards começão com a keyword `when`.
+- Guards começam com a keyword `when`.
 - Por convenção, os nomes das guards começão com o prefixo `_is`
 - Guard expressions são funções que devem ser puras e não realizar mutação de nenhum estado global e devem retornar `true` ou `false`.
 - Existe uma lista de guards comum na [documentação do Elixir](https://hexdocs.pm/elixir/Kernel.html#guards), entre elas `is_integer/1`, `is_list/1` , `is_nil` e muitas outras.

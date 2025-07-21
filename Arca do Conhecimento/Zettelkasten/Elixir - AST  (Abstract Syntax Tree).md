@@ -1,7 +1,7 @@
 ---
 Criado: 2025-01-02T09:06
 Atualizado: 2025-05-23T14:09
-Estudado: 2025-06-26T10:29
+Estudado: 2025-07-18T11:03
 Links:
   - "[[Metaprogramming em Elixir]]"
 ---
@@ -23,7 +23,7 @@ Cada nó da AST é formada por uma tupla de 3 elementos onde:
 {:foo, [], BarModule}
 ```
 
-Para transformar um código Elixir em AST deve-se usar a função `quote/2` e de AST para código a função `unquote/1` do módulo `Kernel`.
+Para transformar um código Elixir em AST, deve-se usar a função `quote/2` e de AST para código a função `unquote/1` do módulo `Kernel`.
 
 ---
 ## References

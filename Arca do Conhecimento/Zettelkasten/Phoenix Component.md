@@ -1,7 +1,7 @@
 ---
 Criado: 2024-12-04T10:38
 Atualizado: 2025-05-23T16:56
-Estudado: 2025-06-26T10:24
+Estudado: 2025-07-18T11:00
 Links:
   - "[[Phoenix Framework]]"
   - "[[Atributos do Phoenix Component]]"

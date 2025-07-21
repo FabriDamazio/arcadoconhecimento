@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-28T20:23
 Atualizado: 2025-05-23T17:29
-Estudado: 2025-06-26T10:25
+Estudado: 2025-07-18T11:01
 Links:
   - "[[Phoenix LiveView]]"
 ---
