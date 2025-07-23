@@ -1,14 +1,14 @@
 ---
 Criado: 2024-11-02T19:50
 Atualizado: 2025-06-11T11:34
-Estudado: 2025-07-02T10:56
+Estudado: 2025-07-23T15:08
 Links:
   - "[[Programação de computadores]]"
 ---
 ---
 # Paradigmas de programação
 
-Os conceitos que servem de base para design de uma linguagem de programação são: dados e tipos, variáveis e armazenamento, binding e escopo, abstrações procedurais, de dados e genéricas, sistemas de tipos, controle e concorrência. A maneira como selecionamos e combinamos estes conceitos base suportam estilos de programação distintos, o que chamamos de paradigmas. Existem seis principais paradigmas:
+Os conceitos que servem de base para design de uma linguagem de programação são: dados e tipos, variáveis e armazenamento, binding e escopo, abstrações procedurais de dados e genéricas, sistemas de tipos, controle e concorrência. A maneira como selecionamos e combinamos estes conceitos base suportam estilos de programação distintos, o que chamamos de paradigmas. Existem seis principais paradigmas:
 
 - **Imperativo**: uso de variáveis, comandos e procedimentos.
 - **Orientado a objetos**: uso de objetos, classes e herança.

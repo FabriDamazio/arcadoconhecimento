@@ -1,7 +1,7 @@
 ---
 Criado: 2025-01-02T11:14
 Atualizado: 2025-05-23T16:36
-Estudado: 2025-07-02T10:20
+Estudado: 2025-07-23T10:50
 Links:
   - "[[Design]]"
 ---

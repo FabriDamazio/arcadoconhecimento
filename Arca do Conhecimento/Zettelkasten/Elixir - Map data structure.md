@@ -1,7 +1,7 @@
 ---
 Criado: 2025-01-03T09:20
 Atualizado: 2025-05-23T16:29
-Estudado: 2025-07-02T10:49
+Estudado: 2025-07-23T14:54
 Links:
   - "[[Elixir Data Structures]]"
 ---
