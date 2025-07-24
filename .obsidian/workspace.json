@@ -22,21 +22,35 @@
             }
           },
           {
-            "id": "b121875d912a5695",
+            "id": "53595ed7760de99f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arca do Conhecimento/Dataviews/Visão geral sobre as notas.md",
+                "file": "Arca do Conhecimento/Zettelkasten/Elixir - Bitstring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Visão geral sobre as notas"
+              "title": "Elixir - Bitstring"
+            }
+          },
+          {
+            "id": "0872e3587b0265e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arca do Conhecimento/Zettelkasten/Elixir - Tipos de dados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elixir - Tipos de dados"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,15 +199,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b121875d912a5695",
+  "active": "0872e3587b0265e9",
   "lastOpenFiles": [
+    "Arca do Conhecimento/Zettelkasten/Elixir - Bitstring.md",
+    "Arca do Conhecimento/Zettelkasten/Elixir - Tipos de dados.md",
+    "Pessoal/Notas semanais/9 semana.md",
+    "Arca do Conhecimento/Dataviews/Visão geral sobre as notas.md",
     "Arca do Conhecimento/Zettelkasten/Paradigmas de programação.md",
     "Arca do Conhecimento/Zettelkasten/Paradigma funcional de programação.md",
     "Arca do Conhecimento/Zettelkasten/Two pointers.md",
     "Arca do Conhecimento/Zettelkasten/Padrões para resolver problemas de algoritmos e estrutura de dados.md",
     "Arca do Conhecimento/Zettelkasten/Elixir - Polimorfismo.md",
     "Arca do Conhecimento/Zettelkasten/Algoritmo.md",
-    "Arca do Conhecimento/Dataviews/Visão geral sobre as notas.md",
     "Arca do Conhecimento/Zettelkasten/Elixir language.md",
     "Arca do Conhecimento/Zettelkasten/Elixir - Struct.md",
     "Arca do Conhecimento/Zettelkasten/Elixir Data Structures.md",
@@ -210,9 +227,6 @@
     "Arca do Conhecimento/Zettelkasten/Função dos produtos.md",
     "Arca do Conhecimento/Zettelkasten/Contraste das cores.md",
     "Arca do Conhecimento/Zettelkasten/Design.md",
-    "Arca do Conhecimento/Zettelkasten/Protótipos.md",
-    "Arca do Conhecimento/Zettelkasten/Técnicas para Avaliação do projeto de Design.md",
-    "Arca do Conhecimento/Zettelkasten/Representação tridimensional no Design.md",
     "Arca do Conhecimento/Files/hex16.png",
     "Arca do Conhecimento/Files/hex15.png",
     "Arca do Conhecimento/Files/hex14.png",
