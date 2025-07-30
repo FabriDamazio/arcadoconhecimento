@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-12T13:05
 Atualizado: 2025-06-12T13:05
-Estudado: 2025-07-08T08:48
+Estudado: 2025-07-30T15:41
 Links:
   - "[[Rust language]]"
   - "[[Rust - Borrow Checker]]"

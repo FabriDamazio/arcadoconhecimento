@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-14T11:44
 Atualizado: 2025-06-14T11:44
-Estudado: 2025-07-09T10:30
+Estudado: 2025-07-30T17:10
 Links:
   - "[[Mesh em desenvolvimento de jogos 3D]]"
   - "[[Texturas em jogos 3D]]"

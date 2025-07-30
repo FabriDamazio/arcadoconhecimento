@@ -1,14 +1,14 @@
 ---
 Criado: 2025-01-14T09:05
-Atualizado: 2025-05-23T17:22
-Estudado: 2025-06-27T17:12
+Atualizado: 2025-07-30T16:51
+Estudado: 2025-07-30T16:51
 Links:
   - "[[SQL]]"
 ---
 ---
 # SQL - comando DISTINCT
 
-O comando DISTINCT pode ser usado em conjunto com o comando SELECT para recuperar registros únicos do banco de dados. Ele filtra os valores duplicados garantindo que as linhas retornadas são únicas.
+O comando DISTINCT pode ser usado em conjunto com o comando SELECT para recuperar registros únicos do banco de dados. Ele filtra os valores duplicados garantindo que as linhas retornadas tem valores únicos.
 
 ```sql
 -- retorna os nomes únicos da tabela cliente

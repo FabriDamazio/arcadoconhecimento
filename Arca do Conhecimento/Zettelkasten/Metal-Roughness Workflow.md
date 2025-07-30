@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-14T15:10
 Atualizado: 2025-06-14T15:10
-Estudado: 2025-07-09T10:35
+Estudado: 2025-07-30T17:12
 Links:
   - "[[Godot - Material]]"
   - "[[Renderização Baseada em Física (Physically Based Rendering - PBR)]]"

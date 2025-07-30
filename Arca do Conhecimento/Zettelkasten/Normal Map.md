@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-14T15:20
 Atualizado: 2025-06-14T15:20
-Estudado: 2025-07-09T10:35
+Estudado: 2025-07-30T17:13
 Links:
   - "[[Texturas em jogos 3D]]"
   - "[[Godot - Material]]"

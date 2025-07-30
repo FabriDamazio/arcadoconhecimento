@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-14T11:36
 Atualizado: 2025-06-14T11:36
-Estudado: 2025-07-09T10:29
+Estudado: 2025-07-30T17:09
 Links:
   - "[[Modelagem 3D em Jogos Digitais]]"
 ---

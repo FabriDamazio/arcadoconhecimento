@@ -1,7 +1,7 @@
 ---
 Criado: 2025-01-02T13:44
 Atualizado: 2025-05-23T17:21
-Estudado: 2025-06-27T17:12
+Estudado: 2025-07-30T16:52
 Links:
   - "[[Linguagem de programação]]"
 ---

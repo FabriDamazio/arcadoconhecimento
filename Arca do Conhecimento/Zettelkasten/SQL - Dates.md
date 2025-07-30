@@ -1,7 +1,7 @@
 ---
 Criado: 2025-01-06T10:54
 Atualizado: 2025-05-23T17:24
-Estudado: 2025-06-27T17:11
+Estudado: 2025-07-30T16:50
 Links:
   - "[[SQL]]"
 ---
@@ -22,7 +22,7 @@ Cada tipo de banco de dados possui diferentes comandos para formatar datas.
 
 ### SQL SERVER  (MSSQL)
 
-A partir do SQL Server 2012, temos a função `FORMAT` que permite formatar tanto valores númericos quanto datas. 
+A partir do SQL Server 2012, temos a função `FORMAT` que permite formatar tanto valores numéricos quanto datas. 
 
 ```sql
 

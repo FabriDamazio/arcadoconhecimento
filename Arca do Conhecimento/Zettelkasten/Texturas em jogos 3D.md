@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-14T12:33
 Atualizado: 2025-06-14T12:33
-Estudado: 2025-07-09T10:31
+Estudado: 2025-07-30T17:11
 Links:
   - "[[UV Mapping]]"
 ---

@@ -1,7 +1,7 @@
 ---
 Criado: 2025-07-03T14:09
 Atualizado: 2025-07-03T14:09
-Estudado: 2025-07-03T14:09
+Estudado: 2025-07-30T15:38
 Links:
   - "[[Rust - Ownership]]"
 ---

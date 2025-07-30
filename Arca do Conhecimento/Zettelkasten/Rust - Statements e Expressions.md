@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-05T21:33
 Atualizado: 2025-06-05T21:33
-Estudado: 2025-06-27T15:55
+Estudado: 2025-07-30T15:35
 Links:
   - "[[Rust language]]"
 ---
