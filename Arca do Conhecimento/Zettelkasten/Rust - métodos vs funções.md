@@ -8,7 +8,7 @@ Links:
 ---
 # Rust - métodos vs funções
 
-Em Rust, métodos e funções possui uma diferença crucial: funções são blocos de códigos não associados a um tipo. O método é uma função associada a um tipo, operando em uma instância. Por exemplo:
+Em Rust, métodos e funções possui uma diferença crucial: funções são blocos de códigos não associados a um tipo (menos as funções associadas, ver mais abaixo). O método é associado a um tipo, operando em uma instância. Por exemplo:
 
 ```rust
 // uma função independente
@@ -31,6 +31,19 @@ Retangulo::area(&ret);
 ### Syntax sugar para chamada de métodos
 
 As duas maneiras mostradas acima de como chamar um método são traduzidas da mesma maneira. Isso quer dizer que `ret.area()` quando compilado é traduzido para `Retangulo::area(&ret)`.
+
+## Funções associadas (Associated functions)
+
+Uma função criada dentro de um bloco `impl` é conhecida como uma função associada (associated function). Ela é uma função (e não um método) porque ela não tem o `self` como o primeiro parâmetro. Diferente do método associado, a função associada não precisa de uma instância para ser usada. Ela é frequentemente usada para definir construtores que retornam uma nova instância da struct.
+
+```rust
+// uma função associada
+impl Rectangle {
+    fn new(width: u32, height: u32) -> Self {
+        Self { width, height }
+    }
+}
+```
 
 ---
 ## References
