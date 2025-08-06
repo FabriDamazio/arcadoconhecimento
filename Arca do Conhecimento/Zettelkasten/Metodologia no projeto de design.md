@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-04T21:06
 Atualizado: 2025-05-23T16:49
-Estudado: 2025-07-09T10:11
+Estudado: 2025-08-06T11:04
 Links:
   - "[[Metodologia do Design]]"
 ---

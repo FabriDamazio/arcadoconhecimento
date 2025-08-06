@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-12T21:30
 Atualizado: 2025-05-23T13:19
-Estudado: 2025-07-16T09:19
+Estudado: 2025-08-06T11:07
 Links:
   - "[[As etapas do projeto de design]]"
   - "[[Análise do problema no Briefing]]"
