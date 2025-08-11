@@ -1,6 +1,6 @@
 ---
 Criado: 2025-07-28T16:06
-Atualizado: 2025-07-28T16:06
+Atualizado: 2025-08-11T19:16
 Estudado: 2025-07-28T16:06
 Links:
   - "[[Rust language]]"
@@ -8,7 +8,7 @@ Links:
 ---
 # Rust - métodos vs funções
 
-Em Rust, métodos e funções possui uma diferença crucial: funções são blocos de códigos não associados a um tipo (menos as funções associadas, ver mais abaixo). O método é associado a um tipo, operando em uma instância. Por exemplo:
+Em Rust, o que chamamos de métodos e funções possuem uma diferença crucial: funções são blocos de códigos não associados a um tipo (menos as funções associadas, ver mais abaixo). O método é associado a um tipo, operando em uma instância com primeiro argumento sendo `self`. Por exemplo:
 
 ```rust
 // uma função independente
@@ -32,9 +32,11 @@ Retangulo::area(&ret);
 
 As duas maneiras mostradas acima de como chamar um método são traduzidas da mesma maneira. Isso quer dizer que `ret.area()` quando compilado é traduzido para `Retangulo::area(&ret)`.
 
+**Em Rust, o método é apenas um syntax sugar para funções com um parâmetro `self` explícito.**
+
 ## Funções associadas (Associated functions)
 
-Uma função criada dentro de um bloco `impl` é conhecida como uma função associada (associated function). Ela é uma função (e não um método) porque ela não tem o `self` como o primeiro parâmetro. Diferente do método associado, a função associada não precisa de uma instância para ser usada. Ela é frequentemente usada para definir construtores que retornam uma nova instância da struct.
+Uma função criada dentro de um bloco `impl` é chamada de função associada (associated function). Ela é uma função (e não um método) porque ela não tem o `self` como o primeiro parâmetro. Diferente do método associado, a função associada não precisa de uma instância para ser usada. Ela é frequentemente usada para definir construtores que retornam uma nova instância da struct.
 
 ```rust
 // uma função associada
@@ -44,6 +46,8 @@ impl Rectangle {
     }
 }
 ```
+
+Rust não possui uma palavra-chave (keyword) para construtor. A forma idiomática de definir um construtor é criar uma função associada chamada `new` (mas não é obrigatório pela linguagem).
 
 ---
 ## References
