@@ -22,35 +22,21 @@
             }
           },
           {
-            "id": "1cfba6ad6c3b054a",
+            "id": "dbb85526e42337f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arca do Conhecimento/Dataviews/Visão geral sobre as notas.md",
+                "file": "Arca do Conhecimento/Zettelkasten/Elixir - Charlist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Visão geral sobre as notas"
-            }
-          },
-          {
-            "id": "eff03e1562b6c2d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arca do Conhecimento/Zettelkasten/Rust - métodos vs funções.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rust - métodos vs funções"
+              "title": "Elixir - Charlist"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,14 +185,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eff03e1562b6c2d5",
+  "active": "dbb85526e42337f9",
   "lastOpenFiles": [
+    "Arca do Conhecimento/Zettelkasten/Elixir - Charlist.md",
+    "Pessoal/Notas semanais/1. Semana.md",
+    "Pessoal/O PLANO.md",
     "Arca do Conhecimento/Dataviews/Visão geral sobre as notas.md",
     "Arca do Conhecimento/Zettelkasten/Rust - métodos vs funções.md",
-    "Pessoal/Notas semanais/1. Semana.md",
     "Pessoal/Notas semanais/old/12 semana.md",
     "Pessoal/Notas semanais/old/1 semana.md",
-    "Pessoal/O PLANO.md",
     "Pessoal/Notas semanais/old",
     "Pessoal/Notas semanais/old/11 semana.md",
     "Arca do Conhecimento/Zettelkasten/Phoenix Framework.md",
@@ -227,7 +214,6 @@
     "Arca do Conhecimento/Zettelkasten/Metodologia no projeto de design.md",
     "Arca do Conhecimento/Zettelkasten/Sistemas Cromáticos.md",
     "Arca do Conhecimento/Zettelkasten/Características da cor - Matiz, Saturação e Brilho.md",
-    "Arca do Conhecimento/Zettelkasten/Harmonia das cores.md",
     "Arca do Conhecimento/Files/hex16.png",
     "Arca do Conhecimento/Files/hex15.png",
     "Arca do Conhecimento/Files/hex14.png",
