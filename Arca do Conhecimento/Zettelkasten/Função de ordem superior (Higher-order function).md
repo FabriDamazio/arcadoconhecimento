@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-06T21:01
 Atualizado: 2025-05-23T16:34
-Estudado: 2025-07-16T10:22
+Estudado: 2025-08-13T11:05
 Links:
   - "[[Função anônima]]"
   - "[[Programação de computadores]]"

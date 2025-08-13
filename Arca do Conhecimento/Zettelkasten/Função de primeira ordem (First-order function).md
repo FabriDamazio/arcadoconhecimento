@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-06T21:37
 Atualizado: 2025-05-23T16:35
-Estudado: 2025-07-16T10:22
+Estudado: 2025-08-13T11:05
 Links:
   - "[[Função de ordem superior (Higher-order function)]]"
   - "[[Paradigma funcional de programação]]"

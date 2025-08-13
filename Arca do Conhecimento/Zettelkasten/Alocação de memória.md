@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-19T13:47
 Atualizado: 2025-06-19T13:47
-Estudado: 2025-07-16T10:24
+Estudado: 2025-08-13T11:06
 Links:
   - "[[Programação de computadores]]"
 ---
@@ -14,7 +14,7 @@ Ela pode ser dividida em dois grupos principais: estática e dinâmica.
 
 ## Alocação estática
 
-Ocorre em tempo de compilação e o espaço de memória é fixado antes da execução (por exemplo variáveis e constantes).
+Ocorre em tempo de compilação e o espaço de memória é fixado antes da execução (por exemplo as constantes).
 
 ## Alocação dinâmica
 

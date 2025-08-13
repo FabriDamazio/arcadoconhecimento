@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-02T10:19
 Atualizado: 2025-06-02T10:19
-Estudado: 2025-07-16T10:27
+Estudado: 2025-08-13T11:09
 Links:
   - "[[Programação de computadores]]"
   - "[[Paradigma funcional de programação]]"

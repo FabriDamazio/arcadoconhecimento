@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-06T20:50
 Atualizado: 2025-05-23T17:15
-Estudado: 2025-07-16T10:22
+Estudado: 2025-08-13T11:05
 Links:
 ---
 ---
