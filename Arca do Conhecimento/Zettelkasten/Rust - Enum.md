@@ -1,8 +1,10 @@
 ---
-Criado: "2025-08-14T11:37"
-Atualizado: "2025-08-14T11:37"
-Estudado: "2025-08-14T11:37"
+Criado: 2025-08-14T11:37
+Atualizado: 2025-08-14T11:37
+Estudado: 2025-08-14T11:37
 Links:
+  - "[[Rust - Tipos de dados]]"
+  - "[[Rust - Option enum]]"
 ---
 ---
 # Rust - Enum
