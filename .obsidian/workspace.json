@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Notas semanais/1. Semana.md",
+                "file": "Pessoal/Notas semanais/2. Semana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Semana"
+              "title": "2. Semana"
             }
           },
           {
@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Visão geral sobre as notas"
             }
+          },
+          {
+            "id": "fc58fbb513fab7b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arca do Conhecimento/Zettelkasten/Rust - Enum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rust - Enum"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,6 +190,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -185,8 +200,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dbb85526e42337f9",
+  "active": "fc58fbb513fab7b1",
   "lastOpenFiles": [
+    "Pessoal/Notas semanais/2. Semana.md",
+    "Pessoal/Notas semanais/1. Semana.md",
+    "Arca do Conhecimento/Dataviews/Visão geral sobre as notas.md",
+    "Arca do Conhecimento/Zettelkasten/Rust - Enum.md",
+    "Arca do Conhecimento/Zettelkasten/Temperatura da cor.md",
+    "Arca do Conhecimento/Zettelkasten/Sistema Pantone.md",
+    "Arca do Conhecimento/Zettelkasten/Sistema RGB.md",
+    "Arca do Conhecimento/Zettelkasten/Sistema CMYK.md",
+    "Arca do Conhecimento/Zettelkasten/Cores-pigmento translúcidas ou brilhantes.md",
+    "Arca do Conhecimento/Zettelkasten/Cores-pigmento opacas.md",
+    "Arca do Conhecimento/Zettelkasten/Untitled.md",
     "Arca do Conhecimento/Zettelkasten/Rust - Floating-Point Types (ponto flutuante).md",
     "Arca do Conhecimento/Zettelkasten/Rust - Character type.md",
     "Arca do Conhecimento/Zettelkasten/Rust - Integers type (inteiros).md",
@@ -196,23 +222,12 @@
     "Arca do Conhecimento/Zettelkasten/Rust - Loops.md",
     "Arca do Conhecimento/Zettelkasten/Rust - Variáveis.md",
     "Arca do Conhecimento/Zettelkasten/Rust - Slice type.md",
-    "Arca do Conhecimento/Dataviews/Visão geral sobre as notas.md",
-    "Pessoal/Notas semanais/1. Semana.md",
     "Arca do Conhecimento/Zettelkasten/Imutabilidade em programação.md",
     "Arca do Conhecimento/Zettelkasten/Heap.md",
     "Arca do Conhecimento/Zettelkasten/Closure.md",
     "Arca do Conhecimento/Zettelkasten/Stack (pilha).md",
     "Arca do Conhecimento/Zettelkasten/Funções de primeira classe (first-class functions).md",
     "Arca do Conhecimento/Zettelkasten/Alocação de memória.md",
-    "Arca do Conhecimento/Zettelkasten/Programação de computadores.md",
-    "Arca do Conhecimento/Zettelkasten/Função de primeira ordem (First-order function).md",
-    "Arca do Conhecimento/Zettelkasten/Função de ordem superior (Higher-order function).md",
-    "Arca do Conhecimento/Zettelkasten/Função anônima.md",
-    "Arca do Conhecimento/Zettelkasten/Elixir - Charlist.md",
-    "Pessoal/O PLANO.md",
-    "Arca do Conhecimento/Zettelkasten/Rust - métodos vs funções.md",
-    "Pessoal/Notas semanais/old/12 semana.md",
-    "Pessoal/Notas semanais/old/1 semana.md",
     "Pessoal/Notas semanais/old",
     "Arca do Conhecimento/Files/hex16.png",
     "Arca do Conhecimento/Files/hex15.png",
