@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-02T14:50
-Atualizado: 2025-06-02T14:50
-Estudado: 2025-07-18T10:57
+Atualizado: 2025-08-20T14:50:00
+Estudado: 2025-08-20T11:34:00
 Links:
   - "[[Elixir language]]"
 ---
@@ -36,7 +36,6 @@ Uma chamada recursiva é considerada **de cauda** quando **é a última operaç�
 ```elixir
 def conta_regressiva(0), do: :fim
 def conta_regressiva(n) do
-  IO.puts(n)
   conta_regressiva(n - 1)
 end
 ```
@@ -47,7 +46,7 @@ Neste caso, `h + soma(t)` **não** é uma tail call, pois a adição ainda preci
 def soma(lista), do: soma(lista, 0)
 
 defp soma([], acc), do: acc
-defp soma([h | t], acc), do: soma(t, acc + h)
+defp soma([h | t], acc), do: soma(t, acc) + h
 
 ```
 

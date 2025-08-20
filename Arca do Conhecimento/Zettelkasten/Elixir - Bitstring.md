@@ -1,7 +1,7 @@
 ---
 Criado: 2025-07-22T18:18
 Atualizado: 2025-07-22T18:18
-Estudado: 2025-07-22T18:18
+Estudado: 2025-08-20T12:00:00
 Links:
   - "[[Elixir - Tipos de dados]]"
 ---

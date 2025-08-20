@@ -1,7 +1,7 @@
 ---
 Criado: 2025-07-17T11:38
 Atualizado: 2025-07-17T11:38
-Estudado: 2025-07-17T11:38
+Estudado: 2025-08-20T11:16:00
 Links:
   - "[[Elixir Data Structures]]"
 ---
@@ -13,7 +13,7 @@ Links:
 Uma Keyword list tem algumas características importantes, como:
 	- Pode ter chaves duplicadas então não é estritamente uma estrutura de dados de chave-valor.
 	- Preserva a ordem dos elementos.
-	- Tem a performance de O(n) para buscas portante não deve ser usada para dados grandes.
+	- Tem a performance de O(n) para buscas portanto não deve ser usada para dados grandes.
 
 Ela é usada principalmente como parâmetros de funções (options) e configurações simples.
 
@@ -24,12 +24,15 @@ Exemplos de uso:
 x = [nome: "Lu", cidade: "Curitiba"]
 
 # Acessando seus valores
+
 # com colchetes
 x[:nome] # => "Lu"
 x[:idade] # => nil (chave não existe)
+
 #com get
 Keyword.get(x, :nome) # => "Lu"
 Keyword.get(x, :idade) #=> 0 (default)
+
 # com fetch
 Keyword.fetch!(x, :nome) # => "Lu"
 Keyword.fetch!(x, :idade) # => (KeyError) key :idade not found

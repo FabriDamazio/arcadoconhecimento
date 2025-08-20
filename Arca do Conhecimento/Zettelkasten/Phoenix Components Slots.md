@@ -1,7 +1,7 @@
 ---
 Criado: 2024-12-06T09:21
 Atualizado: 2025-05-23T16:57
-Estudado: 2025-07-18T11:02
+Estudado: 2025-08-20T11:47:00
 Links:
   - "[[Phoenix Component]]"
 ---
