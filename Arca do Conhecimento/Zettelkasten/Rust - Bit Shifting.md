@@ -8,9 +8,10 @@ Links:
 ---
 # Rust - Bit Shifting
 
-Operações de shift (deslocamento) são operadores que movem os bits de um número inteiro para a esquerda ou direita. Em Rust, existem dois tipos principais:
+Operações de shift (deslocamento) são operadores que movem  bits de um número inteiro para a esquerda ou direita. Em Rust, existem dois tipos principais:
 
 ### Shift Left (<<)
+
 Desloca os bits para a esquerda, preenchendo com zeros à direita:
 ```rust
 let x = 5; // 101 em binário = 5 em decimal
@@ -18,6 +19,7 @@ let y = x << 1; // 1010 em binário = 10 em decimal
 ```
 
 ### Shift Right (>>)
+
 Desloca os bits para a direita. Com inteiros sem sinal (u8, u16, etc.), preenche com zeros à esquerda.  Com inteiros com sinal (i8, i16, etc.), replica o bit de sinal (arithmetic shift):
 ```rust
 let x = 10; // 1010 em binário = 10 em decimal
