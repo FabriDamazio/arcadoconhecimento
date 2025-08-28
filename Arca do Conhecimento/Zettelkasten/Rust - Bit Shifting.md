@@ -3,7 +3,7 @@ Criado: 2025-08-23T09:56
 Atualizado: 2025-08-23T09:56
 Estudado: 2025-08-23T09:56
 Links:
-  - "[[Rust language]]"
+  - "[[Rust - Operações Bitwise (bit a bit)]]"
 ---
 ---
 # Rust - Bit Shifting
