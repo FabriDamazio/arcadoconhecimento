@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-22T17:07
 Atualizado: 2025-06-22T17:07
-Estudado: 2025-07-18T11:14
+Estudado: 2025-08-29T09:34:00
 Links:
   - "[[Godot Engine]]"
   - "[[Iluminação em jogos digitais]]"

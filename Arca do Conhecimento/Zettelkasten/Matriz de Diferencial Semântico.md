@@ -1,7 +1,7 @@
 ---
 Criado: 2024-11-19T13:01
 Atualizado: 2025-05-23T16:45
-Estudado: 2025-07-23T10:23
+Estudado: 2025-08-29T10:05:00
 Links:
   - "[[Técnicas para Avaliação do projeto de Design]]"
 ---

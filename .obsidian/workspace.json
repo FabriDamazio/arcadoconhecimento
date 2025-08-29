@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Notas semanais/3. Semana.md",
+                "file": "Arca do Conhecimento/Dataviews/Visão geral sobre as notas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Semana"
+              "title": "Visão geral sobre as notas"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "Rust - Bit Shifting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.50260543823242
+    "width": 218.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "adc18d5285d44599",
@@ -214,34 +214,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ef7f39238ef47c06",
+  "active": "0a4e525658e58a9b",
   "lastOpenFiles": [
-    "Arca do Conhecimento/Zettelkasten/Rust - Bit Shifting.md",
-    "Arca do Conhecimento/Zettelkasten/Rust - Operações Bitwise (bit a bit).md",
-    "Arca do Conhecimento/Zettelkasten/Elixir - Operações Bitwise (bit a bit).md",
-    "Pessoal/Notas semanais/3. Semana.md",
-    "Pessoal/Notas semanais/2. Semana.md",
-    "Pessoal/Notas semanais/1. Semana.md",
+    "Arca do Conhecimento/Zettelkasten/Contraste das cores.md",
     "Arca do Conhecimento/Dataviews/Visão geral sobre as notas.md",
-    "Arca do Conhecimento/Zettelkasten/Godot - Iluminação (lighting).md",
-    "Arca do Conhecimento/Zettelkasten/Elixir - Bitstring.md",
-    "Arca do Conhecimento/Zettelkasten/Metaprogramming em Elixir.md",
-    "Arca do Conhecimento/Zettelkasten/Elixir - AST  (Abstract Syntax Tree).md",
-    "Arca do Conhecimento/Zettelkasten/CRC Pattern.md",
-    "Arca do Conhecimento/Zettelkasten/Phoenix Components Slots.md",
-    "Arca do Conhecimento/Zettelkasten/Tratamento de eventos na LiveView.md",
-    "Arca do Conhecimento/Zettelkasten/Atributos do Phoenix Component.md",
-    "Arca do Conhecimento/Zettelkasten/Phoenix Component.md",
-    "Arca do Conhecimento/Zettelkasten/Phoenix LiveView.md",
-    "Arca do Conhecimento/Zettelkasten/Elixir - Recursão.md",
-    "Arca do Conhecimento/Zettelkasten/HEEx templates.md",
-    "Arca do Conhecimento/Zettelkasten/EEx.md",
-    "Arca do Conhecimento/Zettelkasten/Elixir - Guards.md",
-    "Arca do Conhecimento/Zettelkasten/Elixir - Keyword list.md",
-    "Arca do Conhecimento/Zettelkasten/Rust - Enum.md",
-    "Arca do Conhecimento/Zettelkasten/Rust - Option enum.md",
-    "Arca do Conhecimento/Zettelkasten/Temperatura da cor.md",
-    "Arca do Conhecimento/Zettelkasten/Sistema Pantone.md",
+    "Arca do Conhecimento/Zettelkasten/Equilíbrio na composição visual.md",
+    "Arca do Conhecimento/Zettelkasten/Composição visual.md",
+    "Arca do Conhecimento/Zettelkasten/Tipografia.md",
+    "Arca do Conhecimento/Zettelkasten/Percepção cromática na composição visual.md",
+    "Arca do Conhecimento/Zettelkasten/Proporção áurea na composição visual.md",
+    "Arca do Conhecimento/Zettelkasten/Game Design.md",
+    "Arca do Conhecimento/Zettelkasten/Função dos produtos.md",
+    "Arca do Conhecimento/Zettelkasten/Design Thinking.md",
+    "Arca do Conhecimento/Zettelkasten/Brain Dumping.md",
+    "Arca do Conhecimento/Zettelkasten/Brainstorming.md",
+    "Arca do Conhecimento/Zettelkasten/Mapa Mental.md",
+    "Arca do Conhecimento/Zettelkasten/Matriz morfológica.md",
+    "Arca do Conhecimento/Zettelkasten/MESCRAI (SCAMPER).md",
+    "Arca do Conhecimento/Zettelkasten/Técnica 635.md",
+    "Arca do Conhecimento/Zettelkasten/Técnicas e ferramentas no processo criativo.md",
+    "Arca do Conhecimento/Zettelkasten/Detalhamento do projeto de Design.md",
+    "Arca do Conhecimento/Zettelkasten/Matriz de Decisão.md",
+    "Arca do Conhecimento/Zettelkasten/Matriz de Diferencial Semântico.md",
+    "Arca do Conhecimento/Zettelkasten/Representação bidimensional no Design.md",
+    "Arca do Conhecimento/Zettelkasten/Representação tridimensional no Design.md",
+    "Arca do Conhecimento/Zettelkasten/Técnicas para Avaliação do projeto de Design.md",
+    "Arca do Conhecimento/Zettelkasten/Design.md",
+    "Arca do Conhecimento/Zettelkasten/Protótipos.md",
+    "Arca do Conhecimento/Zettelkasten/Geometria dos Hexágonos.md",
     "Pessoal/Notas semanais/old",
     "Arca do Conhecimento/Files/hex16.png",
     "Arca do Conhecimento/Files/hex15.png",

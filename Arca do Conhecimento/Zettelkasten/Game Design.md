@@ -1,7 +1,7 @@
 ---
 Criado: 2025-01-02T11:02
 Atualizado: 2025-05-23T16:38
-Estudado: 2025-07-23T10:52
+Estudado: 2025-08-29T10:24:00
 Links:
   - "[[Design]]"
 ---
@@ -14,13 +14,10 @@ O designer de jogos atua como o arquiteto da experiência lúdica, equilibrando 
 
 O game design pode abranger diversos aspectos, incluindo:
 
-    Mecânicas de jogo (como o jogador interage com o sistema)
-
-    Dinâmicas emergentes (como essas interações se desenvolvem)
-
-    Estética (a experiência emocional do jogador)
-
-    Progressão e aprendizado
+- Mecânicas de jogo (como o jogador interage com o sistema)
+- Dinâmicas emergentes (como essas interações se desenvolvem)
+- Estética (a experiência emocional do jogador)
+- Progressão e aprendizado
 
 Este campo interdisciplinar combina conhecimento de narrativa, psicologia, interação humana e tecnologia.
 

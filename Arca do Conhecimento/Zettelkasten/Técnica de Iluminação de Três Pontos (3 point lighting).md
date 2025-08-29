@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-22T18:05
 Atualizado: 2025-06-22T18:05
-Estudado: 2025-07-18T11:12
+Estudado: 2025-08-29T09:41:00
 Links:
   - "[[Iluminação em jogos digitais]]"
 ---
