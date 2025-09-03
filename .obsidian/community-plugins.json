@@ -1,5 +1,6 @@
 [
   "dataview",
   "obsidian-excalidraw-plugin",
-  "shiki-highlighter"
+  "shiki-highlighter",
+  "obsidian-relative-line-numbers"
 ]

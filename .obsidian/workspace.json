@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arca do Conhecimento/Dataviews/Visão geral sobre as notas.md",
+                "file": "Pessoal/Notas semanais/4. Semana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Visão geral sobre as notas"
+              "title": "4. Semana"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "Rust - Bit Shifting"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.50260543823242,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "adc18d5285d44599",
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pessoal/Planejamento.md",
+                "file": "Pessoal/Notas semanais/4. Semana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Planejamento"
+              "title": "Backlinks for 4. Semana"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pessoal/Planejamento.md",
+                "file": "Pessoal/Notas semanais/4. Semana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Planejamento"
+              "title": "Outgoing links from 4. Semana"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pessoal/Planejamento.md",
+                "file": "Pessoal/Notas semanais/4. Semana.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Planejamento"
+              "title": "Outline of 4. Semana"
             }
           }
         ],
@@ -214,10 +214,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0a4e525658e58a9b",
+  "active": "ef7f39238ef47c06",
   "lastOpenFiles": [
-    "Arca do Conhecimento/Zettelkasten/Contraste das cores.md",
+    "Pessoal/Notas semanais/4. Semana.md",
+    "Pessoal/Notas semanais/3. Semana.md",
     "Arca do Conhecimento/Dataviews/Visão geral sobre as notas.md",
+    "Arca do Conhecimento/Zettelkasten/Contraste das cores.md",
     "Arca do Conhecimento/Zettelkasten/Equilíbrio na composição visual.md",
     "Arca do Conhecimento/Zettelkasten/Composição visual.md",
     "Arca do Conhecimento/Zettelkasten/Tipografia.md",
@@ -240,8 +242,6 @@
     "Arca do Conhecimento/Zettelkasten/Representação tridimensional no Design.md",
     "Arca do Conhecimento/Zettelkasten/Técnicas para Avaliação do projeto de Design.md",
     "Arca do Conhecimento/Zettelkasten/Design.md",
-    "Arca do Conhecimento/Zettelkasten/Protótipos.md",
-    "Arca do Conhecimento/Zettelkasten/Geometria dos Hexágonos.md",
     "Pessoal/Notas semanais/old",
     "Arca do Conhecimento/Files/hex16.png",
     "Arca do Conhecimento/Files/hex15.png",
