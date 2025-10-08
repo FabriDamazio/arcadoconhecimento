@@ -1,7 +1,7 @@
 ---
 Criado: 2025-01-26T14:13
 Atualizado: 2025-05-23T17:29
-Estudado: 2025-07-23T15:09
+Estudado: 2025-09-03T15:40:00
 Links:
   - "[[Padrões para resolver problemas de algoritmos e estrutura de dados]]"
 ---

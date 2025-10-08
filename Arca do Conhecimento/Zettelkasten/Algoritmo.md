@@ -1,7 +1,7 @@
 ---
 Criado: 2025-01-19T11:39:00
 Atualizado: 2025-05-23T13:00:00
-Estudado: 2025-07-23T15:05
+Estudado: 2025-09-03T15:40:00
 Links:
   - "[[Programação de computadores]]"
 ---
@@ -12,7 +12,7 @@ Um algoritmo é uma sequência de instruções para realizar uma determinada tar
 
 Um algoritmo possui:
 
-- Entrada (input): podem possui zero ou mais entradas.
+- Entrada (input): podem possuir zero ou mais entradas.
 - Saída (Output): pelo menos uma saída.
 - Passos (steps): passos claros e não ambíguos.
 - Controle de fluxo (control flow): controla o fluxo da execução dos passos.

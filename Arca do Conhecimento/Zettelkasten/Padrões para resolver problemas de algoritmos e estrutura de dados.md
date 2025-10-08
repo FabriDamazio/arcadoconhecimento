@@ -1,7 +1,7 @@
 ---
 Criado: 2025-01-26T14:10
 Atualizado: 2025-05-23T16:50
-Estudado: 2025-07-23T15:06
+Estudado: 2025-09-03T15:40:00
 Links:
   - "[[Algoritmo]]"
 ---

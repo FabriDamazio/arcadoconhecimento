@@ -1,7 +1,7 @@
 ---
 Criado: 2025-06-14T11:16
 Atualizado: 2025-06-14T11:16
-Estudado: 2025-07-23T10:57
+Estudado: 2025-09-03T15:39:00
 Links:
   - "[[Game Design]]"
 ---
