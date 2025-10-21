@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "0ca8c686df1d3a3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "765baafb726224f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3620512bc4b7c60",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Files/Classificação das cores3.png"
+              },
+              "icon": "lucide-image",
+              "title": "Classificação das cores3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4beef76a74b0a870",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e5366fa91a2e985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cb83c4a1239daaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "730fa38926053cf6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5ac6e7f8ecc45a37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc3770e774de9f84",
+    "type": "split",
+    "children": [
+      {
+        "id": "22ee02fe4a906f3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "582ee2c9262be37a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Files/Classificação das cores3.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Classificação das cores3"
+            }
+          },
+          {
+            "id": "bb1d7c981cc4061e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Files/Classificação das cores3.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Classificação das cores3"
+            }
+          },
+          {
+            "id": "2ae1da90fad69107",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bb8c7002ee960b1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Files/Classificação das cores3.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Classificação das cores3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c3620512bc4b7c60",
+  "lastOpenFiles": [
+    "Files/Classificação das cores2.png",
+    "Files/Classificação das cores1.png",
+    "Dataviews/Visão geral sobre as notas.md"
+  ]
+}
