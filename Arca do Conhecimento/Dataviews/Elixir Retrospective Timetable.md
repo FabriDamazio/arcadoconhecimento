@@ -1,9 +1,14 @@
-Níveis: 🔴 🟡 🟠 🔵 🟢
+Níveis: 
+🔴 não compreendo (não consigo explicar e não pratico)
+🟡 compreensão básica (explico superficialmente mas não aplico com confiança)
+🟠 compreensão intermediária (explico o conceito, aplico com consulta)
+🔵 compreensão sólida (compreendo e aplico naturalmente)
+🟢 domínio total (compreendo, aplico e ensino)
 
 | Conceito                                    | Última revisão | Nível |
 | :------------------------------------------ | :------------: | :---: |
 | **TIPOS BÁSICOS**                           |                |       |
-| Integers e floats                           |                |       |
+| Integers e floats                           |   10/27/2025   |  🟠   |
 | Atoms                                       |                |       |
 | Strings e interpolação                      |                |       |
 | Charlists                                   |                |       |
@@ -70,7 +75,7 @@ Níveis: 🔴 🟡 🟠 🔵 🟢
 | Formatação de código (mix format)           |                |       |
 | Livebook                                    |                |       |
 | Credo e dialyzer                            |                |       |
-## As últimas 30 notas sobre Elixir estudadas
+## As 30 notas sobre Elixir que foram estudadas há mais tempo
 ```dataview
 table without id
 	file.link as "Título", dateformat(Estudado, "dd/MM/yyyy") as "Estudado em"

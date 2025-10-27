@@ -43,8 +43,7 @@ Níveis: 🔴 🟡 🟠 🔵 🟢
 | Advanced types                     |                |       |
 | Advanced functions e closures      |                |       |
 | Macros                             |                |       |
-
-## As últimas 30 notas sobre Rust estudadas
+## As 30 notas sobre Rust que foram estudadas há mais tempo
 ```dataview
 table without id
 	file.link as "Título", dateformat(Estudado, "dd/MM/yyyy") as "Estudado em"

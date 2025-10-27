@@ -54,7 +54,7 @@ Níveis: 🔴 🟡 🟠 🔵 🟢
 | **OTHERS**                          |                |       |
 | Generators                          |                |       |
 
-## As últimas 30 notas sobre Phoenix estudadas
+## As 30 notas sobre Phoenix que foram estudadas há mais tempo
 ```dataview
 table without id
 	file.link as "Título", dateformat(Estudado, "dd/MM/yyyy") as "Estudado em"
