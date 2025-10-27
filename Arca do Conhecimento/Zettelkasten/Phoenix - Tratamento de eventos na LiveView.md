@@ -3,10 +3,9 @@ Criado: 2024-11-28T20:23
 Atualizado: 2025-05-23T17:29
 Estudado: 2025-08-20T11:46:00
 Links:
-  - "[[Phoenix LiveView]]"
+  - "[[Phoenix - LiveView]]"
 tags:
-  - elixir
-  - programação
+  - phoenix
 ---
 ---
 # Tratamento de eventos na LiveView

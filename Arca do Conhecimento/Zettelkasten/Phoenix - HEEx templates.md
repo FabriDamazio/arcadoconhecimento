@@ -6,7 +6,7 @@ Links:
   - "[[Phoenix Framework]]"
   - "[[EEx]]"
 tags:
-  - elixir
+  - phoenix
 ---
 ---
 # HEEx templates

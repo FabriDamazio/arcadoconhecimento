@@ -4,11 +4,10 @@ Atualizado: 2025-05-23T16:56
 Estudado: 2025-08-20T11:35:00
 Links:
   - "[[Phoenix Framework]]"
-  - "[[Atributos do Phoenix Component]]"
-  - "[[Phoenix Components Slots]]"
+  - "[[Phoenix - Atributos do Phoenix Component]]"
+  - "[[Phoenix - Components Slots]]"
 tags:
-  - elixir
-  - programação
+  - phoenix
 ---
 ---
 # Phoenix Component

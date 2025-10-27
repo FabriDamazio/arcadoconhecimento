@@ -3,9 +3,9 @@ Criado: 2024-12-04T19:38
 Atualizado: 2025-05-23T13:10
 Estudado: 2025-08-20T11:36:00
 Links:
-  - "[[Phoenix Component]]"
+  - "[[Phoenix - Component]]"
 tags:
-  - elixir
+  - phoenix
 ---
 ---
 # Atributos do Phoenix Component

@@ -5,8 +5,7 @@ Estudado: 2025-08-06T11:37
 Links:
   - "[[Phoenix Framework]]"
 tags:
-  - elixir
-  - programação
+  - phoenix
 ---
 ---
 # Phoenix - Routes, Plugs e Pipelines

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arca do Conhecimento/Dataviews/Visão geral sobre as notas.md",
+                "file": "Arca do Conhecimento/Dataviews/Elixir Retrospective Timetable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Visão geral sobre as notas"
+              "title": "Elixir Retrospective Timetable"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 384.5
   },
   "right": {
     "id": "adc18d5285d44599",
@@ -171,13 +171,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a48002472aa57e34",
+  "active": "e540738ba89cfacb",
   "lastOpenFiles": [
+    "Arca do Conhecimento/Dataviews/Phoenix Retrospective Timetable.md",
+    "Arca do Conhecimento/Zettelkasten/Phoenix - Tratamento de eventos na LiveView.md",
+    "Arca do Conhecimento/Zettelkasten/Phoenix - LiveView.md",
+    "Arca do Conhecimento/Zettelkasten/Phoenix Framework.md",
+    "Arca do Conhecimento/Zettelkasten/Phoenix - Components Slots.md",
+    "Arca do Conhecimento/Zettelkasten/Phoenix - Component.md",
+    "Arca do Conhecimento/Zettelkasten/Phoenix - Routes, Plugs e Pipelines.md",
+    "Arca do Conhecimento/Zettelkasten/Phoenix - HEEx templates.md",
+    "Arca do Conhecimento/Zettelkasten/Phoenix - Controller.md",
+    "Arca do Conhecimento/Zettelkasten/Phoenix - Atributos do Phoenix Component.md",
+    "Arca do Conhecimento/Dataviews/Rust Retrospective Timetable.md",
+    "Arca do Conhecimento/Dataviews/Elixir Retrospective Timetable.md",
+    "Arca do Conhecimento/Dataviews/Visão geral sobre as notas.md",
     "README.md",
     "Arca do Conhecimento/Zettelkasten/UV Mapping.md",
     "Arca do Conhecimento/Zettelkasten/Two pointers.md",
     "Arca do Conhecimento/Zettelkasten/Untitled.base",
-    "Arca do Conhecimento/Zettelkasten/Tratamento de eventos na LiveView.md",
     "Arca do Conhecimento/Zettelkasten/Tipografia.md",
     "Arca do Conhecimento/Zettelkasten/Texturas em jogos 3D.md",
     "Arca do Conhecimento/Zettelkasten/Temperatura da cor.md",
@@ -188,18 +200,6 @@
     "Arca do Conhecimento/Zettelkasten/Stack (pilha).md",
     "Arca do Conhecimento/Zettelkasten/SQL - Dates.md",
     "Arca do Conhecimento/Zettelkasten/SQL - comando WHERE.md",
-    "Arca do Conhecimento/Zettelkasten/SQL - comando SELECT.md",
-    "Arca do Conhecimento/Zettelkasten/SQL - comando ORDER BY.md",
-    "Arca do Conhecimento/Zettelkasten/SQL - comando DISTINCT.md",
-    "Arca do Conhecimento/Zettelkasten/SQL.md",
-    "Arca do Conhecimento/Zettelkasten/Sistemas de Coordenadas para Grids Hexagonais.md",
-    "Arca do Conhecimento/Zettelkasten/Sistemas de Coordenadas em Jogos.md",
-    "Arca do Conhecimento/Zettelkasten/Sistemas Cromáticos.md",
-    "Arca do Conhecimento/Zettelkasten/Sistema RGB.md",
-    "Arca do Conhecimento/Zettelkasten/Sistema Pantone.md",
-    "Arca do Conhecimento/Zettelkasten/Sistema de Mensageria (Message Broker).md",
-    "Arca do Conhecimento/Zettelkasten/Sistema de coordenadas Cube.md",
-    "Arca do Conhecimento/Zettelkasten/Sistema CMYK.md",
     "Pessoal/Notas semanais/old",
     "Arca do Conhecimento/Files/hex16.png",
     "Arca do Conhecimento/Files/hex15.png",

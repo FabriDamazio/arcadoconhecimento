@@ -5,8 +5,7 @@ Estudado: 2025-08-06T11:36
 Links:
   - "[[Phoenix Framework]]"
 tags:
-  - elixir
-  - programação
+  - phoenix
 ---
 ---
 # Phoenix - Controller

@@ -3,10 +3,9 @@ Criado: 2024-12-06T09:21
 Atualizado: 2025-05-23T16:57
 Estudado: 2025-08-20T11:47:00
 Links:
-  - "[[Phoenix Component]]"
+  - "[[Phoenix - Component]]"
 tags:
-  - elixir
-  - programação
+  - phoenix
 ---
 ---
 # Phoenix Components Slots

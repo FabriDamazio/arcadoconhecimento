@@ -5,8 +5,7 @@ Estudado: 2025-08-20T11:34:00
 Links:
   - "[[Phoenix Framework]]"
 tags:
-  - elixir
-  - programação
+  - phoenix
 ---
 ---
 # Phoenix LiveView
