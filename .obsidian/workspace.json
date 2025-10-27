@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "cde5cf333dcc69d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7331ad88a5414d28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e540738ba89cfacb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arca do Conhecimento/Dataviews/Visão geral sobre as notas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Visão geral sobre as notas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ce6d2536d6f0196",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dde14732c7146d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a48002472aa57e34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8ebd435d42ae5926",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c07a053b6a80a136",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "adc18d5285d44599",
+    "type": "split",
+    "children": [
+      {
+        "id": "f86b0b8d97779a72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91fe2b6646430b52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pessoal/Notas semanais/4. Semana.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4. Semana"
+            }
+          },
+          {
+            "id": "0555296ba4dcc1b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pessoal/Notas semanais/4. Semana.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4. Semana"
+            }
+          },
+          {
+            "id": "4d9b8d8b8f4edd36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "34630c2434c2727c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pessoal/Notas semanais/4. Semana.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4. Semana"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "a48002472aa57e34",
+  "lastOpenFiles": [
+    "README.md",
+    "Arca do Conhecimento/Zettelkasten/UV Mapping.md",
+    "Arca do Conhecimento/Zettelkasten/Two pointers.md",
+    "Arca do Conhecimento/Zettelkasten/Untitled.base",
+    "Arca do Conhecimento/Zettelkasten/Tratamento de eventos na LiveView.md",
+    "Arca do Conhecimento/Zettelkasten/Tipografia.md",
+    "Arca do Conhecimento/Zettelkasten/Texturas em jogos 3D.md",
+    "Arca do Conhecimento/Zettelkasten/Temperatura da cor.md",
+    "Arca do Conhecimento/Zettelkasten/Técnicas para Avaliação do projeto de Design.md",
+    "Arca do Conhecimento/Zettelkasten/Técnicas e ferramentas no processo criativo.md",
+    "Arca do Conhecimento/Zettelkasten/Técnica de Iluminação de Três Pontos (3 point lighting).md",
+    "Arca do Conhecimento/Zettelkasten/Técnica 635.md",
+    "Arca do Conhecimento/Zettelkasten/Stack (pilha).md",
+    "Arca do Conhecimento/Zettelkasten/SQL - Dates.md",
+    "Arca do Conhecimento/Zettelkasten/SQL - comando WHERE.md",
+    "Arca do Conhecimento/Zettelkasten/SQL - comando SELECT.md",
+    "Arca do Conhecimento/Zettelkasten/SQL - comando ORDER BY.md",
+    "Arca do Conhecimento/Zettelkasten/SQL - comando DISTINCT.md",
+    "Arca do Conhecimento/Zettelkasten/SQL.md",
+    "Arca do Conhecimento/Zettelkasten/Sistemas de Coordenadas para Grids Hexagonais.md",
+    "Arca do Conhecimento/Zettelkasten/Sistemas de Coordenadas em Jogos.md",
+    "Arca do Conhecimento/Zettelkasten/Sistemas Cromáticos.md",
+    "Arca do Conhecimento/Zettelkasten/Sistema RGB.md",
+    "Arca do Conhecimento/Zettelkasten/Sistema Pantone.md",
+    "Arca do Conhecimento/Zettelkasten/Sistema de Mensageria (Message Broker).md",
+    "Arca do Conhecimento/Zettelkasten/Sistema de coordenadas Cube.md",
+    "Arca do Conhecimento/Zettelkasten/Sistema CMYK.md",
+    "Pessoal/Notas semanais/old",
+    "Arca do Conhecimento/Files/hex16.png",
+    "Arca do Conhecimento/Files/hex15.png",
+    "Arca do Conhecimento/Files/hex14.png",
+    "Arca do Conhecimento/Files/hex13.png",
+    "Arca do Conhecimento/Files/hex12.png",
+    "Arca do Conhecimento/Files/hex11.png",
+    "Arca do Conhecimento/Files/hex9.png",
+    "Arca do Conhecimento/Files/hex8.png",
+    "Arca do Conhecimento/Files/hex7.png",
+    "Arca do Conhecimento/Files/hex6.png",
+    "Pessoal/Notas semanais",
+    "Pessoal/Notas diarias",
+    "Pessoal",
+    "Excalidraw",
+    "Arca do Conhecimento/Dataviews"
+  ]
+}
