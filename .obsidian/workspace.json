@@ -8,34 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a38ba4905932d225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arca do Conhecimento/Dataviews/Elixir Retrospective Timetable.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elixir Retrospective Timetable"
-            }
-          },
-          {
             "id": "25d38e28d3997681",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arca do Conhecimento/Dataviews/Elixir Retrospective Timetable.md",
+                "file": "Arca do Conhecimento/Dataviews/Rust Retrospective Timetable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elixir Retrospective Timetable"
+              "title": "Rust Retrospective Timetable"
+            }
+          },
+          {
+            "id": "029a8a6ffabd3c4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arca do Conhecimento/Zettelkasten/Rust - Slice type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rust - Slice type"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "right": {
     "id": "adc18d5285d44599",
@@ -185,11 +187,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a38ba4905932d225",
+  "active": "029a8a6ffabd3c4a",
   "lastOpenFiles": [
-    "Arca do Conhecimento/Dataviews/Visão geral sobre as notas.md",
+    "Arca do Conhecimento/Zettelkasten/Rust - Array.md",
+    "Arca do Conhecimento/Zettelkasten/Rust - Statements e Expressions.md",
+    "Arca do Conhecimento/Zettelkasten/Rust - Integers type (inteiros).md",
+    "Arca do Conhecimento/Zettelkasten/Rust - Character type.md",
+    "Arca do Conhecimento/Zettelkasten/Rust - Tupla.md",
+    "Arca do Conhecimento/Zettelkasten/Rust - Tipos de dados.md",
     "Arca do Conhecimento/Dataviews/Rust Retrospective Timetable.md",
     "Arca do Conhecimento/Dataviews/Elixir Retrospective Timetable.md",
+    "Arca do Conhecimento/Dataviews/Visão geral sobre as notas.md",
     "Arca do Conhecimento/Zettelkasten/Rust - Variáveis.md",
     "Arca do Conhecimento/Zettelkasten/Elixir - Integer e Floats.md",
     "Arca do Conhecimento/Dataviews/Phoenix Retrospective Timetable.md",
@@ -207,13 +215,7 @@
     "Arca do Conhecimento/Zettelkasten/Phoenix - Atributos do Phoenix Component.md",
     "README.md",
     "Arca do Conhecimento/Zettelkasten/UV Mapping.md",
-    "Arca do Conhecimento/Zettelkasten/Two pointers.md",
     "Arca do Conhecimento/Zettelkasten/Untitled.base",
-    "Arca do Conhecimento/Zettelkasten/Tipografia.md",
-    "Arca do Conhecimento/Zettelkasten/Texturas em jogos 3D.md",
-    "Arca do Conhecimento/Zettelkasten/Temperatura da cor.md",
-    "Arca do Conhecimento/Zettelkasten/Técnicas para Avaliação do projeto de Design.md",
-    "Arca do Conhecimento/Zettelkasten/Técnicas e ferramentas no processo criativo.md",
     "Pessoal/Notas semanais/old",
     "Arca do Conhecimento/Files/hex16.png",
     "Arca do Conhecimento/Files/hex15.png",

@@ -1,7 +1,7 @@
 ---
 Criado: 2025-07-10T15:30
-Atualizado: 2025-07-10T15:30
-Estudado: 2025-08-13T16:14
+Atualizado: 2025-10-29T15:30:00
+Estudado: 2025-10-29T16:14:00
 Links:
   - "[[Rust - Tipos de dados]]"
 tags:
@@ -25,23 +25,23 @@ Slice é um tipo composto representado por `[T]` que permite que uma sequência 
 ```rust
 // Criando um slice
 let a = [1, 2, 3, 4, 5];
-let slice: &[i32] = &[1..4];
-println!(":?", slice); // output: [2, 3, 4]
+let slice: &[i32] = &a[1..4];
+println!("{:?}", slice); // output: [2, 3, 4]
 
 // Pode ser omitido o primeiro index caso comeco do zero
 let s = String::from("Hello World");
-let slice = &[..5];
-println!(":?", slice); // output: "Hello"
+let slice = &s[..5];
+println!("{:?}", slice); // output: "Hello"
 
 // Pode ser omitido o último index caso queira até o último elemento
 let s = String::from("Hello");
-let slice = &[0..];
-println!(":?", slice); // output: "Hello"
+let slice = &s[0..];
+println!("{:?}", slice); // output: "Hello"
 
 // Ambos podem ser omitidos caso queira todos elementos
 let s = String::from("Hello");
-let slice = &[..];
-println!(":?", slice); // output: "Hello"
+let slice = &s[..];
+println!("{:?}", slice); // output: "Hello"
 ```
 
 ---
