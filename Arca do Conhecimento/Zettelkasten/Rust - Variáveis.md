@@ -1,7 +1,7 @@
 ---
 Criado: 2025-05-29T11:35
-Atualizado: 2025-05-29T11:35
-Estudado: 2025-08-13T16:14
+Atualizado: 2025-10-29T11:35:00
+Estudado: 2025-10-29T16:14:00
 Links:
   - "[[Rust language]]"
 tags:
@@ -16,6 +16,7 @@ Na linguagem Rust as variáveis são imutáveis por padrão. Elas podem ser mut�
 ```rust
 let x = 2; // imutável
 let mut y = 3; // mutável
+let z : i32 = 5; // variável com tipo explícito
 ```
 
 Ao tentar atribuir um novo valor a uma variável imutável, temos um erro de compilação

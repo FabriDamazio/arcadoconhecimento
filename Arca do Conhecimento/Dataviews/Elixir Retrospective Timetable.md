@@ -8,7 +8,7 @@ Níveis:
 | Conceito                                    | Última revisão | Nível |
 | :------------------------------------------ | :------------: | :---: |
 | **TIPOS BÁSICOS**                           |                |       |
-| Integers e floats                           |   10/27/2025   |  🟠   |
+| Integers e floats                           |   29/10/2025   |  🟠   |
 | Atoms                                       |                |       |
 | Strings e interpolação                      |                |       |
 | Charlists                                   |                |       |

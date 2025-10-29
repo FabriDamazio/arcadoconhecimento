@@ -1,7 +1,7 @@
 ---
 Criado: 2025-10-27T19:23
-Atualizado: 2025-10-27T19:23
-Estudado: 2025-10-27T19:23
+Atualizado: 2025-10-29T19:23:00
+Estudado: 2025-10-29T19:23:00
 Links:
   - "[[Elixir - Tipos de dados]]"
 tags:
@@ -93,12 +93,6 @@ Float.to_string(3.14)     # "3.14"
 
 # Float com precisão limitada
 0.1 + 0.2 # 0.30000000000000004 (comportamento padrão IEEE 754)
-
-# Pattern matching com números
-case 1 do
-  1 -> "integer"
-  1.0 -> "float"   # Nunca será atingido pois 1 == 1.0
-end
 ```
 
 ---

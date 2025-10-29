@@ -1,9 +1,14 @@
-Níveis: 🔴 🟡 🟠 🔵 🟢
+Níveis: 
+🔴 não compreendo (não consigo explicar e não pratico)
+🟡 compreensão básica (explico superficialmente mas não aplico com confiança)
+🟠 compreensão intermediária (explico o conceito, aplico com consulta)
+🔵 compreensão sólida (compreendo e aplico naturalmente)
+🟢 domínio total (compreendo, aplico e ensino)
 
 | Conceito                           | Última revisão | Nível |
 | :--------------------------------- | :------------: | :---: |
 | **FUNDAMENTOS**                    |                |       |
-| Variáveis e mutabilidade           |                |       |
+| Variáveis e mutabilidade           |   29/10/2025   |  🟡   |
 | Tipos de dados (scalar e compound) |                |       |
 | Funções                            |                |       |
 | Controle de fluxo (if, loops)      |                |       |
