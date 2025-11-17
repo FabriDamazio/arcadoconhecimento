@@ -9,7 +9,7 @@ tags:
   - rust
   - programação
 ---
----
+l---
 # Rust - Ownership
 
 O sistema de **ownership (propriedade)** é o mecanismo central de gerenciamento de memória em Rust. Ele permite que o compilador garanta **segurança de memória e ausência de vazamentos** sem precisar de garbage collector.

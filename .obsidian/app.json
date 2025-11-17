@@ -3,6 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Arca do Conhecimento/Zettelkasten",
   "attachmentFolderPath": "Arca do Conhecimento/Files",
-  "vimMode": true,
-  "showLineNumber": true
+  "vimMode": false,
+  "showLineNumber": false
 }

@@ -9,12 +9,12 @@ Níveis:
 | :--------------------------------- | :------------: | :---: |
 | **FUNDAMENTOS**                    |                |       |
 | Variáveis e mutabilidade           |   29/10/2025   |  🟡   |
-| Tipos de dados (scalar e compound) |                |       |
-| Funções                            |                |       |
-| Controle de fluxo (if, loops)      |                |       |
-| Ownership                          |                |       |
-| Borrowing                          |                |       |
-| Slices                             |                |       |
+| Tipos de dados (scalar e compound) |   29/10/2025   |  🟡   |
+| Funções                            |   29/10/2025   |  🟡   |
+| Controle de fluxo (if, loops)      |   29/10/2025   |  🟡   |
+| Ownership                          |   17/11/2025   |  🟡   |
+| Borrowing                          |   17/11/2025   |  🟡   |
+| Slices                             |   29/10/2025   |  🟡   |
 | **STRUCTS E ENUM**                 |                |       |
 | Strucs e impl blocks               |                |       |
 | Enum e Option T                    |                |       |
