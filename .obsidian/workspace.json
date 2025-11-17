@@ -49,8 +49,7 @@
               "title": "Elixir - Atoms"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,10 +199,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6cb169246e4268a0",
+  "active": "db7b302ce72d072e",
   "lastOpenFiles": [
-    "Arca do Conhecimento/Zettelkasten/Elixir - Tipos de dados.md",
     "Arca do Conhecimento/Zettelkasten/Elixir - Atoms.md",
+    "Arca do Conhecimento/Zettelkasten/Elixir - Tipos de dados.md",
     "Arca do Conhecimento/Zettelkasten/Rust - Ownership.md",
     "Arca do Conhecimento/Zettelkasten/Elixir Data Structures.md",
     "Arca do Conhecimento/Zettelkasten/Rust - Borrow Checker.md",
