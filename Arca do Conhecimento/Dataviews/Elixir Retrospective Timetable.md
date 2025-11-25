@@ -10,7 +10,7 @@ Níveis:
 | **TIPOS BÁSICOS**                           |                |       |
 | Integers e floats                           |   29/10/2025   |  🟠   |
 | Atoms                                       |   17/11/2025   |  🟠   |
-| Strings e interpolação                      |                |       |
+| Strings e interpolação                      |   25/11/2025   |  🟠   |
 | Charlists                                   |                |       |
 | Booleans e NIL                              |                |       |
 | Binários                                    |                |       |

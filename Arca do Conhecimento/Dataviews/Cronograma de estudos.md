@@ -12,4 +12,20 @@
 ## LOG Semanal
 
 **SEMANA 1 - 10/11/2025 a 16/11/2025**: R1 - R2 - R3 - F1 - F2
-**SEMANA 2 - 17/11/2025 a 23/11/2025**: R1 - 
+**SEMANA 2 - 17/11/2025 a 23/11/2025**: R1 - P1 - R2 - F1 - F2
+**SEMANA 3 - 24/11/2025 a 30/11/2025:** 
+
+
+## TODO 
+
+- [ ] Criar tabela do levantamento A3C
+- [ ] Treinamento obrigatório - atendimento ao cliente
+- [ ] 2 aulas curso tech academy
+- [ ] 1 hora de programacao Elixir
+
+
+- [x] 1 conceito de Elixir
+- [x] 20 min mandarim
+- [x] 20 min Mandarim
+- [x] 30 min de Rust CLI
+- [x] 1 conceito de Rust
