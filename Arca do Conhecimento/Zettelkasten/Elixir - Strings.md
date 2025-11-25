@@ -59,3 +59,8 @@ texto = "olá #{nome}"
 resultado = "O resultado é: #{2 + 2}"
 #=> O resultado é: 4
 ```
+
+---
+## References
+
+ELIXIR. **String**. In: __HexDocs__: Elixir documentation. Disponível em: https://hexdocs.pm/elixir/String.html. Acesso em: 25 nov. 2025.
